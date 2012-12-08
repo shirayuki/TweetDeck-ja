@@ -116,6 +116,9 @@
    "Aug": {
       "message": "8月"
    },
+   "Author": {
+      "message": "投稿者"
+   },
    "Back": {
       "message": "戻る"
    },
@@ -151,6 +154,9 @@
    },
    "Columns": {
       "message": "カラム"
+   },
+   "Columnsize": {
+      "message": "カラムのサイズ:"
    },
    "Comment": {
       "message": "コメント"
@@ -248,6 +254,9 @@
    "Feb": {
       "message": "2月"
    },
+   "Filter": {
+      "message": "フィルター"
+   },
    "Follow": {
       "message": "フォロー"
    },
@@ -262,6 +271,9 @@
    },
    "Followingyou": {
       "message": "あなたをフォロー中"
+   },
+   "Fontsize": {
+      "message": "文字のサイズ:"
    },
    "FriendsCheckins": {
       "message": "友だちのチェックイン"
@@ -386,6 +398,9 @@
    "Name": {
       "message": "名前"
    },
+   "Narrow": {
+      "message": "狭い"
+   },
    "NewsFeed": {
       "message": "ニュース フィード"
    },
@@ -449,6 +464,9 @@
    "Postingfrom": {
       "message": "Posting from"
    },
+   "Previewmediaincolumns": {
+      "message": "カラム内で画像/動画をプレビュー"
+   },
    "Privacy": {
       "message": "プライバシー"
    },
@@ -479,6 +497,9 @@
    "RegisteringunsuccessfulPleasecheckyouremailpassword": {
       "message": "登録に失敗しました。メールとパスワードを確認してください"
    },
+   "Regular": {
+      "message": "普通"
+   },
    "Remove": {
       "message": "削除"
    },
@@ -505,6 +526,9 @@
    },
    "ResetAll": {
       "message": "すべてリセット"
+   },
+   "ResetTweetDeckPassword": {
+      "message": "TweetDeck のパスワードを再設定"
    },
    "Retweet": {
       "message": "リツイート"
@@ -584,6 +608,9 @@
    "SharepagewithTweetDeck": {
       "message": "TweetDeck でページを共有"
    },
+   "Shownotificationsonstartup": {
+      "message": "開始時に通知を表示"
+   },
    "ShowTwitterprofilefors": {
       "message": "%s さんの Twitter プロフィールを表示"
    },
@@ -611,6 +638,9 @@
    "Sound": {
       "message": "サウンド"
    },
+   "Source": {
+      "message": "ソース"
+   },
    "Staysignedin": {
       "message": "ログイン状態を維持"
    },
@@ -625,6 +655,9 @@
    },
    "TermsofService": {
       "message": "サービス利用規約"
+   },
+   "Textcontent": {
+      "message": "本文"
    },
    "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
@@ -655,6 +688,9 @@
    },
    "Tweets": {
       "message": "ツイート"
+   },
+   "TwitterStreaming": {
+      "message": "Twitter ストリーミング"
    },
    "TwitterUsers": {
       "message": "Twitter ユーザー"
