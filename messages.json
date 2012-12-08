@@ -1,0 +1,716 @@
+{
+   "1FBPage": {
+      "message": "{{1}} (Facebook ページ)"
+   },
+   "1Profile": {
+      "message": "{{1}} プロフィール"
+   },
+   "1days": {
+      "message": "{{1}} 日"
+   },
+   "1favorited": {
+      "message": "{{1}} さんがお気に入りに登録"
+   },
+   "1hour": {
+      "message": "1 時間"
+   },
+   "1hours": {
+      "message": "{{1}} 時間"
+   },
+   "1m": {
+      "message": "{{1}}分"
+   },
+   "1members": {
+      "message": "{{1}} 人のメンバー"
+   },
+   "1min": {
+      "message": "1 分"
+   },
+   "1mins": {
+      "message": "{{1}} 分"
+   },
+   "1more2": {
+      "message": "{{1}} more {{2}}"
+   },
+   "1sLists": {
+      "message": "{{1}} さんのリスト"
+   },
+   "1week": {
+      "message": "1 週間"
+   },
+   "1weeks": {
+      "message": "{{1}} 週間"
+   },
+   "AM": {
+      "message": "午前"
+   },
+   "Accounts": {
+      "message": "アカウント"
+   },
+   "Accountsynccomplete": {
+      "message": "アカウントの同期完了"
+   },
+   "Activity": {
+      "message": "アクティビティ"
+   },
+   "Add1": {
+      "message": "{{1}} を追加"
+   },
+   "AddColumn": {
+      "message": "カラムを追加"
+   },
+   "AddMedia": {
+      "message": "画像/動画を追加"
+   },
+   "AddNewAccount": {
+      "message": "新規アカウントを追加"
+   },
+   "Addallofyourcolumnsandaccounts": {
+      "message": "自分のカラムとアカウントをすべて追加"
+   },
+   "Addasnewcolumn": {
+      "message": "新規カラムとして追加"
+   },
+   "Addfacebookaccount": {
+      "message": "Facebook アカウントを追加"
+   },
+   "Addfilter": {
+      "message": "フィルターを追加"
+   },
+   "Addtwitteraccount": {
+      "message": "Twitter アカウントを追加"
+   },
+   "AddyouraccountstoTweetDeck": {
+      "message": "TweetDeck に自分のアカウントを追加"
+   },
+   "Addyourlocation": {
+      "message": "自分の位置情報を追加"
+   },
+   "AllFriends": {
+      "message": "すべての友だち"
+   },
+   "Applicationsettings": {
+      "message": "アプリケーション設定"
+   },
+   "Apr": {
+      "message": "4月"
+   },
+   "Areyousureyouwanttodeletethisscheduledupdate": {
+      "message": "このツイートの予約を本当に削除しますか?"
+   },
+   "AreyousureyouwanttoleaveTweetDeck": {
+      "message": "TweetDeck を本当に終了しますか?"
+   },
+   "Areyousureyouwanttoremoveaccount1fromTweetDeck": {
+      "message": "TweetDeck からアカウント '{{1}}' を本当に削除しますか?"
+   },
+   "Areyousureyouwanttosend": {
+      "message": "本当に送信しますか?"
+   },
+   "Aug": {
+      "message": "8月"
+   },
+   "Back": {
+      "message": "戻る"
+   },
+   "Backto1": {
+      "message": "{{1}} に戻る"
+   },
+   "Block1": {
+      "message": "{{1}} さんをブロック"
+   },
+   "Cancel": {
+      "message": "キャンセル"
+   },
+   "Cancelediting": {
+      "message": "編集をキャンセルしますか?"
+   },
+   "Capture": {
+      "message": "キャプチャー"
+   },
+   "Checkinto1": {
+      "message": "{{1}} にチェックイン"
+   },
+   "Clear": {
+      "message": "消去"
+   },
+   "Clickheretoopenthesidebar": {
+      "message": "サイドバーを開くにはここをクリック"
+   },
+   "Clicktoedit": {
+      "message": "クリックして編集"
+   },
+   "Close": {
+      "message": "閉じる"
+   },
+   "Columns": {
+      "message": "カラム"
+   },
+   "Comment": {
+      "message": "コメント"
+   },
+   "Commenting": {
+      "message": "コメントの投稿"
+   },
+   "Compose": {
+      "message": "作成"
+   },
+   "ConfirmPassword": {
+      "message": "パスワードの確認"
+   },
+   "Continue": {
+      "message": "続行"
+   },
+   "Createlink": {
+      "message": "リンクを作成"
+   },
+   "Createlist": {
+      "message": "リストを作成"
+   },
+   "Dec": {
+      "message": "12月"
+   },
+   "Delete": {
+      "message": "削除"
+   },
+   "Deleting": {
+      "message": "削除"
+   },
+   "Deletingscheduledupdate": {
+      "message": "ツイートの予約を削除中!"
+   },
+   "Details": {
+      "message": "詳細"
+   },
+   "DirectMessages": {
+      "message": "ダイレクト メッセージ"
+   },
+   "Directmessageto1": {
+      "message": "{{1}} さんへのダイレクト メッセージ"
+   },
+   "Done": {
+      "message": "完了"
+   },
+   "Dragcolumnheadertoreorder": {
+      "message": "並べ替えるにはカラムのヘッダーをドラッグしてください"
+   },
+   "EPICFAIL": {
+      "message": "EPICFAIL!"
+   },
+   "Edit": {
+      "message": "編集"
+   },
+   "Editlist": {
+      "message": "リストを編集"
+   },
+   "Email": {
+      "message": "メール"
+   },
+   "Emailstatus": {
+      "message": "メールの状態"
+   },
+   "Enterahashtagorkeyword": {
+      "message": "#ハッシュタグやキーワードを入力"
+   },
+   "Enteranameorfullname": {
+      "message": "@名前またはフルネームを入力"
+   },
+   "Failed1": {
+      "message": "失敗しました: {{1}}"
+   },
+   "Favorite": {
+      "message": "お気に入り"
+   },
+   "Favorites": {
+      "message": "お気に入り"
+   },
+   "Favoriting": {
+      "message": "お気に入りへの登録"
+   },
+   "Feb": {
+      "message": "2月"
+   },
+   "Follow": {
+      "message": "フォロー"
+   },
+   "Followers": {
+      "message": "フォロワー"
+   },
+   "Following": {
+      "message": "フォロー中"
+   },
+   "Followingeachother": {
+      "message": "互いにフォロー中"
+   },
+   "Followingyou": {
+      "message": "あなたをフォロー中"
+   },
+   "FriendsCheckins": {
+      "message": "友だちのチェックイン"
+   },
+   "General": {
+      "message": "全般"
+   },
+   "Getstartedwithoutsigningin": {
+      "message": "ログインして始めましょう"
+   },
+   "Globalfilter": {
+      "message": "グローバルフィルター"
+   },
+   "GuestMode": {
+      "message": "ゲスト モード"
+   },
+   "Hide": {
+      "message": "隠す"
+   },
+   "Home": {
+      "message": "ホーム"
+   },
+   "IfyoucancelyoureditingnowyouwillloseanychangesmadeAreyousureyouwanttocancel": {
+      "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
+   },
+   "ImportfromTweetDeckdesktop": {
+      "message": "TweetDeck デスクトップからインポート"
+   },
+   "Inbox": {
+      "message": "受信箱"
+   },
+   "Interactions": {
+      "message": "インタラクション"
+   },
+   "Itsyou": {
+      "message": "自分です"
+   },
+   "Jan": {
+      "message": "1月"
+   },
+   "Jul": {
+      "message": "7月"
+   },
+   "Jun": {
+      "message": "6月"
+   },
+   "Justnow": {
+      "message": "たった今"
+   },
+   "Large": {
+      "message": "大"
+   },
+   "Like": {
+      "message": "いいね"
+   },
+   "Liking": {
+      "message": "いいね"
+   },
+   "Linkshortening": {
+      "message": "リンク短縮"
+   },
+   "Lists1follows": {
+      "message": "{{1}} さんをフォローしているリスト"
+   },
+   "LookingforGoogleBuzzWeresorrybutsupportforGoogleBuzzhasbeendiscontinued": {
+      "message": "Google Buzz をお探しですか? 申し訳ありませんが、Google Buzz への対応は終了しました。"
+   },
+   "MEGAFAIL": {
+      "message": "MEGAFAIL!"
+   },
+   "Mar": {
+      "message": "3月"
+   },
+   "May": {
+      "message": "5月"
+   },
+   "Me": {
+      "message": "自分"
+   },
+   "Medium": {
+      "message": "中"
+   },
+   "Mention": {
+      "message": "@ツイート"
+   },
+   "Mention1": {
+      "message": "@ツイート {{1}}"
+   },
+   "Mentions": {
+      "message": "@ツイート"
+   },
+   "MergedColumns": {
+      "message": "統合されたカラム"
+   },
+   "Message": {
+      "message": "メッセージ"
+   },
+   "Message1": {
+      "message": "メッセージ {{1}}"
+   },
+   "Messagehasnorecipient": {
+      "message": "メッセージに宛先がありません。"
+   },
+   "Messages": {
+      "message": "メッセージ"
+   },
+   "More": {
+      "message": "続き"
+   },
+   "Morethanamonth": {
+      "message": "1 か月以上"
+   },
+   "Muting": {
+      "message": "ミュート"
+   },
+   "Mylists": {
+      "message": "自分のリスト"
+   },
+   "NewsFeed": {
+      "message": "ニュース フィード"
+   },
+   "No": {
+      "message": "いいえ"
+   },
+   "NoResults": {
+      "message": "結果はありません"
+   },
+   "Notificationpopups": {
+      "message": "ポップアップで通知"
+   },
+   "Notifications": {
+      "message": "通知"
+   },
+   "Notificationsounds": {
+      "message": "サウンドで通知"
+   },
+   "Nov": {
+      "message": "11月"
+   },
+   "Oct": {
+      "message": "10月"
+   },
+   "Oopsyoudonthaveanyaccountsselected": {
+      "message": "エラー - アカウントを何も選択していません。"
+   },
+   "Oopsyouhaventaddedanycontenttothepost": {
+      "message": "エラー - 投稿する内容を何も追加していません"
+   },
+   "OriginalTweet1": {
+      "message": "元のツイート: {{1}}"
+   },
+   "Orregisterforafreeaccount": {
+      "message": "または無料アカウントを登録"
+   },
+   "PM": {
+      "message": "午後"
+   },
+   "Password": {
+      "message": "パスワード"
+   },
+   "Passwordsdonotmatch": {
+      "message": "パスワードが一致しません。"
+   },
+   "Pictureupload": {
+      "message": "画像のアップロード"
+   },
+   "Pleasecompleteusernamepassword": {
+      "message": "ユーザー名とパスワードを入力してください"
+   },
+   "PleaseselectaTwitteraccounttouploadmedia": {
+      "message": "画像/動画をアップロードする Twitter アカウントを選択してください"
+   },
+   "Pleaseuseavalidemailaddress": {
+      "message": "正しいメール アドレスを使用してください"
+   },
+   "Popup": {
+      "message": "ポップアップ"
+   },
+   "Postingfrom": {
+      "message": "Posting from"
+   },
+   "PrivacyPolicy": {
+      "message": "プライバシー ポリシー"
+   },
+   "Readless": {
+      "message": "折りたたむ"
+   },
+   "Readmore": {
+      "message": "続きを読む"
+   },
+   "Recent": {
+      "message": "最近"
+   },
+   "Register": {
+      "message": "登録"
+   },
+   "RegisterforTweetDeck": {
+      "message": "TweetDeck に登録"
+   },
+   "RegisteringunsuccessfulPleasecheckyouremailpassword": {
+      "message": "登録に失敗しました。メールとパスワードを確認してください"
+   },
+   "Remove": {
+      "message": "削除"
+   },
+   "Removecolumn": {
+      "message": "カラムを削除"
+   },
+   "Removingaccount": {
+      "message": "アカウントを削除中!"
+   },
+   "Reply": {
+      "message": "返信"
+   },
+   "Replying": {
+      "message": "返信"
+   },
+   "Report1forspam": {
+      "message": "{{1}} をスパムとして報告"
+   },
+   "Reporting": {
+      "message": "報告"
+   },
+   "Reset": {
+      "message": "リセット"
+   },
+   "ResetAll": {
+      "message": "すべてリセット"
+   },
+   "Retweet": {
+      "message": "リツイート"
+   },
+   "Retweeting1from": {
+      "message": "Retweeting {{1}} from:"
+   },
+   "Saved": {
+      "message": "保存済み"
+   },
+   "Schedule": {
+      "message": "予約"
+   },
+   "Scheduled": {
+      "message": "予約済み"
+   },
+   "Schedulingupdate": {
+      "message": "ツイートの予約"
+   },
+   "Search": {
+      "message": "検索"
+   },
+   "SearchTwitterfor1": {
+      "message": "Twitter で {{1}} を検索"
+   },
+   "SearchTwitterusersfor1": {
+      "message": "Twitter ユーザーから {{1}} を検索"
+   },
+   "Searching": {
+      "message": "検索中"
+   },
+   "Send": {
+      "message": "送信"
+   },
+   "Sending": {
+      "message": "送信中..."
+   },
+   "Sendingfailed": {
+      "message": "送信に失敗しました"
+   },
+   "Sendingupdateto1": {
+      "message": "{{1}} 宛のツイートの送信"
+   },
+   "Sendmessagefrom": {
+      "message": "Send message from"
+   },
+   "SentviaTweetDeckwwwtweetdeckcom": {
+      "message": "TweetDeck (www.tweetdeck.com) で送信しました"
+   },
+   "Sep": {
+      "message": "9月"
+   },
+   "Services": {
+      "message": "サービス"
+   },
+   "SetTime": {
+      "message": "時刻を設定"
+   },
+   "Settings": {
+      "message": "設定"
+   },
+   "Settingsfor1": {
+      "message": "{{1}} の設定"
+   },
+   "Share": {
+      "message": "共有"
+   },
+   "SharelinkwithTweetDeck": {
+      "message": "TweetDeck でリンクを共有"
+   },
+   "SharepagewithTweetDeck": {
+      "message": "TweetDeck でページを共有"
+   },
+   "ShowTwitterprofilefors": {
+      "message": "%s さんの Twitter プロフィールを表示"
+   },
+   "SignOut": {
+      "message": "ログアウト"
+   },
+   "Signin": {
+      "message": "ログイン"
+   },
+   "Signingin": {
+      "message": "ログイン中..."
+   },
+   "SignintoTweetDeck": {
+      "message": "TweetDeck にログイン"
+   },
+   "SigninunsuccessfulPleasecheckyourpassword": {
+      "message": "ログインに失敗しました。パスワードを確認してください"
+   },
+   "SigninwithyourTweetDeckaccount": {
+      "message": "自分の TweetDeck アカウントでログイン"
+   },
+   "Small": {
+      "message": "小"
+   },
+   "Sound": {
+      "message": "サウンド"
+   },
+   "Staysignedin": {
+      "message": "ログイン状態を維持"
+   },
+   "Subscribedto": {
+      "message": "保存済み"
+   },
+   "SwitchtoTweetDeckDesktoptoauthorize": {
+      "message": "認証のため TweetDeck デスクトップに切り替え"
+   },
+   "Syncingaccounts": {
+      "message": "アカウントを同期中..."
+   },
+   "TermsofService": {
+      "message": "サービス利用規約"
+   },
+   "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
+      "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
+   },
+   "ThisscheduledupdateisassociatedwithanaccountwhichisnotauthorisedinthisTweetDeckThisaccountwillthereforenotbeavailableduringthiseditunlessyoureadditfromtheaccountspanel": {
+      "message": "This scheduled update is associated with an account which is not authorised in this TweetDeck. This account will therefore not be available during this edit unless you re-add it from the accounts panel"
+   },
+   "Thisupdatefromprotectedaccount1willbepubliclyvisibleonthedecklywebsiteWouldyouliketosendanyway": {
+      "message": "This update from protected account @{{1}} will be publicly visible on the deck.ly website. Would you like to send anyway?"
+   },
+   "Timeline": {
+      "message": "タイムライン"
+   },
+   "Torememberyouraccountsenablemorefeatures": {
+      "message": "自分のアカウントを記憶して、その他の機能を有効にするには"
+   },
+   "Translate": {
+      "message": "翻訳"
+   },
+   "Trends": {
+      "message": "トレンド"
+   },
+   "Tweet": {
+      "message": "ツイート"
+   },
+   "Tweetforwardedby1": {
+      "message": "@{{1}} さんが転送したツイート"
+   },
+   "Tweets": {
+      "message": "ツイート"
+   },
+   "TwitterUsers": {
+      "message": "Twitter ユーザー"
+   },
+   "Twitterusers": {
+      "message": "Twitter ユーザー"
+   },
+   "Typeausername": {
+      "message": "ユーザー名を入力..."
+   },
+   "UndoRetweet": {
+      "message": "リツイートを取り消す"
+   },
+   "UndoingRetweet": {
+      "message": "リツイートの取り消し"
+   },
+   "Unfavoriting": {
+      "message": "お気に入りの解除"
+   },
+   "Unfollow": {
+      "message": "フォローを解除"
+   },
+   "Unliking": {
+      "message": "いいねの解除"
+   },
+   "Untranslate": {
+      "message": "翻訳を解除"
+   },
+   "Uploading1": {
+      "message": "アップロード中 {{1}}"
+   },
+   "View": {
+      "message": "表示"
+   },
+   "Viewmessages": {
+      "message": "メッセージを表示"
+   },
+   "Wallpostto1": {
+      "message": "{{1}} のウォールに投稿"
+   },
+   "WalltoWall": {
+      "message": "Wall to Wall"
+   },
+   "Warning": {
+      "message": "警告"
+   },
+   "WhyisthistopictrendingClicktotellus": {
+      "message": "Why is this topic trending? Click to tell us"
+   },
+   "Working1": {
+      "message": "作業中: {{1}}"
+   },
+   "Worldwide": {
+      "message": "全世界"
+   },
+   "Yes": {
+      "message": "はい"
+   },
+   "Yesterday": {
+      "message": "昨日"
+   },
+   "Youfollow": {
+      "message": "You follow"
+   },
+   "Youraccounts": {
+      "message": "自分のアカウント"
+   },
+   "Youreawesome": {
+      "message": "You're awesome"
+   },
+   "Yourpasswordshouldbelongerthan7characters": {
+      "message": "パスワードは 8 文字以上にする必要があります"
+   },
+   "Yourpersonalbrowserforstayingintouchwithwhatshappeningnow": {
+      "message": "Your personal browser for staying in touch with what's happening now"
+   },
+   "by1": {
+      "message": "{{1}} さんによる"
+   },
+   "list": {
+      "message": "リスト"
+   },
+   "lists": {
+      "message": "リスト"
+   },
+   "page": {
+      "message": "ページ"
+   },
+   "pages": {
+      "message": "ページ"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "searches": {
+      "message": "検索"
+   }
+}
