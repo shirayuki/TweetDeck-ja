@@ -95,6 +95,9 @@
    "AllFriends": {
       "message": "すべての友だち"
    },
+   "Alreadyhaveanaccount": {
+      "message": "アカウントを既にお持ちですか?"
+   },
    "Applicationsettings": {
       "message": "アプリケーション設定"
    },
@@ -173,6 +176,9 @@
    "Continue": {
       "message": "続行"
    },
+   "Createaccount": {
+      "message": "アカウントを作成"
+   },
    "Createlink": {
       "message": "リンクを作成"
    },
@@ -209,6 +215,9 @@
    "Done": {
       "message": "完了"
    },
+   "DonthaveaTweetDeckaccount": {
+      "message": "TweetDeck アカウントをお持ちではありませんか?"
+   },
    "Dragcolumnheadertoreorder": {
       "message": "並べ替えるにはカラムのヘッダーをドラッグしてください"
    },
@@ -223,6 +232,9 @@
    },
    "Editlist": {
       "message": "リストを編集"
+   },
+   "Edityourprofile": {
+      "message": "プロフィールを編集"
    },
    "Email": {
       "message": "メール"
@@ -275,6 +287,9 @@
    "Fontsize": {
       "message": "文字のサイズ:"
    },
+   "Forgotyourpassword": {
+      "message": "パスワードをお忘れの場合"
+   },
    "FriendsCheckins": {
       "message": "友だちのチェックイン"
    },
@@ -322,6 +337,9 @@
    },
    "Justnow": {
       "message": "たった今"
+   },
+   "Keepmesignedin": {
+      "message": "ログイン状態を維持"
    },
    "Large": {
       "message": "大"
@@ -385,6 +403,9 @@
    },
    "More": {
       "message": "続き"
+   },
+   "Moreinformation": {
+      "message": "詳細情報"
    },
    "Morethanamonth": {
       "message": "1 か月以上"
@@ -630,7 +651,10 @@
       "message": "ログインに失敗しました。パスワードを確認してください"
    },
    "SigninwithyourTweetDeckaccount": {
-      "message": "自分の TweetDeck アカウントでログイン"
+      "message": "TweetDeck アカウントでログイン"
+   },
+   "Signup": {
+      "message": "ユーザー登録"
    },
    "Small": {
       "message": "小"
