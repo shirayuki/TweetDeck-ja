@@ -131,6 +131,9 @@
    "Block1": {
       "message": "{{1}} さんをブロック"
    },
+   "BlockscreenName": {
+      "message": "@{{screenName}} さんをブロック"
+   },
    "Cancel": {
       "message": "キャンセル"
    },
@@ -139,6 +142,9 @@
    },
    "Capture": {
       "message": "キャプチャー"
+   },
+   "Change": {
+      "message": "変更"
    },
    "Checkinto1": {
       "message": "{{1}} にチェックイン"
@@ -284,6 +290,9 @@
    "Followingyou": {
       "message": "あなたをフォロー中"
    },
+   "FollowscreenName": {
+      "message": "@{{screenName}} さんをフォロー"
+   },
    "Fontsize": {
       "message": "文字のサイズ:"
    },
@@ -310,6 +319,9 @@
    },
    "Home": {
       "message": "ホーム"
+   },
+   "Hours12minutesamPmdaymonthyear": {
+      "message": "{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
    },
    "IfyoucancelyoureditingnowyouwillloseanychangesmadeAreyousureyouwanttocancel": {
       "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
@@ -355,6 +367,9 @@
    },
    "Linktothistweet": {
       "message": "このツイートにリンク"
+   },
+   "Listed": {
+      "message": "リスト"
    },
    "Lists1follows": {
       "message": "{{1}} さんをフォローしているリスト"
@@ -446,6 +461,18 @@
    "Oct": {
       "message": "10月"
    },
+   "Oned": {
+      "message": "{{one}}日"
+   },
+   "Oneh": {
+      "message": "{{one}}時間"
+   },
+   "Onem": {
+      "message": "{{one}}分"
+   },
+   "Ones": {
+      "message": "{{one}}秒"
+   },
    "Oopsyoudonthaveanyaccountsselected": {
       "message": "エラー - アカウントを何も選択していません。"
    },
@@ -478,6 +505,18 @@
    },
    "Pleaseuseavalidemailaddress": {
       "message": "正しいメール アドレスを使用してください"
+   },
+   "Plural_numberd": {
+      "message": "{{plural_number}}日"
+   },
+   "Plural_numberh": {
+      "message": "{{plural_number}}時間"
+   },
+   "Plural_numberm": {
+      "message": "{{plural_number}}分"
+   },
+   "Plural_numbers": {
+      "message": "{{plural_number}}秒"
    },
    "Popup": {
       "message": "ポップアップ"
@@ -537,7 +576,10 @@
       "message": "返信"
    },
    "Report1forspam": {
-      "message": "{{1}} をスパムとして報告"
+      "message": "{{1}} さんをスパムとして報告"
+   },
+   "ReportscreenNameforspam": {
+      "message": "@{{screenName}} さんをスパムとして報告"
    },
    "Reporting": {
       "message": "報告"
@@ -554,8 +596,14 @@
    "Retweet": {
       "message": "リツイート"
    },
+   "Retweeted": {
+      "message": "さんがリツイート"
+   },
    "Retweeting1from": {
       "message": "Retweeting {{1}} from:"
+   },
+   "Retweets": {
+      "message": "リツイート"
    },
    "Save": {
       "message": "保存"
@@ -712,6 +760,9 @@
    },
    "Tweets": {
       "message": "ツイート"
+   },
+   "TweettoscreenName": {
+      "message": "@{{screenName}} さんにツイート"
    },
    "TwitterStreaming": {
       "message": "Twitter ストリーミング"
