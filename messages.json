@@ -44,6 +44,9 @@
    "AM": {
       "message": "午前"
    },
+   "Account": {
+      "message": "アカウント"
+   },
    "Accounts": {
       "message": "アカウント"
    },
@@ -76,6 +79,9 @@
    },
    "Addfilter": {
       "message": "フィルターを追加"
+   },
+   "Addorremovefromlists": {
+      "message": "リストに追加または削除..."
    },
    "Addtwitteraccount": {
       "message": "Twitter アカウントを追加"
@@ -173,11 +179,17 @@
    "Delete": {
       "message": "削除"
    },
+   "Deletelist": {
+      "message": "リストを削除"
+   },
    "Deleting": {
       "message": "削除"
    },
    "Deletingscheduledupdate": {
       "message": "ツイートの予約を削除中!"
+   },
+   "Description": {
+      "message": "説明"
    },
    "Details": {
       "message": "詳細"
@@ -200,6 +212,9 @@
    "Edit": {
       "message": "編集"
    },
+   "Editdetails": {
+      "message": "詳細を編集"
+   },
    "Editlist": {
       "message": "リストを編集"
    },
@@ -208,6 +223,9 @@
    },
    "Emailstatus": {
       "message": "メールの状態"
+   },
+   "Emailthistweet": {
+      "message": "このツイートをメールで送信"
    },
    "Enterahashtagorkeyword": {
       "message": "#ハッシュタグやキーワードを入力"
@@ -305,6 +323,9 @@
    "Linkshortening": {
       "message": "リンク短縮"
    },
+   "Linktothistweet": {
+      "message": "このツイートにリンク"
+   },
    "Lists1follows": {
       "message": "{{1}} さんをフォローしているリスト"
    },
@@ -361,6 +382,9 @@
    },
    "Mylists": {
       "message": "自分のリスト"
+   },
+   "Name": {
+      "message": "名前"
    },
    "NewsFeed": {
       "message": "ニュース フィード"
@@ -425,8 +449,17 @@
    "Postingfrom": {
       "message": "Posting from"
    },
+   "Privacy": {
+      "message": "プライバシー"
+   },
    "PrivacyPolicy": {
       "message": "プライバシー ポリシー"
+   },
+   "Private": {
+      "message": "非公開"
+   },
+   "Public": {
+      "message": "公開"
    },
    "Readless": {
       "message": "折りたたむ"
@@ -479,6 +512,9 @@
    "Retweeting1from": {
       "message": "Retweeting {{1}} from:"
    },
+   "Save": {
+      "message": "保存"
+   },
    "Saved": {
       "message": "保存済み"
    },
@@ -505,6 +541,9 @@
    },
    "Send": {
       "message": "送信"
+   },
+   "Sendadirectmessage": {
+      "message": "ダイレクトメッセージを送信"
    },
    "Sending": {
       "message": "送信中..."
