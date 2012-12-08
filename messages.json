@@ -233,6 +233,9 @@
    "Edit": {
       "message": "編集"
    },
+   "EditampRT": {
+      "message": "編集 &amp; RT"
+   },
    "Editdetails": {
       "message": "詳細を編集"
    },
@@ -331,6 +334,9 @@
    },
    "Inbox": {
       "message": "受信箱"
+   },
+   "Includetextuser_link_screennamein": {
+      "message": "{{>text/user_link_screenname}} さんを以下のリストに追加:"
    },
    "Interactions": {
       "message": "インタラクション"
@@ -464,14 +470,26 @@
    "Oned": {
       "message": "{{one}}日"
    },
+   "Onedaysago": {
+      "message": "{{one}}日前"
+   },
    "Oneh": {
       "message": "{{one}}時間"
+   },
+   "Onehoursago": {
+      "message": "{{one}}時間前"
    },
    "Onem": {
       "message": "{{one}}分"
    },
+   "Oneminutesago": {
+      "message": "{{one}}分前"
+   },
    "Ones": {
       "message": "{{one}}秒"
+   },
+   "Onesecondsago": {
+      "message": "{{one}}秒前"
    },
    "Oopsyoudonthaveanyaccountsselected": {
       "message": "エラー - アカウントを何も選択していません。"
@@ -788,6 +806,9 @@
    "Unfollow": {
       "message": "フォローを解除"
    },
+   "UnfollowscreenName": {
+      "message": "@{{screenName}} さんをフォロー解除"
+   },
    "Unliking": {
       "message": "いいねの解除"
    },
@@ -836,6 +857,9 @@
    "Youreawesome": {
       "message": "You're awesome"
    },
+   "Yourlists": {
+      "message": "自分のリスト"
+   },
    "Yourpasswordshouldbelongerthan7characters": {
       "message": "パスワードは 8 文字以上にする必要があります"
    },
@@ -843,7 +867,7 @@
       "message": "Your personal browser for staying in touch with what's happening now"
    },
    "by1": {
-      "message": "{{1}} さんによる"
+      "message": "{{1}} さんが作成"
    },
    "list": {
       "message": "リスト"
