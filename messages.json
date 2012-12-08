@@ -614,9 +614,6 @@
    "Retweet": {
       "message": "リツイート"
    },
-   "Retweeted": {
-      "message": "さんがリツイート"
-   },
    "Retweeting1from": {
       "message": "Retweeting {{1}} from:"
    },
@@ -875,11 +872,17 @@
    "lists": {
       "message": "リスト"
    },
+   "now": {
+      "message": "さっき"
+   },
    "page": {
       "message": "ページ"
    },
    "pages": {
       "message": "ページ"
+   },
+   "retweeted": {
+      "message": "さんがリツイート"
    },
    "search": {
       "message": "検索"
