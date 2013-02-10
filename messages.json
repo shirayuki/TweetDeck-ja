@@ -152,6 +152,9 @@
    "Clear": {
       "message": "消去"
    },
+   "Clearhistory": {
+      "message": "履歴を消去"
+   },
    "Clickheretoopenthesidebar": {
       "message": "サイドバーを開くにはここをクリック"
    },
@@ -179,8 +182,14 @@
    "ConfirmPassword": {
       "message": "パスワードの確認"
    },
+   "Containing": {
+      "message": "以下を含む"
+   },
    "Continue": {
       "message": "続行"
+   },
+   "Conversation": {
+      "message": "会話"
    },
    "Createaccount": {
       "message": "アカウントを作成"
@@ -190,6 +199,9 @@
    },
    "Createlist": {
       "message": "リストを作成"
+   },
+   "Dark": {
+      "message": "暗"
    },
    "Dec": {
       "message": "12月"
@@ -254,6 +266,9 @@
    "Emailthistweet": {
       "message": "このツイートをメールで送信"
    },
+   "EmbedthisTweet": {
+      "message": "このツイートを埋め込む"
+   },
    "Enterahashtagorkeyword": {
       "message": "#ハッシュタグやキーワードを入力"
    },
@@ -277,6 +292,12 @@
    },
    "Filter": {
       "message": "フィルター"
+   },
+   "Filteringouttextglobal_filter_valuefromgetDisplayType": {
+      "message": "{{getDisplayType}}の{{>text/global_filter_value}}を非表示"
+   },
+   "FiltersActive": {
+      "message": "フィルター有効"
    },
    "Follow": {
       "message": "フォロー"
@@ -359,8 +380,14 @@
    "Keepmesignedin": {
       "message": "ログイン状態を維持"
    },
+   "Keyboardshortcuts": {
+      "message": "キーボード ショートカット"
+   },
    "Large": {
       "message": "大"
+   },
+   "Light": {
+      "message": "明"
    },
    "Like": {
       "message": "いいね"
@@ -427,6 +454,9 @@
    },
    "Moreinformation": {
       "message": "詳細情報"
+   },
+   "Moreoptions": {
+      "message": "その他のオプション"
    },
    "Morethanamonth": {
       "message": "1 か月以上"
@@ -740,6 +770,9 @@
    "Syncingaccounts": {
       "message": "アカウントを同期中..."
    },
+   "Theme": {
+      "message": "テーマ:"
+   },
    "TermsofService": {
       "message": "サービス利用規約"
    },
@@ -815,6 +848,9 @@
    "Uploading1": {
       "message": "アップロード中 {{1}}"
    },
+   "Using": {
+      "message": "以下を含む"
+   },
    "View": {
       "message": "表示"
    },
@@ -863,11 +899,41 @@
    "Yourpersonalbrowserforstayingintouchwithwhatshappeningnow": {
       "message": "Your personal browser for staying in touch with what's happening now"
    },
+   "anylanguage": {
+      "message": "あらゆる言語"
+   },
+   "anything": {
+      "message": "不問"
+   },
    "by1": {
       "message": "{{1}} さんが作成"
    },
+   "egJohnDoe123": {
+      "message": "例: JohnDoe123"
+   },
+   "egiPad": {
+      "message": "例: iPad"
+   },
+   "egTweetSpamApp": {
+      "message": "例: TweetSpamApp"
+   },
+   "excluded": {
+      "message": "除外する"
+   },
    "list": {
       "message": "リスト"
+   },
+   "images": {
+      "message": "画像"
+   },
+   "imagesandvideo": {
+      "message": "画像と動画"
+   },
+   "included": {
+      "message": "含める"
+   },
+   "links": {
+      "message": "リンク"
    },
    "lists": {
       "message": "リスト"
@@ -889,5 +955,11 @@
    },
    "searches": {
       "message": "検索"
+   },
+   "videos": {
+      "message": "動画"
+   },
+   "writtenin": {
+      "message": "言語"
    }
 }
