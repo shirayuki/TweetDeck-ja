@@ -152,6 +152,9 @@
    "Clear": {
       "message": "消去"
    },
+   "Clearcolumn": {
+      "message": "カラムを消去"
+   },
    "Clearhistory": {
       "message": "履歴を消去"
    },
@@ -275,6 +278,15 @@
    "Enteranameorfullname": {
       "message": "@名前またはフルネームを入力"
    },
+   "Enterwordstomatch": {
+      "message": "検索語句を入力"
+   },
+   "Enterwordstoexclude": {
+      "message": "除外する語句を入力"
+   },
+   "Enteranameorfullname": {
+      "message": "@名前またはフルネームを入力"
+   },
    "Failed1": {
       "message": "失敗しました: {{1}}"
    },
@@ -298,6 +310,12 @@
    },
    "FiltersActive": {
       "message": "フィルター有効"
+   },
+   "Flaggedlearnmore": {
+      "message": "報告済み (詳細)"
+   },
+   "Flagmedia": {
+      "message": "画像/動画を報告"
    },
    "Follow": {
       "message": "フォロー"
@@ -406,6 +424,9 @@
    },
    "Lists1follows": {
       "message": "{{1}} さんをフォローしているリスト"
+   },
+   "Loadinglistmembers": {
+      "message": "リストのメンバーを読み込み中..."
    },
    "LookingforGoogleBuzzWeresorrybutsupportforGoogleBuzzhasbeendiscontinued": {
       "message": "Google Buzz をお探しですか? 申し訳ありませんが、Google Buzz への対応は終了しました。"
@@ -722,6 +743,9 @@
    "SharepagewithTweetDeck": {
       "message": "TweetDeck でページを共有"
    },
+   "Showing": {
+      "message": "表示対象"
+   },
    "Shownotificationsonstartup": {
       "message": "開始時に通知を表示"
    },
@@ -809,6 +833,18 @@
    "Tweets": {
       "message": "ツイート"
    },
+   "Tweetswithanymedia": {
+      "message": "画像/動画付きツイート"
+   },
+   "Tweetswithimages": {
+      "message": "画像付きツイート"
+   },
+   "Tweetswithlinks": {
+      "message": "リンク付きツイート"
+   },
+   "Tweetswithvideos": {
+      "message": "動画付きツイート"
+   },
    "TweettoscreenName": {
       "message": "@{{screenName}} さんにツイート"
    },
@@ -857,6 +893,9 @@
    "Viewmessages": {
       "message": "メッセージを表示"
    },
+   "Vieworiginal": {
+      "message": "オリジナルを表示"
+   },
    "Wallpostto1": {
       "message": "{{1}} のウォールに投稿"
    },
@@ -899,6 +938,9 @@
    "Yourpersonalbrowserforstayingintouchwithwhatshappeningnow": {
       "message": "Your personal browser for staying in touch with what's happening now"
    },
+   "allTweets": {
+      "message": "すべてのツイート"
+   },
    "anylanguage": {
       "message": "あらゆる言語"
    },
@@ -920,6 +962,9 @@
    "excluded": {
       "message": "除外する"
    },
+   "excluding": {
+      "message": "除外"
+   },
    "list": {
       "message": "リスト"
    },
@@ -937,6 +982,9 @@
    },
    "lists": {
       "message": "リスト"
+   },
+   "matching": {
+      "message": "一致"
    },
    "now": {
       "message": "さっき"
