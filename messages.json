@@ -1,4 +1,34 @@
 {
+   "10th": {
+      "message": "10日"
+   },
+   "11th": {
+      "message": "11日"
+   },
+   "12th": {
+      "message": "12日"
+   },
+   "13th": {
+      "message": "13日"
+   },
+   "14th": {
+      "message": "14日"
+   },
+   "15th": {
+      "message": "15日"
+   },
+   "16th": {
+      "message": "16日"
+   },
+   "17th": {
+      "message": "17日"
+   },
+   "18th": {
+      "message": "18日"
+   },
+   "19th": {
+      "message": "19日"
+   },
    "1FBPage": {
       "message": "{{1}} (Facebook ページ)"
    },
@@ -35,14 +65,74 @@
    "1sLists": {
       "message": "{{1}} さんのリスト"
    },
+   "1st": {
+      "message": "1日"
+   },
    "1week": {
       "message": "1 週間"
    },
    "1weeks": {
       "message": "{{1}} 週間"
    },
-   "AM": {
-      "message": "午前"
+   "20th": {
+      "message": "20日"
+   },
+   "21st": {
+      "message": "21日"
+   },
+   "22nd": {
+      "message": "22日"
+   },
+   "23rd": {
+      "message": "23日"
+   },
+   "24th": {
+      "message": "24日"
+   },
+   "25th": {
+      "message": "25日"
+   },
+   "26th": {
+      "message": "26日"
+   },
+   "27th": {
+      "message": "27日"
+   },
+   "28th": {
+      "message": "28日"
+   },
+   "29th": {
+      "message": "29日"
+   },
+   "2nd": {
+      "message": "2日"
+   },
+   "30th": {
+      "message": "30日"
+   },
+   "31st": {
+      "message": "31日"
+   },
+   "3rd": {
+      "message": "3日"
+   },
+   "4th": {
+      "message": "4日"
+   },
+   "5th": {
+      "message": "5日"
+   },
+   "6th": {
+      "message": "6日"
+   },
+   "7th": {
+      "message": "7日"
+   },
+   "8th": {
+      "message": "8日"
+   },
+   "9th": {
+      "message": "9日"
    },
    "Account": {
       "message": "アカウント"
@@ -98,11 +188,20 @@
    "Alreadyhaveanaccount": {
       "message": "アカウントを既にお持ちですか?"
    },
+   "AnunknownerroroccurredPleasetryagainshortly": {
+      "message": "不明なエラーが発生しました。もう一度お試しください。"
+   },
    "Applicationsettings": {
       "message": "アプリケーション設定"
    },
    "Apr": {
       "message": "4月"
+   },
+   "Areyousureyouwanttocontinueediting": {
+      "message": "編集を本当に続行しますか?"
+   },
+   "Areyousureyouwanttodeletethislist": {
+      "message": "このリストを本当に削除しますか?"
    },
    "Areyousureyouwanttodeletethisscheduledupdate": {
       "message": "このツイートの予約を本当に削除しますか?"
@@ -110,11 +209,11 @@
    "AreyousureyouwanttoleaveTweetDeck": {
       "message": "TweetDeck を本当に終了しますか?"
    },
-   "Areyousureyouwanttoremoveaccount1fromTweetDeck": {
-      "message": "TweetDeck からアカウント '{{1}}' を本当に削除しますか?"
-   },
    "Areyousureyouwanttosend": {
       "message": "本当に送信しますか?"
+   },
+   "Areyousureyouwanttoremoveaccount1fromTweetDeck": {
+      "message": "TweetDeck からアカウント '{{1}}' を本当に削除しますか?"
    },
    "Aug": {
       "message": "8月"
@@ -128,8 +227,14 @@
    "Backto1": {
       "message": "{{1}} に戻る"
    },
+   "Backtocolumntitle": {
+      "message": "{{{columntitle}}} に戻る"
+   },
    "Block1": {
       "message": "{{1}} さんをブロック"
+   },
+   "Blocked": {
+      "message": "ブロック済み"
    },
    "BlockscreenName": {
       "message": "@{{screenName}} さんをブロック"
@@ -196,6 +301,9 @@
    },
    "Createaccount": {
       "message": "アカウントを作成"
+   },
+   "Createanewlistorselectanexistinglisttoeditoraddacolumn": {
+      "message": "カラムを編集または追加するには、リストを新規作成するか既存のリストを選択してください"
    },
    "Createlink": {
       "message": "リンクを作成"
@@ -290,8 +398,14 @@
    "Failed1": {
       "message": "失敗しました: {{1}}"
    },
+   "FailedRetweet": {
+      "message": "失敗しました: リツイート"
+   },
    "Favorite": {
       "message": "お気に入り"
+   },
+   "FavoritefromgetUsername": {
+      "message": "{{getUsername}} のお気に入りに登録"
    },
    "Favorites": {
       "message": "お気に入り"
@@ -343,6 +457,15 @@
    },
    "FriendsCheckins": {
       "message": "友だちのチェックイン"
+   },
+   "From1": {
+      "message": "{{{1}}} から"
+   },
+   "Fromaccounts": {
+      "message": "{{accounts}} から"
+   },
+   "FromaccountgetUsernameaccount": {
+      "message": "{{#account}}@{{getUsername}}{{/account}} から"
    },
    "General": {
       "message": "全般"
@@ -403,6 +526,9 @@
    },
    "Large": {
       "message": "大"
+   },
+   "Largest": {
+      "message": "最大"
    },
    "Light": {
       "message": "明"
@@ -554,9 +680,6 @@
    "Orregisterforafreeaccount": {
       "message": "または無料アカウントを登録"
    },
-   "PM": {
-      "message": "午後"
-   },
    "Password": {
       "message": "パスワード"
    },
@@ -578,14 +701,26 @@
    "Plural_numberd": {
       "message": "{{plural_number}}日"
    },
+   "Plural_numberdaysago": {
+      "message": "{{plural_number}}日前"
+   },
    "Plural_numberh": {
       "message": "{{plural_number}}時間"
+   },
+   "Plural_numberhoursago": {
+      "message": "{{plural_number}}時間前"
    },
    "Plural_numberm": {
       "message": "{{plural_number}}分"
    },
+   "Plural_numberminutesago": {
+      "message": "{{plural_number}}分前"
+   },
    "Plural_numbers": {
       "message": "{{plural_number}}秒"
+   },
+   "Plural_numbersecondsago": {
+      "message": "{{plural_number}}秒前"
    },
    "Popup": {
       "message": "ポップアップ"
@@ -604,6 +739,9 @@
    },
    "Private": {
       "message": "非公開"
+   },
+   "ProfileAccount": {
+      "message": "プロフィール アカウント"
    },
    "Public": {
       "message": "公開"
@@ -698,6 +836,9 @@
    "Searching": {
       "message": "検索中"
    },
+   "Searchresults": {
+      "message": "検索結果"
+   },
    "Send": {
       "message": "送信"
    },
@@ -776,6 +917,9 @@
    "Small": {
       "message": "小"
    },
+   "Smallest": {
+      "message": "最小"
+   },
    "Sound": {
       "message": "サウンド"
    },
@@ -787,6 +931,24 @@
    },
    "Subscribedto": {
       "message": "保存済み"
+   },
+   "Success1": {
+      "message": "完了しました: {{1}}"
+   },
+   "SuccessfullyblockedandreportedscreenName": {
+      "message": "@{{screenName}} さんをブロックして報告しました"
+   },
+   "SuccessfullyblockedscreenName": {
+      "message": "@{{screenName}} さんをブロックしました"
+   },
+   "SuccessfullyfollowedscreenName": {
+      "message": "@{{screenName}} さんをフォローしました"
+   },
+   "SuccessfullyunfollowedscreenName": {
+      "message": "@{{screenName}} さんをフォロー解除しました"
+   },
+   "Suggested": {
+      "message": "おすすめ"
    },
    "SwitchtoTweetDeckDesktoptoauthorize": {
       "message": "認証のため TweetDeck デスクトップに切り替え"
@@ -860,6 +1022,9 @@
    "Typeausername": {
       "message": "ユーザー名を入力..."
    },
+   "Unblock": {
+      "message": "ブロック解除"
+   },
    "UndoRetweet": {
       "message": "リツイートを取り消す"
    },
@@ -907,6 +1072,9 @@
    },
    "WhyisthistopictrendingClicktotellus": {
       "message": "Why is this topic trending? Click to tell us"
+   },
+   "Wide": {
+      "message": "広い"
    },
    "Working1": {
       "message": "作業中: {{1}}"
@@ -1003,6 +1171,21 @@
    },
    "searches": {
       "message": "検索"
+   },
+   "userfavorited": {
+      "message": "{{{user}}} さんがお気に入りに登録しました"
+   },
+   "userfavoritedyou": {
+      "message": "{{{user}}} さんがあなたのツイートをお気に入りに登録しました"
+   },
+   "userfollowed": {
+      "message": "{{{user}}} さんがフォローしました"
+   },
+   "usermentionedyou": {
+      "message": "{{{user}}} さんが@ツイートしました"
+   },
+   "userretweeted": {
+      "message": "{{{user}}} さんがリツイートしました"
    },
    "videos": {
       "message": "動画"
