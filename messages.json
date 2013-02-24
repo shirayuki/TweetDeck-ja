@@ -486,7 +486,7 @@
       "message": "ホーム"
    },
    "Hours12minutesamPmdaymonthyear": {
-      "message": "{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
+      "message": "20{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
    },
    "IfyoucancelyoureditingnowyouwillloseanychangesmadeAreyousureyouwanttocancel": {
       "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
@@ -620,6 +620,9 @@
    "Narrow": {
       "message": "狭い"
    },
+   "NewTweetswillappearhere": {
+      "message": "新しいツイートがここに表示されます。"
+   },
    "NewsFeed": {
       "message": "ニュース フィード"
    },
@@ -629,6 +632,9 @@
    "NoResults": {
       "message": "結果はありません"
    },
+   "NorecentTweets": {
+      "message": "最近のツイートはありません。"
+   },
    "Notificationpopups": {
       "message": "ポップアップで通知"
    },
@@ -637,6 +643,9 @@
    },
    "Notificationsounds": {
       "message": "サウンドで通知"
+   },
+   "Nousersfound": {
+      "message": "ユーザーが見つかりません。"
    },
    "Nov": {
       "message": "11月"
@@ -682,6 +691,9 @@
    },
    "Password": {
       "message": "パスワード"
+   },
+   "Passwordresetemailhasbeensent": {
+      "message": "パスワード再設定メールをお送りしました。"
    },
    "Passwordsdonotmatch": {
       "message": "パスワードが一致しません。"
@@ -1048,6 +1060,9 @@
    },
    "Uploading1": {
       "message": "アップロード中 {{1}}"
+   },
+   "Users": {
+      "message": "ユーザー"
    },
    "Using": {
       "message": "以下を含む"
