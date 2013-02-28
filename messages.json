@@ -1043,6 +1043,9 @@
    "UndoingRetweet": {
       "message": "リツイートの取り消し"
    },
+   "UnfavoritefromgetUsername": {
+      "message": "{{getUsername}} のお気に入りから解除"
+   },
    "Unfavoriting": {
       "message": "お気に入りの解除"
    },
