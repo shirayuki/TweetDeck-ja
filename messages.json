@@ -1175,6 +1175,9 @@
    "now": {
       "message": "さっき"
    },
+   "owneraddedyoutothelistlist": {
+      "message": "{{{owner}}} さんがあなたをリスト {{{list}}} に追加しました。"
+   },
    "page": {
       "message": "ページ"
    },
@@ -1199,8 +1202,11 @@
    "userfollowed": {
       "message": "{{{user}}} さんがフォローしました"
    },
+   "userfollowedyou": {
+      "message": "{{{user}}} さんがあなたをフォローしました"
+   },
    "usermentionedyou": {
-      "message": "{{{user}}} さんが@ツイートしました"
+      "message": "{{{user}}} さんがあなたに@ツイートしました"
    },
    "userretweeted": {
       "message": "{{{user}}} さんがリツイートしました"
