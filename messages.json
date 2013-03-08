@@ -182,6 +182,9 @@
    "Addyourlocation": {
       "message": "自分の位置情報を追加"
    },
+   "Alerts": {
+      "message": "アラート"
+   },
    "AllFriends": {
       "message": "すべての友だち"
    },
@@ -293,6 +296,9 @@
    "Containing": {
       "message": "以下を含む"
    },
+   "Content": {
+      "message": "本文"
+   },
    "Continue": {
       "message": "続行"
    },
@@ -380,6 +386,9 @@
    "EmbedthisTweet": {
       "message": "このツイートを埋め込む"
    },
+   "English": {
+      "message": "英語"
+   },
    "Enterahashtagorkeyword": {
       "message": "#ハッシュタグやキーワードを入力"
    },
@@ -461,6 +470,9 @@
    "From1": {
       "message": "{{{1}}} から"
    },
+   "French": {
+      "message": "フランス語"
+   },
    "Fromaccounts": {
       "message": "{{accounts}} から"
    },
@@ -469,6 +481,9 @@
    },
    "General": {
       "message": "全般"
+   },
+   "German": {
+      "message": "ドイツ語"
    },
    "Getstartedwithoutsigningin": {
       "message": "ログインして始めましょう"
@@ -508,6 +523,9 @@
    },
    "Jan": {
       "message": "1月"
+   },
+   "Japanese": {
+      "message": "日本語"
    },
    "Jul": {
       "message": "7月"
@@ -737,6 +755,9 @@
    "Popup": {
       "message": "ポップアップ"
    },
+   "Popups": {
+      "message": "ポップアップ"
+   },
    "Postingfrom": {
       "message": "Posting from"
    },
@@ -935,6 +956,9 @@
    "Sound": {
       "message": "サウンド"
    },
+   "Sounds": {
+      "message": "サウンド"
+   },
    "Source": {
       "message": "ソース"
    },
@@ -1127,14 +1151,32 @@
    "allTweets": {
       "message": "すべてのツイート"
    },
+   "allusers": {
+      "message": "すべてのユーザー"
+   },
    "anylanguage": {
       "message": "あらゆる言語"
+   },
+   "any": {
+      "message": "すべて"
    },
    "anything": {
       "message": "不問"
    },
    "by1": {
       "message": "{{1}} さんが作成"
+   },
+   "bymembersofname": {
+      "message": "@{{{name}}} のメンバーによる"
+   },
+   "bymename": {
+      "message": "自分 (@{{{name}}}) による"
+   },
+   "byname": {
+      "message": "@{{{name}}} さんによる"
+   },
+   "byverifiedusers": {
+      "message": "認証済みユーザーによる"
    },
    "egJohnDoe123": {
       "message": "例: JohnDoe123"
@@ -1150,6 +1192,9 @@
    },
    "excluding": {
       "message": "除外"
+   },
+   "excludingexcluding": {
+      "message": "「{{{excluding}}}」を除外"
    },
    "list": {
       "message": "リスト"
@@ -1172,6 +1217,21 @@
    "matching": {
       "message": "一致"
    },
+   "matchingmatching": {
+      "message": "「{{{matching}}}」に一致"
+   },
+   "membersofflist": {
+      "message": "リストのメンバー..."
+   },
+   "mentioningname": {
+      "message": "@{{{name}}} さんへの@ツイート"
+   },
+   "mentioningmename": {
+      "message": "自分 (@{{{name}}}) への@ツイート"
+   },
+   "none": {
+      "message": "なし"
+   },
    "now": {
       "message": "さっき"
    },
@@ -1187,11 +1247,35 @@
    "retweeted": {
       "message": "さんがリツイート"
    },
+   "retweets": {
+      "message": "リツイート"
+   },
+   "retweetedexcluded": {
+      "message": "リツイートを除外"
+   },
    "search": {
       "message": "検索"
    },
    "searches": {
       "message": "検索"
+   },
+   "showingimages": {
+      "message": "画像を表示"
+   },
+   "showingimagesandvideos": {
+      "message": "画像と動画を表示"
+   },
+   "showinglinks": {
+      "message": "リンクを表示"
+   },
+   "showingvideos": {
+      "message": "動画を表示"
+   },
+   "soundsandpopups": {
+      "message": "サウンドとポップアップ"
+   },
+   "specificuser": {
+      "message": "指定したユーザー..."
    },
    "userfavorited": {
       "message": "{{{user}}} さんがお気に入りに登録しました"
@@ -1211,10 +1295,16 @@
    "userretweeted": {
       "message": "{{{user}}} さんがリツイートしました"
    },
+   "verifiedusers": {
+      "message": "認証済みユーザー"
+   },
    "videos": {
       "message": "動画"
    },
    "writtenin": {
       "message": "言語"
+   },
+   "writteninlang": {
+      "message": "言語: {{{lang}}}"
    }
 }
