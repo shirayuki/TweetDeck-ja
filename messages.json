@@ -207,7 +207,7 @@
       "message": "このリストを本当に削除しますか?"
    },
    "Areyousureyouwanttodeletethisscheduledupdate": {
-      "message": "このツイートの予約を本当に削除しますか?"
+      "message": "予約されたこのツイートを本当に削除しますか?"
    },
    "AreyousureyouwanttoleaveTweetDeck": {
       "message": "TweetDeck を本当に終了しますか?"
@@ -309,7 +309,7 @@
       "message": "アカウントを作成"
    },
    "Createanewlistorselectanexistinglisttoeditoraddacolumn": {
-      "message": "カラムを編集または追加するには、リストを新規作成するか既存のリストを選択してください"
+      "message": "カラムを編集または追加するには、新しいリストを作成するか既存のリストを選択してください"
    },
    "Createlink": {
       "message": "リンクを作成"
@@ -333,7 +333,7 @@
       "message": "削除"
    },
    "Deletingscheduledupdate": {
-      "message": "ツイートの予約を削除中!"
+      "message": "予約されたツイートを削除中!"
    },
    "Description": {
       "message": "説明"
@@ -1220,7 +1220,7 @@
    "matchingmatching": {
       "message": "「{{{matching}}}」に一致"
    },
-   "membersofflist": {
+   "membersoflist": {
       "message": "リストのメンバー..."
    },
    "mentioningname": {
@@ -1250,7 +1250,7 @@
    "retweets": {
       "message": "リツイート"
    },
-   "retweetedexcluded": {
+   "retweetsexcluded": {
       "message": "リツイートを除外"
    },
    "search": {
