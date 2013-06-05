@@ -278,6 +278,9 @@
    "Columns": {
       "message": "カラム"
    },
+   "Collapse": {
+      "message": "折りたたむ"
+   },
    "Columnsize": {
       "message": "カラムのサイズ:"
    },
@@ -403,6 +406,9 @@
    },
    "Enteranameorfullname": {
       "message": "@名前またはフルネームを入力"
+   },
+   "Expand": {
+      "message": "展開する"
    },
    "Failed1": {
       "message": "失敗しました: {{1}}"
@@ -637,6 +643,9 @@
    },
    "Narrow": {
       "message": "狭い"
+   },
+   "NewTweet": {
+      "message": "新規ツイート"
    },
    "NewTweetswillappearhere": {
       "message": "新しいツイートがここに表示されます。"
@@ -1223,6 +1232,9 @@
    "membersoflist": {
       "message": "リストのメンバー..."
    },
+   "mentioning": {
+      "message": "@ツイート"
+   },
    "mentioningname": {
       "message": "@{{{name}}} さんへの@ツイート"
    },
@@ -1291,6 +1303,9 @@
    },
    "usermentionedyou": {
       "message": "{{{user}}} さんがあなたに@ツイートしました"
+   },
+   "username": {
+      "message": "ユーザー名"
    },
    "userretweeted": {
       "message": "{{{user}}} さんがリツイートしました"
