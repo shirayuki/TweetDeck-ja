@@ -188,6 +188,27 @@
    "AllFriends": {
       "message": "すべての友だち"
    },
+   "Allaccounts": {
+      "message": "すべてのアカウント"
+   },
+   "Allexceptfavorites": {
+      "message": "お気に入り以外すべて"
+   },
+   "Allexceptfollowers": {
+      "message": "フォロワー以外すべて"
+   },
+   "Allexceptlists": {
+      "message": "リスト以外すべて"
+   },
+   "Allexceptmentions": {
+      "message": "@ツイート以外すべて"
+   },
+   "Allexceptretweets": {
+      "message": "リツイート以外すべて"
+   },
+   "Allinteractions": {
+      "message": "全インタラクション"
+   },
    "Alreadyhaveanaccount": {
       "message": "アカウントを既にお持ちですか?"
    },
@@ -275,11 +296,11 @@
    "Close": {
       "message": "閉じる"
    },
-   "Columns": {
-      "message": "カラム"
-   },
    "Collapse": {
       "message": "折りたたむ"
+   },
+   "Columns": {
+      "message": "カラム"
    },
    "Columnsize": {
       "message": "カラムのサイズ:"
@@ -1156,6 +1177,18 @@
    },
    "Yourpersonalbrowserforstayingintouchwithwhatshappeningnow": {
       "message": "Your personal browser for staying in touch with what's happening now"
+   },
+   "actionntimes": {
+      "message": "{{n}} 人が {{action}}"
+   },
+   "actiononce": {
+      "message": "1 人が {{action}}"
+   },
+   "actionTypeonly": {
+      "message": "{{actionType}} のみ"
+   },
+   "actionTypesandlastActionType": {
+      "message": "{{actionTypes}}, {{lastActionType}}"
    },
    "allTweets": {
       "message": "すべてのツイート"
