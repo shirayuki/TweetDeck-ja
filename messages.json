@@ -239,6 +239,9 @@
    "Areyousureyouwanttoremoveaccount1fromTweetDeck": {
       "message": "TweetDeck からアカウント '{{1}}' を本当に削除しますか?"
    },
+   "Atleast": {
+      "message": "少なくとも"
+   },
    "Aug": {
       "message": "8月"
    },
@@ -409,6 +412,9 @@
    },
    "EmbedthisTweet": {
       "message": "このツイートを埋め込む"
+   },
+   "Engagement": {
+      "message": "エンゲージメント"
    },
    "English": {
       "message": "英語"
@@ -1196,6 +1202,9 @@
    "allusers": {
       "message": "すべてのユーザー"
    },
+   "andatleast": {
+      "message": "少なくとも"
+   },
    "anylanguage": {
       "message": "あらゆる言語"
    },
@@ -1204,6 +1213,18 @@
    },
    "anything": {
       "message": "不問"
+   },
+   "atleast": {
+      "message": "少なくとも"
+   },
+   "atleast0countlabel0": {
+      "message": "少なくとも {{#0}}{{count}} {{label}}{{/0}}"
+   },
+   "atleast0countlabel01countlabel1and2countlabel2": {
+      "message": "少なくとも {{#0}}{{count}} {{label}}{{/0}}、{{#1}}{{count}} {{label}}{{/1}}、{{#2}}{{count}} {{label}}{{/2}}"
+   },
+   "atleast0countlabel0and1countlabel1": {
+      "message": "少なくとも {{#0}}{{count}} {{label}}{{/0}}、{{#1}}{{count}} {{label}}{{/1}}"
    },
    "by1": {
       "message": "{{1}} さんが作成"
@@ -1288,6 +1309,9 @@
    },
    "pages": {
       "message": "ページ"
+   },
+   "replies": {
+      "message": "返信"
    },
    "retweeted": {
       "message": "さんがリツイート"
