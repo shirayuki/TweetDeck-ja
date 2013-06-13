@@ -461,6 +461,9 @@
    "Filter": {
       "message": "フィルター"
    },
+   "Filteredby": {
+      "message": "フィルター:"
+   },
    "Filteringouttextglobal_filter_valuefromgetDisplayType": {
       "message": "{{getDisplayType}}の{{>text/global_filter_value}}を非表示"
    },
@@ -475,6 +478,9 @@
    },
    "Follow": {
       "message": "フォロー"
+   },
+   "Followedby": {
+      "message": "以下のユーザーがフォロー中:"
    },
    "Followers": {
       "message": "フォロワー"
@@ -1045,6 +1051,12 @@
    },
    "Thisupdatefromprotectedaccount1willbepubliclyvisibleonthedecklywebsiteWouldyouliketosendanyway": {
       "message": "This update from protected account @{{1}} will be publicly visible on the deck.ly website. Would you like to send anyway?"
+   },
+   "Thisuserhasbeensuspended": {
+      "message": "このユーザーは凍結されています"
+   },
+   "Thisuserhasnopubliclists": {
+      "message": "このユーザーには公開リストがありません"
    },
    "Timeline": {
       "message": "タイムライン"
