@@ -191,6 +191,9 @@
    "Allaccounts": {
       "message": "すべてのアカウント"
    },
+   "Allactivity": {
+      "message": "全アクティビティ"
+   },
    "Allexceptfavorites": {
       "message": "お気に入り以外すべて"
    },
@@ -664,6 +667,9 @@
    },
    "Morethanamonth": {
       "message": "1 か月以上"
+   },
+   "Mute": {
+      "message": "ミュート"
    },
    "Muting": {
       "message": "ミュート"
