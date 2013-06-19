@@ -353,6 +353,9 @@
    "Dec": {
       "message": "12月"
    },
+   "Defaultaccount": {
+      "message": "既定のアカウント"
+   },
    "Delete": {
       "message": "削除"
    },
@@ -673,6 +676,9 @@
    },
    "Muting": {
       "message": "ミュート"
+   },
+   "MutinggetDisplayTypetextglobal_filter_value": {
+      "message": "ミュート {{getDisplayType}} {{>text/global_filter_value}}"
    },
    "Mylists": {
       "message": "自分のリスト"
@@ -1012,6 +1018,9 @@
    },
    "Staysignedin": {
       "message": "ログイン状態を維持"
+   },
+   "StreamTweetsinrealtime": {
+      "message": "ツイート ストリームをリアルタイム表示"
    },
    "Subscribedto": {
       "message": "保存済み"
