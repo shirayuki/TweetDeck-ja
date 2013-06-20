@@ -215,6 +215,9 @@
    "Alreadyhaveanaccount": {
       "message": "アカウントを既にお持ちですか?"
    },
+   "Amharic": {
+      "message": "アムハラ語"
+   },
    "AnunknownerroroccurredPleasetryagainshortly": {
       "message": "不明なエラーが発生しました。もう一度お試しください。"
    },
@@ -223,6 +226,9 @@
    },
    "Apr": {
       "message": "4月"
+   },
+   "Arabic": {
+      "message": "アラビア語"
    },
    "Areyousureyouwanttocontinueediting": {
       "message": "編集を本当に続行しますか?"
@@ -242,6 +248,9 @@
    "Areyousureyouwanttoremoveaccount1fromTweetDeck": {
       "message": "TweetDeck からアカウント '{{1}}' を本当に削除しますか?"
    },
+   "Armenian": {
+      "message": "アルメニア語"
+   },
    "Atleast": {
       "message": "少なくとも"
    },
@@ -260,6 +269,9 @@
    "Backtocolumntitle": {
       "message": "{{{columntitle}}} に戻る"
    },
+   "Bengali": {
+      "message": "ベンガル語"
+   },
    "Block1": {
       "message": "{{1}} さんをブロック"
    },
@@ -268,6 +280,9 @@
    },
    "BlockscreenName": {
       "message": "@{{screenName}} さんをブロック"
+   },
+   "Bulgarian": {
+      "message": "ブルガリア語"
    },
    "Cancel": {
       "message": "キャンセル"
@@ -283,6 +298,12 @@
    },
    "Checkinto1": {
       "message": "{{1}} にチェックイン"
+   },
+   "Cherokee": {
+      "message": "チェロキー"
+   },
+   "Chinese": {
+      "message": "中国語"
    },
    "Clear": {
       "message": "消去"
@@ -347,6 +368,9 @@
    "Createlist": {
       "message": "リストを作成"
    },
+   "Danish": {
+      "message": "デンマーク語"
+   },
    "Dark": {
       "message": "暗"
    },
@@ -388,6 +412,9 @@
    },
    "Dragcolumnheadertoreorder": {
       "message": "並べ替えるにはカラムのヘッダーをドラッグしてください"
+   },
+   "Dutch": {
+      "message": "オランダ語"
    },
    "EPICFAIL": {
       "message": "EPICFAIL!"
@@ -476,6 +503,9 @@
    "FiltersActive": {
       "message": "フィルター有効"
    },
+   "Finnish": {
+      "message": "フィンランド語"
+   },
    "Flaggedlearnmore": {
       "message": "報告済み (詳細)"
    },
@@ -509,14 +539,17 @@
    "Forgotyourpassword": {
       "message": "パスワードをお忘れの場合"
    },
+   "French": {
+      "message": "フランス語"
+   },
    "FriendsCheckins": {
       "message": "友だちのチェックイン"
    },
-   "From1": {
-      "message": "{{{1}}} から"
-   },
    "French": {
       "message": "フランス語"
+   },
+   "From1": {
+      "message": "{{{1}}} から"
    },
    "Fromaccounts": {
       "message": "{{accounts}} から"
@@ -524,8 +557,14 @@
    "FromaccountgetUsernameaccount": {
       "message": "{{#account}}@{{getUsername}}{{/account}} から"
    },
+   "FromlocalizedLanguageNamebytextbing_translator_link": {
+      "message": "{{>text/bing_translator_link}} による{{localizedLanguageName}}からの翻訳"
+   },
    "General": {
       "message": "全般"
+   },
+   "Georgian": {
+      "message": "ジョージア語"
    },
    "German": {
       "message": "ドイツ語"
@@ -536,17 +575,35 @@
    "Globalfilter": {
       "message": "グローバルフィルター"
    },
+   "Greek": {
+      "message": "ギリシャ語"
+   },
    "GuestMode": {
       "message": "ゲスト モード"
    },
+   "Gujarati": {
+      "message": "グジャラート語"
+   },
+   "Hebrew": {
+      "message": "ヘブライ語"
+   },
    "Hide": {
       "message": "隠す"
+   },
+   "Hindi": {
+      "message": "ヒンディー語"
    },
    "Home": {
       "message": "ホーム"
    },
    "Hours12minutesamPmdaymonthyear": {
       "message": "20{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
+   },
+   "Hungarian": {
+      "message": "ハンガリー語"
+   },
+   "Icelandic": {
+      "message": "アイスランド語"
    },
    "IfyoucancelyoureditingnowyouwillloseanychangesmadeAreyousureyouwanttocancel": {
       "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
@@ -560,8 +617,17 @@
    "Includetextuser_link_screennamein": {
       "message": "{{>text/user_link_screenname}} さんを以下のリストに追加:"
    },
+   "Indonesian": {
+      "message": "インドネシア語"
+   },
    "Interactions": {
       "message": "インタラクション"
+   },
+   "Inuktitut": {
+      "message": "イヌクティトゥト語"
+   },
+   "Italian": {
+      "message": "イタリア語"
    },
    "Itsyou": {
       "message": "自分です"
@@ -581,11 +647,23 @@
    "Justnow": {
       "message": "たった今"
    },
+   "Kannada": {
+      "message": "カンナダ語"
+   },
    "Keepmesignedin": {
       "message": "ログイン状態を維持"
    },
    "Keyboardshortcuts": {
       "message": "キーボード ショートカット"
+   },
+   "Khmer": {
+      "message": "クメール語"
+   },
+   "Korean": {
+      "message": "韓国語"
+   },
+   "Lao": {
+      "message": "ラオ語"
    },
    "Large": {
       "message": "大"
@@ -614,6 +692,9 @@
    "Lists1follows": {
       "message": "{{1}} さんをフォローしているリスト"
    },
+   "Lithuanian": {
+      "message": "リトアニア語"
+   },
    "Loadinglistmembers": {
       "message": "リストのメンバーを読み込み中..."
    },
@@ -622,6 +703,12 @@
    },
    "MEGAFAIL": {
       "message": "MEGAFAIL!"
+   },
+   "Malayalam": {
+      "message": "マラヤーラム語"
+   },
+   "Maldivian": {
+      "message": "モルディブ語"
    },
    "Mar": {
       "message": "3月"
@@ -680,6 +767,9 @@
    "MutinggetDisplayTypetextglobal_filter_value": {
       "message": "ミュート {{getDisplayType}} {{>text/global_filter_value}}"
    },
+   "Myanmar": {
+      "message": "ミャンマー語"
+   },
    "Mylists": {
       "message": "自分のリスト"
    },
@@ -688,6 +778,9 @@
    },
    "Narrow": {
       "message": "狭い"
+   },
+   "Nepali": {
+      "message": "ネパール語"
    },
    "NewTweet": {
       "message": "新規ツイート"
@@ -706,6 +799,9 @@
    },
    "NorecentTweets": {
       "message": "最近のツイートはありません。"
+   },
+   "Norwegian": {
+      "message": "ノルウェー語"
    },
    "Notificationpopups": {
       "message": "ポップアップで通知"
@@ -758,8 +854,14 @@
    "OriginalTweet1": {
       "message": "元のツイート: {{1}}"
    },
+   "Oriya": {
+      "message": "オリヤー語"
+   },
    "Orregisterforafreeaccount": {
       "message": "または無料アカウントを登録"
+   },
+   "Panjabi": {
+      "message": "パンジャブ語"
    },
    "Password": {
       "message": "パスワード"
@@ -769,6 +871,9 @@
    },
    "Passwordsdonotmatch": {
       "message": "パスワードが一致しません。"
+   },
+   "Persian": {
+      "message": "ペルシア語"
    },
    "Pictureupload": {
       "message": "画像のアップロード"
@@ -806,11 +911,17 @@
    "Plural_numbersecondsago": {
       "message": "{{plural_number}}秒前"
    },
+   "Polish": {
+      "message": "ポーランド語"
+   },
    "Popup": {
       "message": "ポップアップ"
    },
    "Popups": {
       "message": "ポップアップ"
+   },
+   "Portuguese": {
+      "message": "ポルトガル語"
    },
    "Postingfrom": {
       "message": "Posting from"
@@ -895,6 +1006,9 @@
    },
    "Retweets": {
       "message": "リツイート"
+   },
+   "Russian": {
+      "message": "ロシア語"
    },
    "Save": {
       "message": "保存"
@@ -1001,6 +1115,9 @@
    "Signup": {
       "message": "ユーザー登録"
    },
+   "Sinhala": {
+      "message": "シンハラ語"
+   },
    "Small": {
       "message": "小"
    },
@@ -1015,6 +1132,9 @@
    },
    "Source": {
       "message": "ソース"
+   },
+   "Spanish": {
+      "message": "スペイン語"
    },
    "Staysignedin": {
       "message": "ログイン状態を維持"
@@ -1043,20 +1163,35 @@
    "Suggested": {
       "message": "おすすめ"
    },
+   "Swedish": {
+      "message": "スウェーデン語"
+   },
    "SwitchtoTweetDeckDesktoptoauthorize": {
       "message": "認証のため TweetDeck デスクトップに切り替え"
    },
    "Syncingaccounts": {
       "message": "アカウントを同期中..."
    },
-   "Theme": {
-      "message": "テーマ:"
+   "Tagalog": {
+      "message": "タガログ語"
+   },
+   "Tamil": {
+      "message": "タミル語"
+   },
+   "Telugu": {
+      "message": "テルグ語"
    },
    "TermsofService": {
       "message": "サービス利用規約"
    },
    "Textcontent": {
       "message": "本文"
+   },
+   "Thai": {
+      "message": "タイ語"
+   },
+   "Theme": {
+      "message": "テーマ:"
    },
    "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
@@ -1073,6 +1208,9 @@
    "Thisuserhasnopubliclists": {
       "message": "このユーザーには公開リストがありません"
    },
+   "Tibetan": {
+      "message": "チベット語"
+   },
    "Timeline": {
       "message": "タイムライン"
    },
@@ -1082,8 +1220,17 @@
    "Translate": {
       "message": "翻訳"
    },
+   "TranslateTweet": {
+      "message": "ツイートを翻訳"
+   },
+   "TranslatethisTweet": {
+      "message": "このツイートを翻訳"
+   },
    "Trends": {
       "message": "トレンド"
+   },
+   "Turkish": {
+      "message": "トルコ語"
    },
    "Tweet": {
       "message": "ツイート"
@@ -1151,11 +1298,17 @@
    "Uploading1": {
       "message": "アップロード中 {{1}}"
    },
+   "Urdu": {
+      "message": "ウルドゥー語"
+   },
    "Users": {
       "message": "ユーザー"
    },
    "Using": {
       "message": "以下を含む"
+   },
+   "Vietnamese": {
+      "message": "ベトナム語"
    },
    "View": {
       "message": "表示"
