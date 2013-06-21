@@ -189,7 +189,7 @@
       "message": "すべての友だち"
    },
    "Allaccounts": {
-      "message": "すべてのアカウント"
+      "message": "全アカウント"
    },
    "Allactivity": {
       "message": "全アクティビティ"
@@ -210,7 +210,7 @@
       "message": "リツイート以外すべて"
    },
    "Allinteractions": {
-      "message": "全インタラクション"
+      "message": "全インタラ"
    },
    "Alreadyhaveanaccount": {
       "message": "アカウントを既にお持ちですか?"
@@ -447,7 +447,7 @@
       "message": "このツイートを埋め込む"
    },
    "Engagement": {
-      "message": "エンゲージメント"
+      "message": "エンゲージ"
    },
    "English": {
       "message": "英語"
@@ -520,6 +520,9 @@
    },
    "Followers": {
       "message": "フォロワー"
+   },
+   "Followfromaccounts": {
+      "message": "指定したアカウントからフォロー..."
    },
    "Following": {
       "message": "フォロー中"
@@ -621,7 +624,7 @@
       "message": "インドネシア語"
    },
    "Interactions": {
-      "message": "インタラクション"
+      "message": "インタラ"
    },
    "Inuktitut": {
       "message": "イヌクティトゥト語"
@@ -704,6 +707,9 @@
    "MEGAFAIL": {
       "message": "MEGAFAIL!"
    },
+   "Makedefault": {
+      "message": "既定にする"
+   },
    "Malayalam": {
       "message": "マラヤーラム語"
    },
@@ -765,7 +771,7 @@
       "message": "ミュート"
    },
    "MutinggetDisplayTypetextglobal_filter_value": {
-      "message": "ミュート {{getDisplayType}} {{>text/global_filter_value}}"
+      "message": "ミュート: {{getDisplayType}} {{>text/global_filter_value}}"
    },
    "Myanmar": {
       "message": "ミャンマー語"
@@ -1021,6 +1027,9 @@
    },
    "Scheduled": {
       "message": "予約済み"
+   },
+   "Scheduledfor": {
+      "message": "予約日時:"
    },
    "Schedulingupdate": {
       "message": "ツイートの予約"
@@ -1300,6 +1309,12 @@
    },
    "Urdu": {
       "message": "ウルドゥー語"
+   },
+   "User": {
+      "message": "ユーザー"
+   },
+   "Usernameorlistname": {
+      "message": "ユーザー名またはリスト名"
    },
    "Users": {
       "message": "ユーザー"
