@@ -677,6 +677,9 @@
    "Largest": {
       "message": "最大"
    },
+   "Left": {
+      "message": "左"
+   },
    "Light": {
       "message": "明"
    },
@@ -700,6 +703,9 @@
    },
    "Lithuanian": {
       "message": "リトアニア語"
+   },
+   "Loading": {
+      "message": "読み込み中..."
    },
    "Loadinglistmembers": {
       "message": "リストのメンバーを読み込み中..."
@@ -1028,6 +1034,9 @@
    "Retweets": {
       "message": "リツイート"
    },
+   "Right": {
+      "message": "右"
+   },
    "Russian": {
       "message": "ロシア語"
    },
@@ -1220,6 +1229,12 @@
    "Theme": {
       "message": "テーマ:"
    },
+   "TheresalreadyaTweetDeckaccountforthatemailaddress": {
+      "message": "指定したメール アドレスの TweetDeck アカウントが既に存在します。"
+   },
+   "TherewasaproblemresettingyourpasswordPleaseretry": {
+      "message": "パスワードを再設定する際にエラーが発生しました。もう一度お試しください。"
+   },
    "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
    },
@@ -1345,6 +1360,9 @@
    },
    "View": {
       "message": "表示"
+   },
+   "Viewlarger": {
+      "message": "大きく表示"
    },
    "Viewmessages": {
       "message": "メッセージを表示"
@@ -1507,6 +1525,9 @@
    },
    "mentioningmename": {
       "message": "自分 (@{{{name}}}) への@ツイート"
+   },
+   "next": {
+      "message": "次"
    },
    "none": {
       "message": "なし"
