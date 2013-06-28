@@ -665,6 +665,9 @@
    "Korean": {
       "message": "韓国語"
    },
+   "L": {
+      "message": "大"
+   },
    "Lao": {
       "message": "ラオ語"
    },
@@ -703,6 +706,9 @@
    },
    "LookingforGoogleBuzzWeresorrybutsupportforGoogleBuzzhasbeendiscontinued": {
       "message": "Google Buzz をお探しですか? 申し訳ありませんが、Google Buzz への対応は終了しました。"
+   },
+   "M": {
+      "message": "中"
    },
    "MEGAFAIL": {
       "message": "MEGAFAIL!"
@@ -827,6 +833,9 @@
    "Oct": {
       "message": "10月"
    },
+   "Off": {
+      "message": "OFF"
+   },
    "Oned": {
       "message": "{{one}}日"
    },
@@ -935,6 +944,9 @@
    "Previewmediaincolumns": {
       "message": "カラム内で画像/動画をプレビュー"
    },
+   "Previews": {
+      "message": "プレビュー"
+   },
    "Privacy": {
       "message": "プライバシー"
    },
@@ -1015,6 +1027,9 @@
    },
    "Russian": {
       "message": "ロシア語"
+   },
+   "S": {
+      "message": "小"
    },
    "Save": {
       "message": "保存"
