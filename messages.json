@@ -971,6 +971,9 @@
    "Recent": {
       "message": "最近"
    },
+   "Recentsearcheswillappearhere": {
+      "message": "最近の検索がここに表示されます。"
+   },
    "Register": {
       "message": "登録"
    },
