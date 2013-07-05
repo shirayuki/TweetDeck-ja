@@ -404,6 +404,9 @@
    "Directmessageto1": {
       "message": "{{1}} さんへのダイレクト メッセージ"
    },
+   "Displaymediathatmaycontainsensitivecontent": {
+      "message": "不適切な内容を含むおそれがあるメディアを表示"
+   },
    "Done": {
       "message": "完了"
    },
