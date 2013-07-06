@@ -134,6 +134,9 @@
    "9th": {
       "message": "9日"
    },
+   "AM": {
+      "message": "AM"
+   },
    "Account": {
       "message": "アカウント"
    },
@@ -158,6 +161,9 @@
    "AddNewAccount": {
       "message": "新規アカウントを追加"
    },
+   "AddacolumntomonitorTweetsforanyTrend": {
+      "message": "ツイートをモニターするトレンドのカラムを追加してください"
+   },
    "Addallofyourcolumnsandaccounts": {
       "message": "自分のカラムとアカウントをすべて追加"
    },
@@ -175,6 +181,9 @@
    },
    "Addtwitteraccount": {
       "message": "Twitter アカウントを追加"
+   },
+   "AddthisTweettoyourwebsitebycopyingthecodebelowIfyourCMSsupportsityoucanjustpasteinthelink": {
+      "message": "以下のコードをコピーしてあなたのウェブサイトにツイートを追加しましょう。お使いの CMS が対応している場合はリンク内に貼り付けるだけです。"
    },
    "AddyouraccountstoTweetDeck": {
       "message": "TweetDeck に自分のアカウントを追加"
@@ -512,6 +521,9 @@
    "Flaggedlearnmore": {
       "message": "報告済み (詳細)"
    },
+   "Flaggingmedia": {
+      "message": "画像/動画を報告中..."
+   },
    "Flagmedia": {
       "message": "画像/動画を報告"
    },
@@ -602,9 +614,6 @@
    "Home": {
       "message": "ホーム"
    },
-   "Hours12minutesamPmdaymonthyear": {
-      "message": "20{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
-   },
    "Hungarian": {
       "message": "ハンガリー語"
    },
@@ -680,6 +689,9 @@
    "Largest": {
       "message": "最大"
    },
+   "Learnmore": {
+      "message": "詳細はこちら"
+   },
    "Left": {
       "message": "左"
    },
@@ -743,9 +755,6 @@
    "Medium": {
       "message": "中"
    },
-   "Mention": {
-      "message": "@ツイート"
-   },
    "Mention1": {
       "message": "@ツイート {{1}}"
    },
@@ -766,9 +775,6 @@
    },
    "Messages": {
       "message": "メッセージ"
-   },
-   "More": {
-      "message": "続き"
    },
    "Moreinformation": {
       "message": "詳細情報"
@@ -839,35 +845,14 @@
    "Nov": {
       "message": "11月"
    },
+   "OK": {
+      "message": "OK"
+   },
    "Oct": {
       "message": "10月"
    },
    "Off": {
       "message": "OFF"
-   },
-   "Oned": {
-      "message": "{{one}}日"
-   },
-   "Onedaysago": {
-      "message": "{{one}}日前"
-   },
-   "Oneh": {
-      "message": "{{one}}時間"
-   },
-   "Onehoursago": {
-      "message": "{{one}}時間前"
-   },
-   "Onem": {
-      "message": "{{one}}分"
-   },
-   "Oneminutesago": {
-      "message": "{{one}}分前"
-   },
-   "Ones": {
-      "message": "{{one}}秒"
-   },
-   "Onesecondsago": {
-      "message": "{{one}}秒前"
    },
    "Oopsyoudonthaveanyaccountsselected": {
       "message": "エラー - アカウントを何も選択していません。"
@@ -884,6 +869,9 @@
    "Orregisterforafreeaccount": {
       "message": "または無料アカウントを登録"
    },
+   "PM": {
+      "message": "PM"
+   },
    "Panjabi": {
       "message": "パンジャブ語"
    },
@@ -895,6 +883,9 @@
    },
    "Passwordsdonotmatch": {
       "message": "パスワードが一致しません。"
+   },
+   "Pending": {
+      "message": "保留中"
    },
    "Persian": {
       "message": "ペルシア語"
@@ -911,35 +902,8 @@
    "Pleaseuseavalidemailaddress": {
       "message": "正しいメール アドレスを使用してください"
    },
-   "Plural_numberd": {
-      "message": "{{plural_number}}日"
-   },
-   "Plural_numberdaysago": {
-      "message": "{{plural_number}}日前"
-   },
-   "Plural_numberh": {
-      "message": "{{plural_number}}時間"
-   },
-   "Plural_numberhoursago": {
-      "message": "{{plural_number}}時間前"
-   },
-   "Plural_numberm": {
-      "message": "{{plural_number}}分"
-   },
-   "Plural_numberminutesago": {
-      "message": "{{plural_number}}分前"
-   },
-   "Plural_numbers": {
-      "message": "{{plural_number}}秒"
-   },
-   "Plural_numbersecondsago": {
-      "message": "{{plural_number}}秒前"
-   },
    "Polish": {
       "message": "ポーランド語"
-   },
-   "Popup": {
-      "message": "ポップアップ"
    },
    "Popups": {
       "message": "ポップアップ"
@@ -952,6 +916,9 @@
    },
    "Previewmediaincolumns": {
       "message": "カラム内で画像/動画をプレビュー"
+   },
+   "Preview": {
+      "message": "プレビュー"
    },
    "Previews": {
       "message": "プレビュー"
@@ -1094,9 +1061,6 @@
    "Sendingupdateto1": {
       "message": "{{1}} 宛のツイートの送信"
    },
-   "Sendmessagefrom": {
-      "message": "Send message from"
-   },
    "SentviaTweetDeckwwwtweetdeckcom": {
       "message": "TweetDeck (www.tweetdeck.com) で送信しました"
    },
@@ -1163,9 +1127,6 @@
    "Smallest": {
       "message": "最小"
    },
-   "Sound": {
-      "message": "サウンド"
-   },
    "Sounds": {
       "message": "サウンド"
    },
@@ -1185,7 +1146,7 @@
       "message": "保存済み"
    },
    "Success1": {
-      "message": "完了しました: {{1}}"
+      "message": "完了: {{1}}"
    },
    "SuccessfullyblockedandreportedscreenName": {
       "message": "@{{screenName}} さんをブロックして報告しました"
@@ -1493,6 +1454,12 @@
    "excludingexcluding": {
       "message": "「{{{excluding}}}」を除外"
    },
+   "followers": {
+      "message": "フォロワー"
+   },
+   "hours12minutesamPmdaymonthyear": {
+      "message": "20{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
+   },
    "list": {
       "message": "リスト"
    },
@@ -1517,6 +1484,9 @@
    "matchingmatching": {
       "message": "「{{{matching}}}」に一致"
    },
+   "media": {
+      "message": "画像/動画"
+   },
    "membersoflist": {
       "message": "リストのメンバー..."
    },
@@ -1525,6 +1495,12 @@
    },
    "mentioningname": {
       "message": "@{{{name}}} さんへの@ツイート"
+   },
+   "mentions": {
+      "message": "@ツイート"
+   },
+   "more": {
+      "message": "続き"
    },
    "mentioningmename": {
       "message": "自分 (@{{{name}}}) への@ツイート"
@@ -1538,6 +1514,30 @@
    "now": {
       "message": "さっき"
    },
+   "oned": {
+      "message": "{{one}}日"
+   },
+   "onedayago": {
+      "message": "{{one}}日前"
+   },
+   "oneh": {
+      "message": "{{one}}時間"
+   },
+   "onehourago": {
+      "message": "{{one}}時間前"
+   },
+   "onem": {
+      "message": "{{one}}分"
+   },
+   "oneminuteago": {
+      "message": "{{one}}分前"
+   },
+   "ones": {
+      "message": "{{one}}秒"
+   },
+   "onesecondago": {
+      "message": "{{one}}秒前"
+   },
    "owneraddedyoutothelistlist": {
       "message": "{{{owner}}} さんがあなたをリスト {{{list}}} に追加しました。"
    },
@@ -1546,6 +1546,33 @@
    },
    "pages": {
       "message": "ページ"
+   },
+   "plural_numberd": {
+      "message": "{{plural_number}}日"
+   },
+   "plural_numberdaysago": {
+      "message": "{{plural_number}}日前"
+   },
+   "plural_numberh": {
+      "message": "{{plural_number}}時間"
+   },
+   "plural_numberhoursago": {
+      "message": "{{plural_number}}時間前"
+   },
+   "plural_numberm": {
+      "message": "{{plural_number}}分"
+   },
+   "plural_numberminutesago": {
+      "message": "{{plural_number}}分前"
+   },
+   "plural_numbers": {
+      "message": "{{plural_number}}秒"
+   },
+   "plural_numbersecondsago": {
+      "message": "{{plural_number}}秒前"
+   },
+   "popups": {
+      "message": "ポップアップ"
    },
    "replies": {
       "message": "返信"
@@ -1577,11 +1604,20 @@
    "showingvideos": {
       "message": "動画を表示"
    },
+   "sounds": {
+      "message": "サウンド"
+   },
    "soundsandpopups": {
       "message": "サウンドとポップアップ"
    },
+   "source": {
+      "message": "ソース"
+   },
    "specificuser": {
       "message": "指定したユーザー..."
+   },
+   "user": {
+      "message": "ユーザー"
    },
    "userfavorited": {
       "message": "{{{user}}} さんがお気に入りに登録しました"
@@ -1601,8 +1637,14 @@
    "username": {
       "message": "ユーザー名"
    },
+   "usernamelistname": {
+      "message": "@ユーザー名/リスト名"
+   },
    "userretweeted": {
       "message": "{{{user}}} さんがリツイートしました"
+   },
+   "verified": {
+      "message": "認証済み"
    },
    "verifiedusers": {
       "message": "認証済みユーザー"
