@@ -623,6 +623,9 @@
    "IfyoucancelyoureditingnowyouwillloseanychangesmadeAreyousureyouwanttocancel": {
       "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
    },
+   "Imagewillappearasalink": {
+      "message": "画像はリンクとして表示されます"
+   },
    "ImportfromTweetDeckdesktop": {
       "message": "TweetDeck デスクトップからインポート"
    },
