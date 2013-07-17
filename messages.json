@@ -531,7 +531,7 @@
       "message": "フォロー"
    },
    "Followedby": {
-      "message": "以下のユーザーがフォロー中:"
+      "message": "フォロワー:"
    },
    "Followers": {
       "message": "フォロワー"
