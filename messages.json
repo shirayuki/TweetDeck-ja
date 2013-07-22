@@ -35,6 +35,9 @@
    "1Profile": {
       "message": "{{1}} プロフィール"
    },
+   "1by2": {
+      "message": "{{{1}}} by {{2}}"
+   },
    "1days": {
       "message": "{{1}} 日"
    },
@@ -140,6 +143,12 @@
    "Account": {
       "message": "アカウント"
    },
+   "AccountSettings": {
+      "message": "アカウント設定"
+   },
+   "Accountprofile": {
+      "message": "アカウントのプロフィール"
+   },
    "Accounts": {
       "message": "アカウント"
    },
@@ -161,14 +170,44 @@
    "AddNewAccount": {
       "message": "新規アカウントを追加"
    },
+   "AddTwitteraccount": {
+      "message": "Twitter アカウントを追加"
+   },
+   "AddaDirectMessagescolumnforyouraccounts": {
+      "message": "Add a Direct Messages column for your accounts"
+   },
+   "AddaFavoritescolumnforyourownaccountsorsearchforauserandaddtheirs": {
+      "message": "Add a Favorites column for your own accounts, or search for a user and add theirs"
+   },
+   "AddaMentionscolumnforyourownaccountsorsearchforauserandaddtheirs": {
+      "message": "Add a Mentions column for your own accounts, or search for a user and add theirs"
+   },
+   "AddaTimelinecolumnforyourownaccountsorsearchforauserandaddtheirs": {
+      "message": "Add a Timeline column for your own accounts, or search for a user and add theirs"
+   },
+   "AddacolumnforTweetssentfromyourownaccountsorsearchforauserandaddtheirs": {
+      "message": "Add a column for Tweets sent from your own accounts, or search for a user and add theirs"
+   },
+   "AddacolumnforasavedorrecentSearchorenteranewsearchinthebox": {
+      "message": "Add a column for a saved or recent Search, or enter a new search in the box"
+   },
    "AddacolumntomonitorTweetsforanyTrend": {
       "message": "ツイートをモニターするトレンドのカラムを追加してください"
+   },
+   "Addacolumntomonitoryourmentionsretweetsfavouritesfollowsandlistadditionsinrealtime": {
+      "message": "Add a column to monitor your mentions, retweets, favourites, follows and list additions in real time"
+   },
+   "Addacolumntoviewfavouritesfollowsandlistadditionsbyyourfriendsinrealtime": {
+      "message": "Add a column to view favourites, follows and list additions by your friends in real time"
    },
    "Addallofyourcolumnsandaccounts": {
       "message": "自分のカラムとアカウントをすべて追加"
    },
    "Addasnewcolumn": {
       "message": "新規カラムとして追加"
+   },
+   "Addcolumn": {
+      "message": "カラムを追加"
    },
    "Addfacebookaccount": {
       "message": "Facebook アカウントを追加"
@@ -179,11 +218,11 @@
    "Addorremovefromlists": {
       "message": "リストに追加または削除..."
    },
-   "Addtwitteraccount": {
-      "message": "Twitter アカウントを追加"
-   },
    "AddthisTweettoyourwebsitebycopyingthecodebelowIfyourCMSsupportsityoucanjustpasteinthelink": {
       "message": "以下のコードをコピーしてあなたのウェブサイトにツイートを追加しましょう。お使いの CMS が対応している場合はリンク内に貼り付けるだけです。"
+   },
+   "Addtwitteraccount": {
+      "message": "Twitter アカウントを追加"
    },
    "AddyouraccountstoTweetDeck": {
       "message": "TweetDeck に自分のアカウントを追加"
@@ -224,6 +263,9 @@
    "Alreadyhaveanaccount": {
       "message": "アカウントを既にお持ちですか?"
    },
+   "Alwaysshowmesensitivemedia": {
+      "message": "Always show me sensitive media"
+   },
    "Amharic": {
       "message": "アムハラ語"
    },
@@ -251,11 +293,11 @@
    "AreyousureyouwanttoleaveTweetDeck": {
       "message": "TweetDeck を本当に終了しますか?"
    },
-   "Areyousureyouwanttosend": {
-      "message": "本当に送信しますか?"
-   },
    "Areyousureyouwanttoremoveaccount1fromTweetDeck": {
       "message": "TweetDeck からアカウント '{{1}}' を本当に削除しますか?"
+   },
+   "Areyousureyouwanttosend": {
+      "message": "本当に送信しますか?"
    },
    "Armenian": {
       "message": "アルメニア語"
@@ -281,6 +323,21 @@
    "Bengali": {
       "message": "ベンガル語"
    },
+   "Better": {
+      "message": "Better"
+   },
+   "Bettercolumnmanagement": {
+      "message": "Better column management"
+   },
+   "BingTranslator": {
+      "message": "Bing Translator"
+   },
+   "BitlyAPIKey": {
+      "message": "Bit.ly API キー"
+   },
+   "BitlyUsername": {
+      "message": "Bit.ly ユーザー名"
+   },
    "Block1": {
       "message": "{{1}} さんをブロック"
    },
@@ -292,6 +349,9 @@
    },
    "Bulgarian": {
       "message": "ブルガリア語"
+   },
+   "By": {
+      "message": "By"
    },
    "Cancel": {
       "message": "キャンセル"
@@ -305,6 +365,12 @@
    "Change": {
       "message": "変更"
    },
+   "Changelocation": {
+      "message": "場所を変更"
+   },
+   "Checkforapplicationupdates": {
+      "message": "アプリケーションのアップデートを確認"
+   },
    "Checkinto1": {
       "message": "{{1}} にチェックイン"
    },
@@ -313,6 +379,9 @@
    },
    "Chinese": {
       "message": "中国語"
+   },
+   "Cleanerlook": {
+      "message": "Cleaner look"
    },
    "Clear": {
       "message": "消去"
@@ -365,7 +434,10 @@
    "Conversation": {
       "message": "会話"
    },
-   "Createaccount": {
+   "Couldnotauthenticateyou": {
+      "message": "Could not authenticate you"
+   },
+   "CreateAccount": {
       "message": "アカウントを作成"
    },
    "Createanewlistorselectanexistinglisttoeditoraddacolumn": {
@@ -376,6 +448,9 @@
    },
    "Createlist": {
       "message": "リストを作成"
+   },
+   "CustomColumn": {
+      "message": "カスタム カラム"
    },
    "Danish": {
       "message": "デンマーク語"
@@ -398,6 +473,9 @@
    "Deleting": {
       "message": "削除"
    },
+   "Deletinglist": {
+      "message": "Deleting list!"
+   },
    "Deletingscheduledupdate": {
       "message": "予約されたツイートを削除中!"
    },
@@ -414,13 +492,16 @@
       "message": "{{1}} さんへのダイレクト メッセージ"
    },
    "Displaymediathatmaycontainsensitivecontent": {
-      "message": "不適切な内容を含むおそれがあるメディアを表示"
+      "message": "不適切な内容を含むおそれがある画像/動画を表示"
    },
    "Done": {
       "message": "完了"
    },
    "DonthaveaTweetDeckaccount": {
       "message": "TweetDeck アカウントをお持ちではありませんか?"
+   },
+   "Draganddroptoreordercolumns": {
+      "message": "カラムを並べ替えるにはドラッグ & ドロップしてください。"
    },
    "Dragcolumnheadertoreorder": {
       "message": "並べ替えるにはカラムのヘッダーをドラッグしてください"
@@ -431,14 +512,17 @@
    "EPICFAIL": {
       "message": "EPICFAIL!"
    },
+   "Easieraccesstocolumnlevelsettings": {
+      "message": "Easier access to column-level settings."
+   },
    "Edit": {
       "message": "編集"
    },
+   "EditDetails": {
+      "message": "詳細を編集"
+   },
    "EditampRT": {
       "message": "編集 &amp; RT"
-   },
-   "Editdetails": {
-      "message": "詳細を編集"
    },
    "Editlist": {
       "message": "リストを編集"
@@ -452,7 +536,7 @@
    "Emailstatus": {
       "message": "メールの状態"
    },
-   "Emailthistweet": {
+   "EmailthisTweet": {
       "message": "このツイートをメールで送信"
    },
    "EmbedthisTweet": {
@@ -464,29 +548,38 @@
    "English": {
       "message": "英語"
    },
+   "Enter": {
+      "message": "Enter"
+   },
    "Enterahashtagorkeyword": {
       "message": "#ハッシュタグやキーワードを入力"
    },
    "Enteranameorfullname": {
       "message": "@名前またはフルネームを入力"
    },
-   "Enterwordstomatch": {
-      "message": "検索語句を入力"
-   },
    "Enterwordstoexclude": {
       "message": "除外する語句を入力"
    },
-   "Enteranameorfullname": {
-      "message": "@名前またはフルネームを入力"
+   "Enterwordstomatch": {
+      "message": "検索語句を入力"
+   },
+   "ErrorFailedtoflagmediaPleasetryagain": {
+      "message": "エラー: 画像/動画を報告できませんでした。もう一度お試しください。"
    },
    "Expand": {
       "message": "展開する"
+   },
+   "Expandandcollapsenavigationasyouwish": {
+      "message": "Expand and collapse navigation as you wish."
    },
    "Failed1": {
       "message": "失敗しました: {{1}}"
    },
    "FailedRetweet": {
       "message": "失敗しました: リツイート"
+   },
+   "Failedtomarkmessageasread": {
+      "message": "メッセージを既読にできませんでした。"
    },
    "Favorite": {
       "message": "お気に入り"
@@ -508,6 +601,9 @@
    },
    "Filteredby": {
       "message": "フィルター:"
+   },
+   "Filtererror": {
+      "message": "フィルター エラー"
    },
    "Filteringouttextglobal_filter_valuefromgetDisplayType": {
       "message": "{{getDisplayType}}の{{>text/global_filter_value}}を非表示"
@@ -563,17 +659,14 @@
    "FriendsCheckins": {
       "message": "友だちのチェックイン"
    },
-   "French": {
-      "message": "フランス語"
-   },
    "From1": {
       "message": "{{{1}}} から"
    },
-   "Fromaccounts": {
-      "message": "{{accounts}} から"
-   },
    "FromaccountgetUsernameaccount": {
       "message": "{{#account}}@{{getUsername}}{{/account}} から"
+   },
+   "Fromaccounts": {
+      "message": "{{accounts}} から"
    },
    "FromlocalizedLanguageNamebytextbing_translator_link": {
       "message": "{{>text/bing_translator_link}} による{{localizedLanguageName}}からの翻訳"
@@ -581,11 +674,17 @@
    "General": {
       "message": "全般"
    },
+   "GeneralSettings": {
+      "message": "全般設定"
+   },
    "Georgian": {
       "message": "ジョージア語"
    },
    "German": {
       "message": "ドイツ語"
+   },
+   "Getstarted": {
+      "message": "始めましょう"
    },
    "Getstartedwithoutsigningin": {
       "message": "ログインして始めましょう"
@@ -623,14 +722,29 @@
    "IfyoucancelyoureditingnowyouwillloseanychangesmadeAreyousureyouwanttocancel": {
       "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
    },
+   "IfyoucloseyoureditsnowyouwillloseanychangesmadeAreyousureyouwanttostopediting": {
+      "message": "If you close your edits now you will lose any changes made. Are you sure you want to stop editing?"
+   },
    "Imagewillappearasalink": {
       "message": "画像はリンクとして表示されます"
    },
    "ImportfromTweetDeckdesktop": {
       "message": "TweetDeck デスクトップからインポート"
    },
+   "Improved": {
+      "message": "Improved"
+   },
+   "Improvednavigation": {
+      "message": "Improved navigation"
+   },
    "Inbox": {
       "message": "受信箱"
+   },
+   "Includemedia": {
+      "message": "画像/動画を含める"
+   },
+   "IncludeparentTweet": {
+      "message": "親ツイートを含める"
    },
    "Includetextuser_link_screennamein": {
       "message": "{{>text/user_link_screenname}} さんを以下のリストに追加:"
@@ -638,14 +752,23 @@
    "Indonesian": {
       "message": "インドネシア語"
    },
+   "InordertouseTweetDeckyoumusthaveaTweetDeckaccountThisallowsyoutomanagemanyTwitteraccountsallfromthesamescreen": {
+      "message": "In order to use TweetDeck you must have a TweetDeck account. This allows you to manage many Twitter accounts all from the same screen."
+   },
    "Interactions": {
       "message": "インタラ"
    },
    "Inuktitut": {
       "message": "イヌクティトゥト語"
    },
+   "Invalidsearchquery": {
+      "message": "検索条件が無効です"
+   },
    "Italian": {
       "message": "イタリア語"
+   },
+   "Itsfine": {
+      "message": "It's fine "
    },
    "Itsyou": {
       "message": "自分です"
@@ -707,13 +830,25 @@
    "Liking": {
       "message": "いいね"
    },
-   "Linkshortening": {
+   "LinkShortening": {
       "message": "リンク短縮"
    },
-   "Linktothistweet": {
+   "Linkswillbeshortenedbybitly": {
+      "message": "Links will be shortened by bit.ly"
+   },
+   "LinktothisTweet": {
       "message": "このツイートにリンク"
    },
+   "Linkwillbeshortenedbybitly": {
+      "message": "リンクは bit.ly で短縮されます"
+   },
+   "ListDetails": {
+      "message": "リストの詳細"
+   },
    "Listed": {
+      "message": "リスト"
+   },
+   "Lists": {
       "message": "リスト"
    },
    "Lists1follows": {
@@ -749,6 +884,9 @@
    "Mar": {
       "message": "3月"
    },
+   "Markallasread": {
+      "message": "すべて既読にする"
+   },
    "May": {
       "message": "5月"
    },
@@ -757,6 +895,9 @@
    },
    "Medium": {
       "message": "中"
+   },
+   "Members": {
+      "message": "メンバー"
    },
    "Mention1": {
       "message": "@ツイート {{1}}"
@@ -771,7 +912,7 @@
       "message": "メッセージ"
    },
    "Message1": {
-      "message": "メッセージ {{1}}"
+      "message": "メッセージ @{{1}}"
    },
    "Messagehasnorecipient": {
       "message": "メッセージに宛先がありません。"
@@ -785,11 +926,17 @@
    "Moreoptions": {
       "message": "その他のオプション"
    },
+   "MorespaceforyourcolumnsandTweets": {
+      "message": "More space for your columns and Tweets."
+   },
    "Morethanamonth": {
       "message": "1 か月以上"
    },
    "Mute": {
       "message": "ミュート"
+   },
+   "MuteSettings": {
+      "message": "ミュート設定"
    },
    "Muting": {
       "message": "ミュート"
@@ -817,6 +964,9 @@
    },
    "NewTweetswillappearhere": {
       "message": "新しいツイートがここに表示されます。"
+   },
+   "Newcolumnlistletsyoujumptocolumnseasily": {
+      "message": "New column list lets you jump to columns easily."
    },
    "NewsFeed": {
       "message": "ニュース フィード"
@@ -857,11 +1007,17 @@
    "Off": {
       "message": "OFF"
    },
+   "Onlyonefilecanbeattachedtoatweet": {
+      "message": "ツイートに添付できるのは1ファイルのみです。"
+   },
    "Oopsyoudonthaveanyaccountsselected": {
       "message": "エラー - アカウントを何も選択していません。"
    },
    "Oopsyouhaventaddedanycontenttothepost": {
       "message": "エラー - 投稿する内容を何も追加していません"
+   },
+   "Options": {
+      "message": "オプション"
    },
    "OriginalTweet1": {
       "message": "元のツイート: {{1}}"
@@ -887,6 +1043,9 @@
    "Passwordsdonotmatch": {
       "message": "パスワードが一致しません。"
    },
+   "Passwordsmustmatch": {
+      "message": "パスワードが一致しません。"
+   },
    "Pending": {
       "message": "保留中"
    },
@@ -896,11 +1055,35 @@
    "Pictureupload": {
       "message": "画像のアップロード"
    },
+   "Ping": {
+      "message": "Ping"
+   },
+   "Ping2": {
+      "message": "Ping 2"
+   },
+   "Ping3": {
+      "message": "Ping 3"
+   },
+   "Ping4": {
+      "message": "Ping 4"
+   },
+   "Pleasecheckyouremailpassword": {
+      "message": "メールアドレスとパスワードを確認してください。"
+   },
+   "PleasecheckyourpasswordRememberTweetDeckaccountsaredifferentfromTwitteraccounts": {
+      "message": "パスワードを確認してください。注意: TweetDeck アカウントは Twitter アカウントとは異なります。"
+   },
    "Pleasecompleteusernamepassword": {
       "message": "ユーザー名とパスワードを入力してください"
    },
    "PleaseselectaTwitteraccounttouploadmedia": {
       "message": "画像/動画をアップロードする Twitter アカウントを選択してください"
+   },
+   "Pleaseselectatleastoneaccountbeforesending": {
+      "message": "送信する前に、少なくとも 1 アカウントを選択してください"
+   },
+   "Pleaseselectatleastoneinteractiontype": {
+      "message": "Please select at least one interaction type"
    },
    "Pleaseuseavalidemailaddress": {
       "message": "正しいメール アドレスを使用してください"
@@ -917,11 +1100,11 @@
    "Postingfrom": {
       "message": "Posting from"
    },
-   "Previewmediaincolumns": {
-      "message": "カラム内で画像/動画をプレビュー"
-   },
    "Preview": {
       "message": "プレビュー"
+   },
+   "Previewmediaincolumns": {
+      "message": "カラム内で画像/動画をプレビュー"
    },
    "Previews": {
       "message": "プレビュー"
@@ -935,17 +1118,32 @@
    "Private": {
       "message": "非公開"
    },
+   "ProblemaddinguserNametothelistlistNamePleasetryagain": {
+      "message": "{{userName}} さんをリスト {{listName}} に追加する際にエラーが発生しました。もう一度お試しください"
+   },
+   "ProblemflaggingmediaPleasetryagain": {
+      "message": "画像/動画を報告する際にエラーが発生しました。もう一度お試しください"
+   },
+   "ProblemremovinguserNamefromthelistlistNamePleasetryagain": {
+      "message": "{{userName}} さんをリスト {{listName}} から削除する際にエラーが発生しました。もう一度お試しください"
+   },
+   "ProblemsavinglistPleasecheckthedetailsandtryagain": {
+      "message": "リストを保存する際にエラーが発生しました。詳細を確認してからもう一度お試しください"
+   },
    "ProfileAccount": {
       "message": "プロフィール アカウント"
    },
    "Public": {
       "message": "公開"
    },
+   "ReadMore": {
+      "message": "続きを読む"
+   },
    "Readless": {
       "message": "折りたたむ"
    },
-   "Readmore": {
-      "message": "続きを読む"
+   "Reauthorizeaccount": {
+      "message": "アカウントを再認証"
    },
    "Recent": {
       "message": "最近"
@@ -960,7 +1158,10 @@
       "message": "TweetDeck に登録"
    },
    "RegisteringunsuccessfulPleasecheckyouremailpassword": {
-      "message": "登録に失敗しました。メールとパスワードを確認してください"
+      "message": "登録に失敗しました。メールアドレスとパスワードを確認してください"
+   },
+   "RegistrationunsuccessfulPleasecheckyouremailpassword": {
+      "message": "登録に失敗しました。メールアドレスとパスワードを確認してください"
    },
    "Regular": {
       "message": "普通"
@@ -980,14 +1181,17 @@
    "Replying": {
       "message": "返信"
    },
+   "Replyto1": {
+      "message": "Reply to @{{1}}"
+   },
    "Report1forspam": {
       "message": "{{1}} さんをスパムとして報告"
    },
-   "ReportscreenNameforspam": {
-      "message": "@{{screenName}} さんをスパムとして報告"
-   },
    "Reporting": {
       "message": "報告"
+   },
+   "ReportscreenNameforspam": {
+      "message": "@{{screenName}} さんをスパムとして報告"
    },
    "Reset": {
       "message": "リセット"
@@ -995,8 +1199,11 @@
    "ResetAll": {
       "message": "すべてリセット"
    },
-   "ResetTweetDeckPassword": {
+   "ResetTweetDeckpassword": {
       "message": "TweetDeck のパスワードを再設定"
+   },
+   "Return": {
+      "message": "Return"
    },
    "Retweet": {
       "message": "リツイート"
@@ -1028,6 +1235,9 @@
    "Scheduled": {
       "message": "予約済み"
    },
+   "ScheduledTweetscannotcontainimages": {
+      "message": "予約ツイートには画像を添付できません"
+   },
    "Scheduledfor": {
       "message": "予約日時:"
    },
@@ -1046,13 +1256,16 @@
    "Searching": {
       "message": "検索中"
    },
+   "Searchlocations": {
+      "message": "場所を検索"
+   },
    "Searchresults": {
       "message": "検索結果"
    },
    "Send": {
       "message": "送信"
    },
-   "Sendadirectmessage": {
+   "SendaDirectMessage": {
       "message": "ダイレクトメッセージを送信"
    },
    "Sending": {
@@ -1061,8 +1274,11 @@
    "Sendingfailed": {
       "message": "送信に失敗しました"
    },
+   "Sendingpasswordresetinstructions": {
+      "message": "パスワードの再設定手順を送信中..."
+   },
    "Sendingupdateto1": {
-      "message": "{{1}} 宛のツイートの送信"
+      "message": "ツイートを {{1}} に送信中"
    },
    "SentviaTweetDeckwwwtweetdeckcom": {
       "message": "TweetDeck (www.tweetdeck.com) で送信しました"
@@ -1072,6 +1288,9 @@
    },
    "Services": {
       "message": "サービス"
+   },
+   "ServicesSettings": {
+      "message": "サービス設定"
    },
    "SetTime": {
       "message": "時刻を設定"
@@ -1091,14 +1310,14 @@
    "SharepagewithTweetDeck": {
       "message": "TweetDeck でページを共有"
    },
+   "ShowTwitterprofilefors": {
+      "message": "%s さんの Twitter プロフィールを表示"
+   },
    "Showing": {
       "message": "表示対象"
    },
    "Shownotificationsonstartup": {
       "message": "開始時に通知を表示"
-   },
-   "ShowTwitterprofilefors": {
-      "message": "%s さんの Twitter プロフィールを表示"
    },
    "SignOut": {
       "message": "ログアウト"
@@ -1121,6 +1340,9 @@
    "Signup": {
       "message": "ユーザー登録"
    },
+   "SimplifiedinterfaceletsyoufocusontheTweetsthatmatter": {
+      "message": "Simplified interface lets you focus on the Tweets that matter."
+   },
    "Sinhala": {
       "message": "シンハラ語"
    },
@@ -1129,6 +1351,24 @@
    },
    "Smallest": {
       "message": "最小"
+   },
+   "SorrycouldntretrieveembeddedTweetPleasetryagainlater": {
+      "message": "Sorry, couldn't retrieve embedded Tweet. Please try again later."
+   },
+   "Sorryemptyupdatesarenotallowed": {
+      "message": "Sorry, empty updates are not allowed"
+   },
+   "SorrysomethingwentwrongItsnotyouitsusPleasetryagainlater": {
+      "message": "Sorry, something went wrong. It's not you, it's us. Please try again later."
+   },
+   "Sorrywecouldnotperformyourretweetbecausethetweetisprotected": {
+      "message": "Sorry, we could not perform your retweet because the tweet is protected"
+   },
+   "Sorrywecouldntretrieveuser1": {
+      "message": "Sorry, we couldn't retrieve user @{{1}}"
+   },
+   "SorryyouvemadetoomanyrequestssoTwitterhastemporarilylimitedyouraccessTryagaininafewminutes": {
+      "message": "Sorry, you've made too many requests so Twitter has temporarily limited your access. Try again in a few minutes"
    },
    "Sounds": {
       "message": "サウンド"
@@ -1142,14 +1382,23 @@
    "Staysignedin": {
       "message": "ログイン状態を維持"
    },
+   "Stopediting": {
+      "message": "編集を中止しますか?"
+   },
    "StreamTweetsinrealtime": {
       "message": "ツイート ストリームをリアルタイム表示"
    },
    "Subscribedto": {
       "message": "保存済み"
    },
+   "Subscribetothislist": {
+      "message": "このリストを保存しますか?"
+   },
    "Success1": {
       "message": "完了: {{1}}"
+   },
+   "SuccessMediaflagged": {
+      "message": "成功: 画像/動画を報告しました"
    },
    "SuccessfullyblockedandreportedscreenName": {
       "message": "@{{screenName}} さんをブロックして報告しました"
@@ -1193,17 +1442,38 @@
    "Thai": {
       "message": "タイ語"
    },
+   "ThatdoesntseemtobeavalidemailaddressRememberTweetDeckaccountsaredifferentfromTwitteraccounts": {
+      "message": "That doesn't seem to be a valid email address. Remember: TweetDeck accounts are different from Twitter accounts."
+   },
+   "Thatuserdoesnotexist": {
+      "message": "ユーザーが存在しません"
+   },
+   "Thefileyouselectedisgreaterthanthe3MBlimit": {
+      "message": "選択したファイルは上限の 3MB を超えるサイズです。"
+   },
+   "Thefollowingmediamaycontainsensitivematerial": {
+      "message": "The following media may contain sensitive material."
+   },
    "Theme": {
       "message": "テーマ:"
    },
    "TheresalreadyaTweetDeckaccountforthatemailaddress": {
       "message": "指定したメール アドレスの TweetDeck アカウントが既に存在します。"
    },
+   "TheressomethingwrongatTwitterPleasetryagainlater": {
+      "message": "Twitter でエラーが発生しました。しばらく待ってからもう一度お試しください"
+   },
    "TherewasaproblemresettingyourpasswordPleaseretry": {
       "message": "パスワードを再設定する際にエラーが発生しました。もう一度お試しください。"
    },
    "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
+   },
+   "Thisscheduledupdateisassociatedwith1accountswhichhavebeenremovedfromyourTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromthesettingspanel": {
+      "message": "This scheduled update is associated with {{1}} accounts which have been removed from your TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the settings panel."
+   },
+   "ThisscheduledupdateisassociatedwithanaccountwhichhasbeenremovedfromyourTweetDeckThisaccountwillthereforenotbeavailableduringthiseditunlessyoureadditfromtheaccountspanel": {
+      "message": "This scheduled update is associated with an account which has been removed from your TweetDeck. This account will therefore not be available during this edit unless you re-add it from the accounts panel."
    },
    "ThisscheduledupdateisassociatedwithanaccountwhichisnotauthorisedinthisTweetDeckThisaccountwillthereforenotbeavailableduringthiseditunlessyoureadditfromtheaccountspanel": {
       "message": "This scheduled update is associated with an account which is not authorised in this TweetDeck. This account will therefore not be available during this edit unless you re-add it from the accounts panel"
@@ -1226,6 +1496,9 @@
    "Torememberyouraccountsenablemorefeatures": {
       "message": "自分のアカウントを記憶して、その他の機能を有効にするには"
    },
+   "TosharethislistweneedtosubscribeyoutoitSubscribeandshare": {
+      "message": "このリストを共有するには保存する必要があります。保存して共有しますか?"
+   },
    "Translate": {
       "message": "翻訳"
    },
@@ -1235,17 +1508,32 @@
    "TranslatethisTweet": {
       "message": "このツイートを翻訳"
    },
+   "Translationfailed": {
+      "message": "翻訳失敗"
+   },
    "Trends": {
       "message": "トレンド"
    },
    "Turkish": {
       "message": "トルコ語"
    },
+   "Turnofflocation": {
+      "message": "Turn off location"
+   },
    "Tweet": {
       "message": "ツイート"
    },
+   "TweetDecklogo": {
+      "message": "TweetDeck ロゴ"
+   },
+   "TweetDecknolongerhaspermissiontoaccessaccount1": {
+      "message": "TweetDeck no longer has permission to access account @{{1}}."
+   },
    "Tweetforwardedby1": {
       "message": "@{{1}} さんが転送したツイート"
+   },
+   "Tweetnotsent": {
+      "message": "Tweet not sent: "
    },
    "Tweets": {
       "message": "ツイート"
@@ -1255,6 +1543,9 @@
    },
    "Tweetswithimages": {
       "message": "画像付きツイート"
+   },
+   "Tweetswithimagescannotbescheduled": {
+      "message": "画像付きのツイートは予約できません"
    },
    "Tweetswithlinks": {
       "message": "リンク付きツイート"
@@ -1268,14 +1559,26 @@
    "TwitterStreaming": {
       "message": "Twitter ストリーミング"
    },
-   "TwitterUsers": {
-      "message": "Twitter ユーザー"
+   "TwitteristemporarilyovercapacityPleasetryagainlater": {
+      "message": "Twitter is temporarily over capacity. しばらく待ってからもう一度お試しください"
    },
    "Twitterusers": {
       "message": "Twitter ユーザー"
    },
    "Typeausername": {
       "message": "ユーザー名を入力..."
+   },
+   "UnabletoconnectPleasecheckyournetwork": {
+      "message": "接続できません。ネットワーク接続を確認してください。"
+   },
+   "UnabletofollowscreenName": {
+      "message": "@{{screenName}} さんをフォローできません"
+   },
+   "Unabletosignin1": {
+      "message": "ログインできません: {{{1}}}"
+   },
+   "UnabletounfollowscreenName": {
+      "message": "@{{screenName}} さんをフォロー解除できません"
    },
    "Unblock": {
       "message": "ブロック解除"
@@ -1298,6 +1601,9 @@
    "UnfollowscreenName": {
       "message": "@{{screenName}} さんをフォロー解除"
    },
+   "Unknownerror": {
+      "message": "不明なエラーです。"
+   },
    "Unliking": {
       "message": "いいねの解除"
    },
@@ -1319,6 +1625,9 @@
    "Users": {
       "message": "ユーザー"
    },
+   "UserscreenNamehasbeensuspended": {
+      "message": "ユーザー @{{screenName}} は凍結されています"
+   },
    "Using": {
       "message": "以下を含む"
    },
@@ -1328,7 +1637,7 @@
    "View": {
       "message": "表示"
    },
-   "Viewlarger": {
+   "ViewLarger": {
       "message": "大きく表示"
    },
    "Viewmessages": {
@@ -1337,14 +1646,44 @@
    "Vieworiginal": {
       "message": "オリジナルを表示"
    },
+   "VisitSuspendedAccountsHelppage": {
+      "message": "凍結アカウントのヘルプ ページを閲覧"
+   },
    "Wallpostto1": {
       "message": "{{1}} のウォールに投稿"
    },
    "WalltoWall": {
       "message": "Wall to Wall"
    },
+   "Wanttorecoveryourpassword": {
+      "message": "パスワードを復旧しますか?"
+   },
    "Warning": {
       "message": "警告"
+   },
+   "Wecouldnotcompleteyourrequestbecausethetweetmaybeprotectedordeleted": {
+      "message": "We could not complete your request because the tweet may be protected or deleted"
+   },
+   "WecouldntfindaTweetDeckaccountassociatedwithemail": {
+      "message": "We couldn't find a TweetDeck account associated with: {{{email}}}"
+   },
+   "Wehavesentanemailtoemailwithinstructionstoresetyourpassword": {
+      "message": "We have sent an email to {{email}} with instructions to reset your password."
+   },
+   "WevemadeafewchangesHeresthelowdownor": {
+      "message": "We've made a few changes. Here's the lowdown; or"
+   },
+   "WeveremovedFacebookintegrationfromTweetDeck": {
+      "message": "We've removed Facebook integration from TweetDeck"
+   },
+   "Whatsnew": {
+      "message": "新着情報"
+   },
+   "WhoopsYoualreadysaidthat": {
+      "message": "Whoops! You already said that..."
+   },
+   "WhoopsYouvealreadyretweetedthat": {
+      "message": "Whoops! You've already retweeted that..."
    },
    "WhyisthistopictrendingClicktotellus": {
       "message": "Why is this topic trending? Click to tell us"
@@ -1364,11 +1703,38 @@
    "Yesterday": {
       "message": "昨日"
    },
+   "Youalreadytweetedthat": {
+      "message": "同じ内容を既にツイートしました"
+   },
+   "Youarenotsubscribedtoanylists": {
+      "message": "あなたはどのリストにも登録されていません"
+   },
+   "Youcantsendamessagetoauserwhoisnotfollowingyou": {
+      "message": "あなたをフォローしていないユーザーにはメッセージを送信できません"
+   },
+   "Youdidnotselectanimage": {
+      "message": "選択したファイルは画像ファイルではありません。"
+   },
+   "Youdontownthisaccountcantdelete": {
+      "message": "You don't own this account - can't delete"
+   },
    "Youfollow": {
       "message": "You follow"
    },
-   "Youraccounts": {
+   "Youhavealreadyattachedanimage": {
+      "message": "You have already attached an image."
+   },
+   "YourAccounts": {
       "message": "自分のアカウント"
+   },
+   "Youraccount1iscurrentlysuspended": {
+      "message": "あなたのアカウント @{{1}} は現在凍結されています。"
+   },
+   "Youraccountissuspendedandisnotpermittedtoaccessthisfeature": {
+      "message": "Your account is suspended and is not permitted to access this feature"
+   },
+   "YourahrefrelglobalSettingsTweetmediadisplaysettingsaareconfiguredtoinformyouwhenmediamaybesensitive": {
+      "message": "Your <a href=\"#\" rel=\"globalSettings\">Tweet media display settings</a> are configured to inform you when media may be sensitive."
    },
    "Youreawesome": {
       "message": "You're awesome"
@@ -1376,17 +1742,14 @@
    "Yourlists": {
       "message": "自分のリスト"
    },
+   "Yourpasswordmustbe7charactersorlonger": {
+      "message": "パスワードは 8 文字以上にしてください。"
+   },
    "Yourpasswordshouldbelongerthan7characters": {
       "message": "パスワードは 8 文字以上にする必要があります"
    },
    "Yourpersonalbrowserforstayingintouchwithwhatshappeningnow": {
       "message": "Your personal browser for staying in touch with what's happening now"
-   },
-   "actionntimes": {
-      "message": "{{n}} 人が {{action}}"
-   },
-   "actiononce": {
-      "message": "1 人が {{action}}"
    },
    "actionTypeonly": {
       "message": "{{actionType}} のみ"
@@ -1394,20 +1757,35 @@
    "actionTypesandlastActionType": {
       "message": "{{actionTypes}}, {{lastActionType}}"
    },
+   "actionntimes": {
+      "message": "{{n}} 人が {{action}}"
+   },
+   "actiononce": {
+      "message": "1 人が {{action}}"
+   },
+   "addphoto": {
+      "message": "add photo"
+   },
+   "addscheduled": {
+      "message": "add scheduled"
+   },
    "allTweets": {
       "message": "すべてのツイート"
    },
    "allusers": {
       "message": "すべてのユーザー"
    },
+   "am": {
+      "message": "am"
+   },
    "andatleast": {
       "message": "少なくとも"
    },
-   "anylanguage": {
-      "message": "あらゆる言語"
-   },
    "any": {
       "message": "すべて"
+   },
+   "anylanguage": {
+      "message": "あらゆる言語"
    },
    "anything": {
       "message": "不問"
@@ -1439,14 +1817,17 @@
    "byverifiedusers": {
       "message": "認証済みユーザーによる"
    },
-   "egJohnDoe123": {
-      "message": "例: JohnDoe123"
+   "columnmanagement": {
+      "message": "カラム管理"
    },
-   "egiPad": {
-      "message": "例: iPad"
+   "egJohnDoe123": {
+      "message": "例: @JohnDoe123"
    },
    "egTweetSpamApp": {
       "message": "例: TweetSpamApp"
+   },
+   "egiPad": {
+      "message": "例: iPad"
    },
    "excluded": {
       "message": "除外する"
@@ -1457,14 +1838,17 @@
    "excludingexcluding": {
       "message": "「{{{excluding}}}」を除外"
    },
+   "favorites": {
+      "message": "お気に入り"
+   },
    "followers": {
       "message": "フォロワー"
    },
+   "from": {
+      "message": "from"
+   },
    "hours12minutesamPmdaymonthyear": {
       "message": "20{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
-   },
-   "list": {
-      "message": "リスト"
    },
    "images": {
       "message": "画像"
@@ -1478,6 +1862,9 @@
    "links": {
       "message": "リンク"
    },
+   "list": {
+      "message": "リスト"
+   },
    "lists": {
       "message": "リスト"
    },
@@ -1486,6 +1873,9 @@
    },
    "matchingmatching": {
       "message": "「{{{matching}}}」に一致"
+   },
+   "me": {
+      "message": "自分..."
    },
    "media": {
       "message": "画像/動画"
@@ -1496,6 +1886,9 @@
    "mentioning": {
       "message": "@ツイート"
    },
+   "mentioningmename": {
+      "message": "自分 (@{{{name}}}) への@ツイート"
+   },
    "mentioningname": {
       "message": "@{{{name}}} さんへの@ツイート"
    },
@@ -1505,8 +1898,8 @@
    "more": {
       "message": "続き"
    },
-   "mentioningmename": {
-      "message": "自分 (@{{{name}}}) への@ツイート"
+   "navigation": {
+      "message": "ナビゲーション"
    },
    "next": {
       "message": "次"
@@ -1541,8 +1934,17 @@
    "onesecondago": {
       "message": "{{one}}秒前"
    },
+   "owneraddedaddedtothelistlist": {
+      "message": "{{{owner}}} さんが {{{added}}} さんをリスト {{{list}}} に追加しました。"
+   },
+   "owneraddedaddedtothelistslists": {
+      "message": "{{{owner}}} さんが {{{added}}} さんをリスト {{{lists}}} に追加しました。"
+   },
    "owneraddedyoutothelistlist": {
       "message": "{{{owner}}} さんがあなたをリスト {{{list}}} に追加しました。"
+   },
+   "ownercreatedthelistlist": {
+      "message": "{{{owner}}} さんがリスト {{{list}}} を作成しました。"
    },
    "page": {
       "message": "ページ"
@@ -1574,8 +1976,17 @@
    "plural_numbersecondsago": {
       "message": "{{plural_number}}秒前"
    },
+   "pm": {
+      "message": "pm"
+   },
    "popups": {
       "message": "ポップアップ"
+   },
+   "readourblogpost": {
+      "message": "read our blog post"
+   },
+   "remove": {
+      "message": "削除"
    },
    "replies": {
       "message": "返信"
@@ -1589,11 +2000,17 @@
    "retweetsexcluded": {
       "message": "リツイートを除外"
    },
+   "screenNameslists": {
+      "message": "@{{screenName}} さんのリスト"
+   },
    "search": {
       "message": "検索"
    },
    "searches": {
       "message": "検索"
+   },
+   "sendmessage": {
+      "message": "send message"
    },
    "showingimages": {
       "message": "画像を表示"
@@ -1617,7 +2034,13 @@
       "message": "ソース"
    },
    "specificuser": {
-      "message": "指定したユーザー..."
+      "message": "特定のユーザー..."
+   },
+   "textstrongisPrivateiclassiconiconprotectediconsmalliisPrivatebyuserscreenNameuser": {
+      "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
+   },
+   "tofindoutmore": {
+      "message": "to find out more."
    },
    "user": {
       "message": "ユーザー"
