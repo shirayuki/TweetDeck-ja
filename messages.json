@@ -1280,6 +1280,9 @@
    "Sendingupdateto1": {
       "message": "ツイートを {{1}} に送信中"
    },
+   "SentviaTweetDeck": {
+      "message": "TweetDeck で送信しました"
+   },
    "SentviaTweetDeckwwwtweetdeckcom": {
       "message": "TweetDeck (www.tweetdeck.com) で送信しました"
    },
@@ -1619,6 +1622,9 @@
    "User": {
       "message": "ユーザー"
    },
+   "Userhasbeensuspended": {
+      "message": "ユーザーは凍結されています"
+   },
    "Usernameorlistname": {
       "message": "ユーザー名またはリスト名"
    },
@@ -1716,13 +1722,13 @@
       "message": "選択したファイルは画像ファイルではありません。"
    },
    "Youdontownthisaccountcantdelete": {
-      "message": "You don't own this account - can't delete"
+      "message": "このアカウントを所有できません - 削除できません"
    },
    "Youfollow": {
       "message": "You follow"
    },
    "Youhavealreadyattachedanimage": {
-      "message": "You have already attached an image."
+      "message": "画像を既に添付しています。"
    },
    "YourAccounts": {
       "message": "自分のアカウント"
@@ -1731,10 +1737,10 @@
       "message": "あなたのアカウント @{{1}} は現在凍結されています。"
    },
    "Youraccountissuspendedandisnotpermittedtoaccessthisfeature": {
-      "message": "Your account is suspended and is not permitted to access this feature"
+      "message": "あなたのアカウントは凍結されており、この機能へのアクセスを許可されていません"
    },
    "YourahrefrelglobalSettingsTweetmediadisplaysettingsaareconfiguredtoinformyouwhenmediamaybesensitive": {
-      "message": "Your <a href=\"#\" rel=\"globalSettings\">Tweet media display settings</a> are configured to inform you when media may be sensitive."
+      "message": "<a href=\"#\" rel=\"globalSettings\">ツイートの画像/動画表示設定</a>で、画像/動画が不適切な内容を含むおそれがある場合にお知らせする設定になっています。"
    },
    "Youreawesome": {
       "message": "You're awesome"
