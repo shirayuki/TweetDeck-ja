@@ -264,7 +264,7 @@
       "message": "アカウントを既にお持ちですか?"
    },
    "Alwaysshowmesensitivemedia": {
-      "message": "Always show me sensitive media"
+      "message": "不適切な画像/動画を常に表示"
    },
    "Amharic": {
       "message": "アムハラ語"
@@ -435,7 +435,7 @@
       "message": "会話"
    },
    "Couldnotauthenticateyou": {
-      "message": "Could not authenticate you"
+      "message": "認証できませんでした"
    },
    "CreateAccount": {
       "message": "アカウントを作成"
@@ -474,7 +474,7 @@
       "message": "削除"
    },
    "Deletinglist": {
-      "message": "Deleting list!"
+      "message": "リストを削除中!"
    },
    "Deletingscheduledupdate": {
       "message": "予約されたツイートを削除中!"
@@ -723,7 +723,7 @@
       "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
    },
    "IfyoucloseyoureditsnowyouwillloseanychangesmadeAreyousureyouwanttostopediting": {
-      "message": "If you close your edits now you will lose any changes made. Are you sure you want to stop editing?"
+      "message": "編集を閉じると、現在の変更内容をすべて失います。編集を本当に中止しますか?"
    },
    "Imagewillappearasalink": {
       "message": "画像はリンクとして表示されます"
@@ -753,7 +753,7 @@
       "message": "インドネシア語"
    },
    "InordertouseTweetDeckyoumusthaveaTweetDeckaccountThisallowsyoutomanagemanyTwitteraccountsallfromthesamescreen": {
-      "message": "In order to use TweetDeck you must have a TweetDeck account. This allows you to manage many Twitter accounts all from the same screen."
+      "message": "TweetDeck を使用するには、TweetDeck アカウントが必要です。このアカウントがあると、複数のアカウントすべてを同じ画面で管理できるようになります。"
    },
    "Interactions": {
       "message": "インタラ"
@@ -834,7 +834,7 @@
       "message": "リンク短縮"
    },
    "Linkswillbeshortenedbybitly": {
-      "message": "Links will be shortened by bit.ly"
+      "message": "リンクは bit.ly で短縮されます"
    },
    "LinktothisTweet": {
       "message": "このツイートにリンク"
@@ -1083,7 +1083,7 @@
       "message": "送信する前に、少なくとも 1 アカウントを選択してください"
    },
    "Pleaseselectatleastoneinteractiontype": {
-      "message": "Please select at least one interaction type"
+      "message": "インタラの種類を少なくとも 1 つ選択してください"
    },
    "Pleaseuseavalidemailaddress": {
       "message": "正しいメール アドレスを使用してください"
@@ -1356,22 +1356,22 @@
       "message": "最小"
    },
    "SorrycouldntretrieveembeddedTweetPleasetryagainlater": {
-      "message": "Sorry, couldn't retrieve embedded Tweet. Please try again later."
+      "message": "すみませんが、埋め込まれたツイートを取得できませんでした。しばらくしてからもう一度お試しください。"
    },
    "Sorryemptyupdatesarenotallowed": {
-      "message": "Sorry, empty updates are not allowed"
+      "message": "すみませんが、空のツイートはできません"
    },
    "SorrysomethingwentwrongItsnotyouitsusPleasetryagainlater": {
-      "message": "Sorry, something went wrong. It's not you, it's us. Please try again later."
+      "message": "すみませんが、エラーが発生しました。サーバー側の問題です。しばらくしてからもう一度お試しください。"
    },
    "Sorrywecouldnotperformyourretweetbecausethetweetisprotected": {
-      "message": "Sorry, we could not perform your retweet because the tweet is protected"
+      "message": "すみませんが、ツイートが保護されているためリツイートできませんでした"
    },
    "Sorrywecouldntretrieveuser1": {
-      "message": "Sorry, we couldn't retrieve user @{{1}}"
+      "message": "すみませんが、ユーザー @{{1}} を取得できませんでした"
    },
    "SorryyouvemadetoomanyrequestssoTwitterhastemporarilylimitedyouraccessTryagaininafewminutes": {
-      "message": "Sorry, you've made too many requests so Twitter has temporarily limited your access. Try again in a few minutes"
+      "message": "すみませんが、大量のリクエストをしたため、Twitter がアクセスを制限しています。しばらくしてからもう一度お試しください"
    },
    "Sounds": {
       "message": "サウンド"
@@ -1446,7 +1446,7 @@
       "message": "タイ語"
    },
    "ThatdoesntseemtobeavalidemailaddressRememberTweetDeckaccountsaredifferentfromTwitteraccounts": {
-      "message": "That doesn't seem to be a valid email address. Remember: TweetDeck accounts are different from Twitter accounts."
+      "message": "有効なメール アドレスではないようです。注意: TweetDeck アカウントは Twitter アカウントとは異なります。"
    },
    "Thatuserdoesnotexist": {
       "message": "ユーザーが存在しません"
