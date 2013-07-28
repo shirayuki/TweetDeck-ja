@@ -324,10 +324,10 @@
       "message": "ベンガル語"
    },
    "Better": {
-      "message": "Better"
+      "message": "改善された"
    },
    "Bettercolumnmanagement": {
-      "message": "Better column management"
+      "message": "改善されたカラム管理"
    },
    "BingTranslator": {
       "message": "Bing Translator"
@@ -381,7 +381,7 @@
       "message": "中国語"
    },
    "Cleanerlook": {
-      "message": "Cleaner look"
+      "message": "すっきりした外観"
    },
    "Clear": {
       "message": "消去"
@@ -513,7 +513,7 @@
       "message": "EPICFAIL!"
    },
    "Easieraccesstocolumnlevelsettings": {
-      "message": "Easier access to column-level settings."
+      "message": "カラム レベルの設定に簡単にアクセスできます。"
    },
    "Edit": {
       "message": "編集"
@@ -570,7 +570,7 @@
       "message": "展開する"
    },
    "Expandandcollapsenavigationasyouwish": {
-      "message": "Expand and collapse navigation as you wish."
+      "message": "ナビゲーションは自由に展開/折り畳みできます。"
    },
    "Failed1": {
       "message": "失敗しました: {{1}}"
@@ -732,10 +732,10 @@
       "message": "TweetDeck デスクトップからインポート"
    },
    "Improved": {
-      "message": "Improved"
+      "message": "改善"
    },
    "Improvednavigation": {
-      "message": "Improved navigation"
+      "message": "ナビゲーションを改善"
    },
    "Inbox": {
       "message": "受信箱"
@@ -927,7 +927,7 @@
       "message": "その他のオプション"
    },
    "MorespaceforyourcolumnsandTweets": {
-      "message": "More space for your columns and Tweets."
+      "message": "より広い領域を、カラムやツイートの表示に使用できます。"
    },
    "Morethanamonth": {
       "message": "1 か月以上"
@@ -966,7 +966,7 @@
       "message": "新しいツイートがここに表示されます。"
    },
    "Newcolumnlistletsyoujumptocolumnseasily": {
-      "message": "New column list lets you jump to columns easily."
+      "message": "新しいカラム一覧で、カラムに簡単にジャンプできます。"
    },
    "NewsFeed": {
       "message": "ニュース フィード"
@@ -1344,7 +1344,7 @@
       "message": "ユーザー登録"
    },
    "SimplifiedinterfaceletsyoufocusontheTweetsthatmatter": {
-      "message": "Simplified interface lets you focus on the Tweets that matter."
+      "message": "簡素化されたインターフェイスで、ツイートに集中できます。"
    },
    "Sinhala": {
       "message": "シンハラ語"
@@ -1455,7 +1455,7 @@
       "message": "選択したファイルは上限の 3MB を超えるサイズです。"
    },
    "Thefollowingmediamaycontainsensitivematerial": {
-      "message": "The following media may contain sensitive material."
+      "message": "以下の画像/動画は不適切な内容を含むおそれがあります。"
    },
    "Theme": {
       "message": "テーマ:"
@@ -1473,10 +1473,10 @@
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
    },
    "Thisscheduledupdateisassociatedwith1accountswhichhavebeenremovedfromyourTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromthesettingspanel": {
-      "message": "This scheduled update is associated with {{1}} accounts which have been removed from your TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the settings panel."
+      "message": "この予約ツイートは、TweetDeck から削除したアカウント {{1}} と関連付けられています。このアカウントを設定パネルで再度追加するまで、このツイートは編集できません。"
    },
    "ThisscheduledupdateisassociatedwithanaccountwhichhasbeenremovedfromyourTweetDeckThisaccountwillthereforenotbeavailableduringthiseditunlessyoureadditfromtheaccountspanel": {
-      "message": "This scheduled update is associated with an account which has been removed from your TweetDeck. This account will therefore not be available during this edit unless you re-add it from the accounts panel."
+      "message": "この予約ツイートは、TweetDeck から削除したアカウントと関連付けれています。このアカウントをアカウント パネルで再度追加するまで、このツイートは編集できません。"
    },
    "ThisscheduledupdateisassociatedwithanaccountwhichisnotauthorisedinthisTweetDeckThisaccountwillthereforenotbeavailableduringthiseditunlessyoureadditfromtheaccountspanel": {
       "message": "This scheduled update is associated with an account which is not authorised in this TweetDeck. This account will therefore not be available during this edit unless you re-add it from the accounts panel"
@@ -1668,28 +1668,28 @@
       "message": "警告"
    },
    "Wecouldnotcompleteyourrequestbecausethetweetmaybeprotectedordeleted": {
-      "message": "We could not complete your request because the tweet may be protected or deleted"
+      "message": "リクエストを完了できませんでした。ツイートが非公開、または削除済みの可能性があります"
    },
    "WecouldntfindaTweetDeckaccountassociatedwithemail": {
-      "message": "We couldn't find a TweetDeck account associated with: {{{email}}}"
+      "message": "このメールアドレスに関連付けられた TweetDeck アカウントが見つかりませんでした: {{{email}}}"
    },
    "Wehavesentanemailtoemailwithinstructionstoresetyourpassword": {
-      "message": "We have sent an email to {{email}} with instructions to reset your password."
+      "message": "パスワードを再設定する手順を記したメールを {{email}} にお送りしました。"
    },
    "WevemadeafewchangesHeresthelowdownor": {
-      "message": "We've made a few changes. Here's the lowdown; or"
+      "message": "いくつかの変更点がありますので内容を示します。または"
    },
    "WeveremovedFacebookintegrationfromTweetDeck": {
-      "message": "We've removed Facebook integration from TweetDeck"
+      "message": "TweetDeck では、Facebook との統合機能を削除しました"
    },
    "Whatsnew": {
       "message": "新着情報"
    },
    "WhoopsYoualreadysaidthat": {
-      "message": "Whoops! You already said that..."
+      "message": "エラーです。既にツイートした内容です..."
    },
    "WhoopsYouvealreadyretweetedthat": {
-      "message": "Whoops! You've already retweeted that..."
+      "message": "エラーです。既にリツイートした内容です..."
    },
    "WhyisthistopictrendingClicktotellus": {
       "message": "Why is this topic trending? Click to tell us"
@@ -1989,7 +1989,7 @@
       "message": "ポップアップ"
    },
    "readourblogpost": {
-      "message": "read our blog post"
+      "message": "ブログ投稿をお読みください"
    },
    "remove": {
       "message": "削除"
@@ -2046,7 +2046,7 @@
       "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
    },
    "tofindoutmore": {
-      "message": "to find out more."
+      "message": "詳細については。"
    },
    "user": {
       "message": "ユーザー"
