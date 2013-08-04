@@ -1521,7 +1521,7 @@
       "message": "トルコ語"
    },
    "Turnofflocation": {
-      "message": "Turn off location"
+      "message": "位置情報を OFF にする"
    },
    "Tweet": {
       "message": "ツイート"
@@ -1530,13 +1530,13 @@
       "message": "TweetDeck ロゴ"
    },
    "TweetDecknolongerhaspermissiontoaccessaccount1": {
-      "message": "TweetDeck no longer has permission to access account @{{1}}."
+      "message": "TweetDeck はアカウント @{{1}} にアクセスできなくなりました。"
    },
    "Tweetforwardedby1": {
       "message": "@{{1}} さんが転送したツイート"
    },
    "Tweetnotsent": {
-      "message": "Tweet not sent: "
+      "message": "ツイート送信失敗: "
    },
    "Tweets": {
       "message": "ツイート"
@@ -1563,7 +1563,7 @@
       "message": "Twitter ストリーミング"
    },
    "TwitteristemporarilyovercapacityPleasetryagainlater": {
-      "message": "Twitter is temporarily over capacity. しばらく待ってからもう一度お試しください"
+      "message": "Twitter の処理能力の限界を超えました。しばらく待ってからもう一度お試しください"
    },
    "Twitterusers": {
       "message": "Twitter ユーザー"
@@ -1677,7 +1677,7 @@
       "message": "パスワードを再設定する手順を記したメールを {{email}} にお送りしました。"
    },
    "WevemadeafewchangesHeresthelowdownor": {
-      "message": "いくつかの変更点がありますので内容を示します。または"
+      "message": "変更点の内容を以下に示します。または"
    },
    "WeveremovedFacebookintegrationfromTweetDeck": {
       "message": "TweetDeck では、Facebook との統合機能を削除しました"
@@ -1756,6 +1756,9 @@
    },
    "Yourpersonalbrowserforstayingintouchwithwhatshappeningnow": {
       "message": "Your personal browser for staying in touch with what's happening now"
+   },
+   "Yourrelationshiptotextuser_link_screenname": {
+      "message": "あなたと {{>text/user_link_screenname}} さんの関係"
    },
    "actionTypeonly": {
       "message": "{{actionType}} のみ"
@@ -2046,7 +2049,7 @@
       "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
    },
    "tofindoutmore": {
-      "message": "詳細については。"
+      "message": "(詳細)"
    },
    "user": {
       "message": "ユーザー"
