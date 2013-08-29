@@ -215,6 +215,9 @@
    "Addfilter": {
       "message": "フィルターを追加"
    },
+   "Addimage": {
+      "message": "画像を追加"
+   },
    "Addorremovefromlists": {
       "message": "リストに追加または削除..."
    },
@@ -276,7 +279,7 @@
       "message": "アプリケーション設定"
    },
    "Apr": {
-      "message": "4月"
+      "message": "4"
    },
    "Arabic": {
       "message": "アラビア語"
@@ -306,7 +309,7 @@
       "message": "少なくとも"
    },
    "Aug": {
-      "message": "8月"
+      "message": "8"
    },
    "Author": {
       "message": "投稿者"
@@ -361,6 +364,9 @@
    },
    "Capture": {
       "message": "キャプチャー"
+   },
+   "Catalan": {
+      "message": "カタロニア語"
    },
    "Change": {
       "message": "変更"
@@ -452,6 +458,9 @@
    "CustomColumn": {
       "message": "カスタム カラム"
    },
+   "Czech": {
+      "message": "チェコ語"
+   },
    "Danish": {
       "message": "デンマーク語"
    },
@@ -459,7 +468,7 @@
       "message": "暗"
    },
    "Dec": {
-      "message": "12月"
+      "message": "12"
    },
    "Defaultaccount": {
       "message": "既定のアカウント"
@@ -487,6 +496,12 @@
    },
    "DirectMessages": {
       "message": "ダイレクト メッセージ"
+   },
+   "Directmessage": {
+      "message": "ダイレクト メッセージ"
+   },
+   "Directmessagescannotcontainimages": {
+      "message": "画像付きのダイレクト メッセージは送信できません"
    },
    "Directmessageto1": {
       "message": "{{1}} さんへのダイレクト メッセージ"
@@ -566,6 +581,9 @@
    "ErrorFailedtoflagmediaPleasetryagain": {
       "message": "エラー: 画像/動画を報告できませんでした。もう一度お試しください。"
    },
+   "Estonian": {
+      "message": "エストニア語"
+   },
    "Expand": {
       "message": "展開する"
    },
@@ -594,7 +612,7 @@
       "message": "お気に入りへの登録"
    },
    "Feb": {
-      "message": "2月"
+      "message": "2"
    },
    "Filter": {
       "message": "フィルター"
@@ -701,6 +719,9 @@
    "Gujarati": {
       "message": "グジャラート語"
    },
+   "HaitianCreole": {
+      "message": "ハイチ語"
+   },
    "Hebrew": {
       "message": "ヘブライ語"
    },
@@ -774,16 +795,16 @@
       "message": "自分です"
    },
    "Jan": {
-      "message": "1月"
+      "message": "1"
    },
    "Japanese": {
       "message": "日本語"
    },
    "Jul": {
-      "message": "7月"
+      "message": "7"
    },
    "Jun": {
-      "message": "6月"
+      "message": "6"
    },
    "Justnow": {
       "message": "たった今"
@@ -814,6 +835,9 @@
    },
    "Largest": {
       "message": "最大"
+   },
+   "Latvian": {
+      "message": "ラトビア語"
    },
    "Learnmore": {
       "message": "詳細はこちら"
@@ -882,13 +906,13 @@
       "message": "モルディブ語"
    },
    "Mar": {
-      "message": "3月"
+      "message": "3"
    },
    "Markallasread": {
       "message": "すべて既読にする"
    },
    "May": {
-      "message": "5月"
+      "message": "5"
    },
    "Me": {
       "message": "自分"
@@ -913,6 +937,9 @@
    },
    "Message1": {
       "message": "メッセージ @{{1}}"
+   },
+   "MessagefromscreenNamefailedmessage": {
+      "message": "@{{screenName}} からメッセージを送信できませんでした: {{message}}"
    },
    "Messagehasnorecipient": {
       "message": "メッセージに宛先がありません。"
@@ -968,6 +995,9 @@
    "Newcolumnlistletsyoujumptocolumnseasily": {
       "message": "新しいカラム一覧で、カラムに簡単にジャンプできます。"
    },
+   "Newdirectmessage": {
+      "message": "ダイレクト メッセージ"
+   },
    "NewsFeed": {
       "message": "ニュース フィード"
    },
@@ -996,13 +1026,13 @@
       "message": "ユーザーが見つかりません。"
    },
    "Nov": {
-      "message": "11月"
+      "message": "11"
    },
    "OK": {
       "message": "OK"
    },
    "Oct": {
-      "message": "10月"
+      "message": "10"
    },
    "Off": {
       "message": "OFF"
@@ -1217,6 +1247,9 @@
    "Right": {
       "message": "右"
    },
+   "Romanian": {
+      "message": "ルーマニア語"
+   },
    "Russian": {
       "message": "ロシア語"
    },
@@ -1232,6 +1265,12 @@
    "Schedule": {
       "message": "予約"
    },
+   "ScheduleMessage": {
+      "message": "メッセージを予約"
+   },
+   "ScheduleTweet": {
+      "message": "ツイートを予約"
+   },
    "Scheduled": {
       "message": "予約済み"
    },
@@ -1240,6 +1279,9 @@
    },
    "Scheduledfor": {
       "message": "予約日時:"
+   },
+   "SchedulingfailedPleasetryagainmessage": {
+      "message": "予約できませんでした。もう一度お試しください。({{message}})"
    },
    "Schedulingupdate": {
       "message": "ツイートの予約"
@@ -1268,6 +1310,9 @@
    "SendaDirectMessage": {
       "message": "ダイレクトメッセージを送信"
    },
+   "Sendattime": {
+      "message": "{{time}}に送信"
+   },
    "Sending": {
       "message": "送信中..."
    },
@@ -1280,6 +1325,12 @@
    "Sendingupdateto1": {
       "message": "ツイートを {{1}} に送信中"
    },
+   "Sendmessage": {
+      "message": "メッセージを送信"
+   },
+   "Sendondate": {
+      "message": "{{date}}に送信"
+   },
    "SentviaTweetDeck": {
       "message": "TweetDeck で送信しました"
    },
@@ -1287,7 +1338,7 @@
       "message": "TweetDeck (www.tweetdeck.com) で送信しました"
    },
    "Sep": {
-      "message": "9月"
+      "message": "9"
    },
    "Services": {
       "message": "サービス"
@@ -1349,6 +1400,12 @@
    "Sinhala": {
       "message": "シンハラ語"
    },
+   "Slovak": {
+      "message": "スロバキア語"
+   },
+   "Slovene": {
+      "message": "スロベニア語"
+   },
    "Small": {
       "message": "小"
    },
@@ -1381,6 +1438,9 @@
    },
    "Spanish": {
       "message": "スペイン語"
+   },
+   "Stayopen": {
+      "message": "開いたままにする"
    },
    "Staysignedin": {
       "message": "ログイン状態を維持"
@@ -1496,6 +1556,9 @@
    "Timeline": {
       "message": "タイムライン"
    },
+   "To": {
+      "message": "宛先"
+   },
    "Torememberyouraccountsenablemorefeatures": {
       "message": "自分のアカウントを記憶して、その他の機能を有効にするには"
    },
@@ -1507,6 +1570,9 @@
    },
    "TranslateTweet": {
       "message": "ツイートを翻訳"
+   },
+   "Translatedbytextbing_translator_link": {
+      "message": "{{>text/bing_translator_link}} が翻訳しました"
    },
    "TranslatethisTweet": {
       "message": "このツイートを翻訳"
@@ -1526,17 +1592,29 @@
    "Tweet": {
       "message": "ツイート"
    },
+   "TweetDeckisavailableforWindowsMacOSXGoogleChromeorontheweb": {
+      "message": "TweetDeck は Windows、Mac OS X、Google Chrome、Web で利用できます。"
+   },
    "TweetDecklogo": {
       "message": "TweetDeck ロゴ"
    },
    "TweetDecknolongerhaspermissiontoaccessaccount1": {
       "message": "TweetDeck はアカウント @{{1}} にアクセスできなくなりました。"
    },
+   "Tweetattime": {
+      "message": "{{time}}にツイート"
+   },
    "Tweetforwardedby1": {
       "message": "@{{1}} さんが転送したツイート"
    },
+   "TweetfromscreenNamefailedmessage": {
+      "message": "@{{screenName}} からツイートできませんでした: {{message}}"
+   },
    "Tweetnotsent": {
       "message": "ツイート送信失敗: "
+   },
+   "Tweetondate": {
+      "message": "{{date}}にツイート"
    },
    "Tweets": {
       "message": "ツイート"
@@ -1570,6 +1648,9 @@
    },
    "Typeausername": {
       "message": "ユーザー名を入力..."
+   },
+   "Ukrainian": {
+      "message": "ウクライナ語"
    },
    "UnabletoconnectPleasecheckyournetwork": {
       "message": "接続できません。ネットワーク接続を確認してください。"
@@ -1605,7 +1686,7 @@
       "message": "@{{screenName}} さんをフォロー解除"
    },
    "Unknownerror": {
-      "message": "不明なエラーです。"
+      "message": "不明なエラーです"
    },
    "Unliking": {
       "message": "いいねの解除"
@@ -1682,6 +1763,9 @@
    "WeveremovedFacebookintegrationfromTweetDeck": {
       "message": "TweetDeck では、Facebook との統合機能を削除しました"
    },
+   "Whatshappening": {
+      "message": "いまどうしてる?"
+   },
    "Whatsnew": {
       "message": "新着情報"
    },
@@ -1715,6 +1799,18 @@
    "Youarenotsubscribedtoanylists": {
       "message": "あなたはどのリストにも登録されていません"
    },
+   "Youcannotaddmorethanoneimage": {
+      "message": "追加できる画像は 1 件のみです"
+   },
+   "Youcanonlysave150scheduledTweetsatoncePleasedeleteoneortrylater": {
+      "message": "一度に保存できる予約ツイートは 150 件までです。いずれかを削除するか、しばらくしてからお試しください。"
+   },
+   "YoucantscheduleaTweetformorethanayearahead": {
+      "message": "1 年以上先のツイートは予約できません。"
+   },
+   "YoucantscheduleaTweetforthepast": {
+      "message": "過去のツイートは予約できません。"
+   },
    "Youcantsendamessagetoauserwhoisnotfollowingyou": {
       "message": "あなたをフォローしていないユーザーにはメッセージを送信できません"
    },
@@ -1729,6 +1825,9 @@
    },
    "Youhavealreadyattachedanimage": {
       "message": "画像を既に添付しています。"
+   },
+   "YouhavebeentemporarilylockedoutofyouraccountPleasetryagainlater": {
+      "message": "あなたのアカウントは一時的にログイン禁止にされています。しばらくしてからもう一度お試しください。"
    },
    "YourAccounts": {
       "message": "自分のアカウント"
@@ -1829,6 +1928,9 @@
    "columnmanagement": {
       "message": "カラム管理"
    },
+   "daymonthfullYear": {
+      "message": "{{fullYear}}/{{month}}/{{day}}"
+   },
    "egJohnDoe123": {
       "message": "例: @JohnDoe123"
    },
@@ -1856,8 +1958,11 @@
    "from": {
       "message": "from"
    },
+   "hours12minutesamPm": {
+      "message": "{{hours24}}:{{minutes}}"
+   },
    "hours12minutesamPmdaymonthyear": {
-      "message": "20{{year}}年{{month}}{{day}}日 {{hours24}}:{{minutes}}"
+      "message": "20{{year}}/{{month}}/{{day}} {{hours24}}:{{minutes}}"
    },
    "images": {
       "message": "画像"
@@ -2019,7 +2124,7 @@
       "message": "検索"
    },
    "sendmessage": {
-      "message": "send message"
+      "message": "メッセージを送信"
    },
    "showingimages": {
       "message": "画像を表示"
@@ -2092,5 +2197,8 @@
    },
    "writteninlang": {
       "message": "言語: {{{lang}}}"
+   },
+   "wwwtweetdeckcom": {
+      "message": "www.tweetdeck.com"
    }
 }
