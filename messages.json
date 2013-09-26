@@ -140,6 +140,9 @@
    "AM": {
       "message": "AM"
    },
+   "Abusive": {
+      "message": "規約違反"
+   },
    "Account": {
       "message": "アカウント"
    },
@@ -344,6 +347,9 @@
    "Block1": {
       "message": "{{1}} さんをブロック"
    },
+   "Blockandunfollow": {
+      "message": "ブロックしてフォロー解除"
+   },
    "Blocked": {
       "message": "ブロック済み"
    },
@@ -424,6 +430,9 @@
    },
    "Compose": {
       "message": "作成"
+   },
+   "Compromised": {
+      "message": "セキュリティ侵害"
    },
    "ConfirmPassword": {
       "message": "パスワードの確認"
@@ -670,6 +679,9 @@
    },
    "FollowscreenName": {
       "message": "@{{screenName}} さんをフォロー"
+   },
+   "FollowspreferredAccount": {
+      "message": "@{{preferredAccount}} さんをフォロー"
    },
    "Fontsize": {
       "message": "文字のサイズ:"
@@ -1007,6 +1019,9 @@
    "NewsFeed": {
       "message": "ニュース フィード"
    },
+   "Next": {
+      "message": "次へ"
+   },
    "No": {
       "message": "いいえ"
    },
@@ -1108,6 +1123,9 @@
    },
    "PleasecheckyourpasswordRememberTweetDeckaccountsaredifferentfromTwitteraccounts": {
       "message": "パスワードを確認してください。注意: TweetDeck アカウントは Twitter アカウントとは異なります。"
+   },
+   "PleasechoosethetopicthatbestdefinesyourissueOnceyoucompleteandthesubmittheformyourreportwillbefiledwithTwitter": {
+      "message": "報告したい問題点に最も適した話題を選択してください。フォームに記入して送信すると、その内容が Twitter に保管されます。"
    },
    "Pleasecompleteusernamepassword": {
       "message": "ユーザー名とパスワードを入力してください"
@@ -1223,6 +1241,12 @@
    "Report1forspam": {
       "message": "{{1}} さんをスパムとして報告"
    },
+   "ReportTweet": {
+      "message": "ツイートを報告"
+   },
+   "ReportTweetoptions": {
+      "message": "ツイート報告のオプション"
+   },
    "Reporting": {
       "message": "報告"
    },
@@ -1309,6 +1333,9 @@
    },
    "Searchresults": {
       "message": "検索結果"
+   },
+   "SelectForm": {
+      "message": "フォームの選択"
    },
    "Send": {
       "message": "送信"
@@ -1442,6 +1469,9 @@
    "Source": {
       "message": "ソース"
    },
+   "Spam": {
+      "message": "スパム"
+   },
    "Spanish": {
       "message": "スペイン語"
    },
@@ -1456,6 +1486,9 @@
    },
    "StreamTweetsinrealtime": {
       "message": "ツイート ストリームをリアルタイム表示"
+   },
+   "Submit": {
+      "message": "送信"
    },
    "Subscribedto": {
       "message": "保存済み"
@@ -1517,6 +1550,9 @@
    "Thatuserdoesnotexist": {
       "message": "ユーザーが存在しません"
    },
+   "TheTweetmaybespamorfromaspamaccount": {
+      "message": "ツイートがスパム、またはスパム アカウントによるツイートかもしれません"
+   },
    "Thefileyouselectedisgreaterthanthe3MBlimit": {
       "message": "選択したファイルは上限の 3MB を超えるサイズです。"
    },
@@ -1534,6 +1570,9 @@
    },
    "TherewasaproblemresettingyourpasswordPleaseretry": {
       "message": "パスワードを再設定する際にエラーが発生しました。もう一度お試しください。"
+   },
+   "ThisTweetmaybeinviolationoftheahrefhttpssupporttwittercomarticles18311thetwitterrulestarget_blankTwitterRulesaInordertofileareoprtyoumuststillchooseandcompleteaformSelectthisoptiontocontinue": {
+      "message": "このツイートは <a href=\"https://support.twitter.com/articles/18311-the-twitter-rules\" target=\"_blank\">Twitter 規約</a>に違反しているおそれがあります。これを報告するには、さらにフォームを選択して記入する必要があります。続行するにはこのオプションを選択してください。"
    },
    "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
@@ -1555,6 +1594,9 @@
    },
    "Thisuserhasnopubliclists": {
       "message": "このユーザーには公開リストがありません"
+   },
+   "Thisusermaynotbeincontroloftheiraccount": {
+      "message": "このユーザーは乗っ取られているかもしれません"
    },
    "Tibetan": {
       "message": "チベット語"
@@ -1585,6 +1627,9 @@
    },
    "Translationfailed": {
       "message": "翻訳失敗"
+   },
+   "Translator": {
+      "message": "翻訳者"
    },
    "Trends": {
       "message": "トレンド"
@@ -1724,6 +1769,9 @@
    "Using": {
       "message": "以下を含む"
    },
+   "Verifiedaccount": {
+      "message": "認証済みアカウント"
+   },
    "Vietnamese": {
       "message": "ベトナム語"
    },
@@ -1807,6 +1855,9 @@
    },
    "Youcannotaddmorethanoneimage": {
       "message": "追加できる画像は 1 件のみです"
+   },
+   "YoucannotretweetyourownTweet": {
+      "message": "自分のツイートはリツイートできません"
    },
    "Youcanonlysave150scheduledTweetsatoncePleasedeleteoneortrylater": {
       "message": "一度に保存できる予約ツイートは 150 件までです。いずれかを削除するか、しばらくしてからお試しください。"
@@ -2022,7 +2073,7 @@
       "message": "ナビゲーション"
    },
    "next": {
-      "message": "次"
+      "message": "次へ"
    },
    "none": {
       "message": "なし"
