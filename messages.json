@@ -1235,6 +1235,9 @@
    "Replying": {
       "message": "返信"
    },
+   "Replyto": {
+      "message": "返信先"
+   },
    "Replyto1": {
       "message": "Reply to @{{1}}"
    },
