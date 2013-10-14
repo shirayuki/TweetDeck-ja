@@ -1577,6 +1577,12 @@
    "ThisTweetmaybeinviolationoftheahrefhttpssupporttwittercomarticles18311thetwitterrulestarget_blankTwitterRulesaInordertofileareoprtyoumuststillchooseandcompleteaformSelectthisoptiontocontinue": {
       "message": "このツイートは <a href=\"https://support.twitter.com/articles/18311-the-twitter-rules\" target=\"_blank\">Twitter 規約</a>に違反しているおそれがあります。これを報告するには、さらにフォームを選択して記入する必要があります。続行するにはこのオプションを選択してください。"
    },
+   "ThisTweetmaybeinviolationoftheahrefhttpssupporttwittercomarticles18311thetwitterrulestarget_blankTwitterRulesaInordertofileareportyoumuststillchooseandcompleteaformSelectthisoptiontocontinue": {
+      "message": "このツイートは <a href=\"https://support.twitter.com/articles/18311-the-twitter-rules\" target=\"_blank\">Twitter 規約</a>に違反しているおそれがあります。これを報告するには、さらにフォームを選択して記入する必要があります。続行するにはこのオプションを選択してください。"
+   },
+   "ThisTweetmaybespamorfromaspamaccount": {
+      "message": "このツイートはスパム、またはスパム アカウントによるツイートかもしれません"
+   },
    "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
    },
@@ -1792,6 +1798,9 @@
    },
    "VisitSuspendedAccountsHelppage": {
       "message": "凍結アカウントのヘルプ ページを閲覧"
+   },
+   "Waitingforloginrequesttobeaccepted": {
+      "message": "ログイン リクエストが受理されるのを待機しています"
    },
    "Wallpostto1": {
       "message": "{{1}} のウォールに投稿"
@@ -2236,6 +2245,9 @@
    },
    "username": {
       "message": "ユーザー名"
+   },
+   "usernameandpasswordmustbefilledin": {
+      "message": "ユーザー名とパスワードを記入してください"
    },
    "usernamelistname": {
       "message": "@ユーザー名/リスト名"
