@@ -455,6 +455,9 @@
    "CreateAccount": {
       "message": "アカウントを作成"
    },
+   "Createanaccountxxxx": {
+      "message": "Create an account xxxx"
+   },
    "Createanewlistorselectanexistinglisttoeditoraddacolumn": {
       "message": "カラムを編集または追加するには、新しいリストを作成するか既存のリストを選択してください"
    },
@@ -517,6 +520,9 @@
    },
    "Displaymediathatmaycontainsensitivecontent": {
       "message": "不適切な内容を含むおそれがある画像/動画を表示"
+   },
+   "DoesanybodyelsehaveaccesstousernametheusernameusernameusernamethisusernameTwitteraccount": {
+      "message": "{{^username}}この {{/username}}Twitter アカウント{{#username}} @{{username}} {{/username}}にアクセスできる人は他にいますか?"
    },
    "Done": {
       "message": "完了"
@@ -587,6 +593,9 @@
    "Enteranameorfullname": {
       "message": "@名前またはフルネームを入力"
    },
+   "Enterverificationcodeshowninthetextmessagewesenttoyourphone": {
+      "message": "携帯電話にお送りしたテキスト メッセージ内にある検証コードを入力してください。"
+   },
    "Enterwordstoexclude": {
       "message": "除外する語句を入力"
    },
@@ -628,6 +637,9 @@
    },
    "Feb": {
       "message": "2"
+   },
+   "Fillthecodein": {
+      "message": "Fill the code in"
    },
    "Filter": {
       "message": "フィルター"
@@ -686,8 +698,14 @@
    "Fontsize": {
       "message": "文字のサイズ:"
    },
+   "Forgotpassword": {
+      "message": "パスワードをお忘れの場合"
+   },
    "Forgotyourpassword": {
       "message": "パスワードをお忘れの場合"
+   },
+   "ForyoursafetywebstronglyadviseagainstbsigningintoTweetDeckusingasharedTwitteraccount": {
+      "message": "安全のため、共有 Twitter アカウントでは TweetDeck にログイン]<b>しないことを強くお勧めします</b>。."
    },
    "French": {
       "message": "フランス語"
@@ -764,6 +782,9 @@
    "IfyoucloseyoureditsnowyouwillloseanychangesmadeAreyousureyouwanttostopediting": {
       "message": "編集を閉じると、現在の変更内容をすべて失います。編集を本当に中止しますか?"
    },
+   "Imageadded": {
+      "message": "Image added"
+   },
    "Imagewillappearasalink": {
       "message": "画像はリンクとして表示されます"
    },
@@ -787,6 +808,9 @@
    },
    "Includetextuser_link_screennamein": {
       "message": "{{>text/user_link_screenname}} さんを以下のリストに追加:"
+   },
+   "Incorrectusernameorpassword": {
+      "message": "ユーザー名またはパスワードが正しくありません"
    },
    "Indonesian": {
       "message": "インドネシア語"
@@ -902,8 +926,14 @@
    "Loading": {
       "message": "読み込み中..."
    },
+   "Loadinghellip": {
+      "message": "読み込み中&hellip;"
+   },
    "Loadinglistmembers": {
       "message": "リストのメンバーを読み込み中..."
+   },
+   "Loginanyway": {
+      "message": "このままログイン"
    },
    "LookingforGoogleBuzzWeresorrybutsupportforGoogleBuzzhasbeendiscontinued": {
       "message": "Google Buzz をお探しですか? 申し訳ありませんが、Google Buzz への対応は終了しました。"
@@ -965,6 +995,9 @@
    "Messages": {
       "message": "メッセージ"
    },
+   "Minimizetotrayonclose": {
+      "message": "閉じた際にトレイへ最小化"
+   },
    "Moreinformation": {
       "message": "詳細情報"
    },
@@ -1018,6 +1051,12 @@
    },
    "NewsFeed": {
       "message": "ニュース フィード"
+   },
+   "NewtoTweetDeck": {
+      "message": "TweetDeck は初めてですか?"
+   },
+   "NewtoTwitter": {
+      "message": "Twitter は初めてですか?"
    },
    "Next": {
       "message": "次へ"
@@ -1139,6 +1178,9 @@
    "Pleaseselectatleastoneinteractiontype": {
       "message": "インタラの種類を少なくとも 1 つ選択してください"
    },
+   "PleasesignintoTweetDeckusingaTwitteraccountonlyyoupersonallycanaccessYouwillbeabletoconnectotherTwitteraccountsusernameincludingahrefhttpstwittercomusernameusernameausernamesafelyonceyouaresignedin": {
+      "message": "TweetDeck へのログインには、あなた個人のみがアクセスできる Twitter アカウントを使用してください。一度安全にログインした他の Twitter アカウント{{#username}} (<a href=\"https://twitter.com/{{username}}\">@{{username}}</a> を含む) {{/username}}を接続できるようになります。"
+   },
    "Pleaseuseavalidemailaddress": {
       "message": "正しいメール アドレスを使用してください"
    },
@@ -1219,6 +1261,9 @@
    },
    "Regular": {
       "message": "普通"
+   },
+   "Rememberme": {
+      "message": "認証情報を記憶"
    },
    "Remove": {
       "message": "削除"
@@ -1337,6 +1382,9 @@
    "Searchresults": {
       "message": "検索結果"
    },
+   "Securitywarning": {
+      "message": "セキュリティ警告"
+   },
    "SelectForm": {
       "message": "フォームの選択"
    },
@@ -1424,8 +1472,14 @@
    "SigninunsuccessfulPleasecheckyourpassword": {
       "message": "ログインに失敗しました。パスワードを確認してください"
    },
+   "SigninwithanotherTwitteraccount": {
+      "message": "別の Twitter アカウントでログイン"
+   },
    "SigninwithyourTweetDeckaccount": {
       "message": "TweetDeck アカウントでログイン"
+   },
+   "SigninwithyourTwitteraccount": {
+      "message": "自分の Twitter アカウントでログイン"
    },
    "Signup": {
       "message": "ユーザー登録"
@@ -1447,6 +1501,9 @@
    },
    "Smallest": {
       "message": "最小"
+   },
+   "SomethinghasgonewrongPleasetrylogginginagain": {
+      "message": "何らかのエラーが発生しました。もう一度ログインしてみてください。"
    },
    "SorrycouldntretrieveembeddedTweetPleasetryagainlater": {
       "message": "すみませんが、埋め込まれたツイートを取得できませんでした。しばらくしてからもう一度お試しください。"
@@ -1477,6 +1534,9 @@
    },
    "Spanish": {
       "message": "スペイン語"
+   },
+   "StartTweetinglikeapro": {
+      "message": "Start Tweeting like a pro."
    },
    "Stayopen": {
       "message": "開いたままにする"
@@ -1550,6 +1610,9 @@
    "ThatdoesntseemtobeavalidemailaddressRememberTweetDeckaccountsaredifferentfromTwitteraccounts": {
       "message": "有効なメール アドレスではないようです。注意: TweetDeck アカウントは Twitter アカウントとは異なります。"
    },
+   "ThatsnotthecorrectcodeCheckyourphoneandtryagain": {
+      "message": "正しいコードではありません。携帯電話を確認してもう一度やり直してください。"
+   },
    "Thatuserdoesnotexist": {
       "message": "ユーザーが存在しません"
    },
@@ -1564,6 +1627,9 @@
    },
    "Theme": {
       "message": "テーマ:"
+   },
+   "TheprofessionalmultitimelinetoolforfindingandcreatingtheTweetsthatmatter": {
+      "message": "The professional multi-timeline tool for finding and creating the Tweets that matter."
    },
    "TheresalreadyaTweetDeckaccountforthatemailaddress": {
       "message": "指定したメール アドレスの TweetDeck アカウントが既に存在します。"
@@ -1661,6 +1727,12 @@
    "TweetDecknolongerhaspermissiontoaccessaccount1": {
       "message": "TweetDeck はアカウント @{{1}} にアクセスできなくなりました。"
    },
+   "TweetDecknolongerhaspermissiontoaccessyourmainloginaccount1": {
+      "message": "TweetDeck はメインのログイン アカウント @{{1}} にアクセスできなくなりました。"
+   },
+   "TweetDeckoldtimer": {
+      "message": "TweetDeck old timer?"
+   },
    "Tweetattime": {
       "message": "{{time}}にツイート"
    },
@@ -1706,6 +1778,9 @@
    "Twitterusers": {
       "message": "Twitter ユーザー"
    },
+   "TwofactorauthenticationtimedoutPleasesigninagain": {
+      "message": "二要素認証がタイムアウトしました。もう一度ログインしてください。"
+   },
    "Typeausername": {
       "message": "ユーザー名を入力..."
    },
@@ -1747,6 +1822,9 @@
    },
    "Unknownerror": {
       "message": "不明なエラーです"
+   },
+   "UnknownloginerrorPleasetryagain": {
+      "message": "不明なログイン エラーです。もう一度やり直してください。"
    },
    "Unliking": {
       "message": "いいねの解除"
@@ -1829,11 +1907,23 @@
    "WeveremovedFacebookintegrationfromTweetDeck": {
       "message": "TweetDeck では、Facebook との統合機能を削除しました"
    },
+   "WevesentaloginverificationrequesttotheTwitterforiPhoneapp": {
+      "message": "Twitter for iPhone アプリに、ログイン検証リクエストをお送りしました"
+   },
+   "Wevesentaverificationcodetoyourphone": {
+      "message": "携帯電話に、ログイン検証コードをお送りしました"
+   },
    "Whatshappening": {
       "message": "いまどうしてる?"
    },
    "Whatsnew": {
       "message": "新着情報"
+   },
+   "WhenyoureceivetherequestacceptitbytouchingthecheckmarkbuttononyourphoneYoucanalsoenteraahrefbackupcodea": {
+      "message": "リクエストが届いたら、携帯電話のチェックマーク ボタンにタッチして同意してください。<a href=\"#\">バックアップ コード</a>を入力することもできます"
+   },
+   "WhoisusingthisTwitteraccount": {
+      "message": "誰がこの Twitter アカウントを使用していますか?"
    },
    "WhoopsYoualreadysaidthat": {
       "message": "エラーです。既にツイートした内容です..."
@@ -1898,6 +1988,9 @@
    "YouhavebeentemporarilylockedoutofyouraccountPleasetryagainlater": {
       "message": "あなたのアカウントは一時的にログイン禁止にされています。しばらくしてからもう一度お試しください。"
    },
+   "YouhavereachedthelimitforloginverificationrequestsPleasetryagaininanhour": {
+      "message": "ログイン検証リクエストの上限に達しました。1時間経ってからもう一度お試しください。"
+   },
    "YourAccounts": {
       "message": "自分のアカウント"
    },
@@ -1928,6 +2021,9 @@
    "Yourrelationshiptotextuser_link_screenname": {
       "message": "あなたと {{>text/user_link_screenname}} さんの関係"
    },
+   "Youwillbeloggedoutin5secondstopreventunauthorizedaccess": {
+      "message": "認証が解除されるのを防止するため、5秒以内にログアウトされます。"
+   },
    "actionTypeonly": {
       "message": "{{actionType}} のみ"
    },
@@ -1945,6 +2041,9 @@
    },
    "addscheduled": {
       "message": "add scheduled"
+   },
+   "ahrefHelpCenterloggininamiddotahrefIdonthaveapersonalTwitteraccountamiddotahrefIdontwantapersonalTwitteraccounta": {
+      "message": "<a href=\"#\">ヘルプ センター: ログイン </a>&middot; <a href=\"#\">個人の Twitter アカウントを持っていません</a> &middot; <a href=\"#\">個人の Twitter アカウントは要りません</a>"
    },
    "allTweets": {
       "message": "すべてのツイート"
@@ -1978,6 +2077,9 @@
    },
    "atleast0countlabel0and1countlabel1": {
       "message": "少なくとも {{#0}}{{count}} {{label}}{{/0}}、{{#1}}{{count}} {{label}}{{/1}}"
+   },
+   "bDidntreceiveanotificationbbrYoucancheckyourloginrequestsmanuallyintheTwitterforiPhoneappunderMegtSettingsgtChooseAccountgtSecuritygtLoginrequests": {
+      "message": "<b>通知が届きませんでしたか?</b><br /> Twitter for iPhone アプリへのログイン リクエストを手動で確認できます: Me &gt; 設定 &gt; アカウント選択 &gt; セキュリティ &gt; ログイン リクエスト、にあります"
    },
    "by1": {
       "message": "{{1}} さんが作成"
