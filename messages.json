@@ -155,6 +155,9 @@
    "Accounts": {
       "message": "アカウント"
    },
+   "Accountsecurity": {
+      "message": "アカウントのセキュリティ"
+   },
    "Accountsynccomplete": {
       "message": "アカウントの同期完了"
    },
@@ -172,6 +175,15 @@
    },
    "AddNewAccount": {
       "message": "新規アカウントを追加"
+   },
+   "AddTweets": {
+      "message": "ツイートを追加"
+   },
+   "AddTweetstoyourcustomtimelines": {
+      "message": "カスタム タイムラインにツイートを追加"
+   },
+   "AddTweettocustomtimeline": {
+      "message": "カスタム タイムラインにツイートを追加"
    },
    "AddTwitteraccount": {
       "message": "Twitter アカウントを追加"
@@ -206,11 +218,17 @@
    "Addallofyourcolumnsandaccounts": {
       "message": "自分のカラムとアカウントをすべて追加"
    },
+   "Addanewcolumnforcustomtimelinessetatitleanddescriptionandyouarereadytogo": {
+      "message": "カスタム タイムラインのカラムを追加して、タイトルと説明を設定すれば、準備完了です。"
+   },
    "Addasnewcolumn": {
       "message": "新規カラムとして追加"
    },
    "Addcolumn": {
       "message": "カラムを追加"
+   },
+   "Adddescription": {
+      "message": "説明を追加"
    },
    "Addfacebookaccount": {
       "message": "Facebook アカウントを追加"
@@ -226,6 +244,9 @@
    },
    "AddthisTweettoyourwebsitebycopyingthecodebelowIfyourCMSsupportsityoucanjustpasteinthelink": {
       "message": "以下のコードをコピーしてあなたのウェブサイトにツイートを追加しましょう。お使いの CMS が対応している場合はリンク内に貼り付けるだけです。"
+   },
+   "Addtocustomtimeline": {
+      "message": "カスタム タイムラインに追加…"
    },
    "Addtwitteraccount": {
       "message": "Twitter アカウントを追加"
@@ -289,6 +310,9 @@
    },
    "Areyousureyouwanttocontinueediting": {
       "message": "編集を本当に続行しますか?"
+   },
+   "Areyousureyouwanttodeletethiscustomtimeline": {
+      "message": "このカスタム タイムラインを本当に削除しますか?"
    },
    "Areyousureyouwanttodeletethislist": {
       "message": "このリストを本当に削除しますか?"
@@ -392,6 +416,9 @@
    "Chinese": {
       "message": "中国語"
    },
+   "Choosecolumntype": {
+      "message": "カラムの種類を選択"
+   },
    "Cleanerlook": {
       "message": "すっきりした外観"
    },
@@ -452,14 +479,26 @@
    "Couldnotauthenticateyou": {
       "message": "認証できませんでした"
    },
+   "Create": {
+      "message": "作成"
+   },
    "CreateAccount": {
       "message": "アカウントを作成"
    },
    "Createanaccountxxxx": {
       "message": "Create an account xxxx"
    },
+   "Createanewcustomtimelineorselectanexistingtimeline": {
+      "message": "カスタム タイムラインを新規作成するか、または既存のタイムラインを選択してください"
+   },
    "Createanewlistorselectanexistinglisttoeditoraddacolumn": {
       "message": "カラムを編集または追加するには、新しいリストを作成するか既存のリストを選択してください"
+   },
+   "Createcustomtimeline": {
+      "message": "カスタム タイムラインを作成"
+   },
+   "Createcustomtimelines": {
+      "message": "カスタム タイムラインを作成"
    },
    "Createlink": {
       "message": "リンクを作成"
@@ -469,6 +508,12 @@
    },
    "CustomColumn": {
       "message": "カスタム カラム"
+   },
+   "Customtimeline": {
+      "message": "カスタム タイムライン"
+   },
+   "Customtimelines": {
+      "message": "カスタム タイムライン"
    },
    "Czech": {
       "message": "チェコ語"
@@ -490,6 +535,9 @@
    },
    "Deletelist": {
       "message": "リストを削除"
+   },
+   "Deletetimeline": {
+      "message": "タイムラインを削除"
    },
    "Deleting": {
       "message": "削除"
@@ -521,20 +569,35 @@
    "Displaymediathatmaycontainsensitivecontent": {
       "message": "不適切な内容を含むおそれがある画像/動画を表示"
    },
+   "Disregardthissecuritywarningandsigninwithusernameanywaynotrecommended": {
+      "message": "Disregard this security warning and sign in with @{{username}} anyway (not recommended)"
+   },
    "DoesanybodyelsehaveaccesstousernametheusernameusernameusernamethisusernameTwitteraccount": {
       "message": "{{^username}}この {{/username}}Twitter アカウント{{#username}} @{{username}} {{/username}}にアクセスできる人は他にいますか?"
    },
    "Done": {
       "message": "完了"
    },
+   "DonrsquothaveyourownTwitteraccountaclassstartflowlinkhrefhttpstwittercomsignupSignupamiddotahrefclassjstwoginshowsignuppromptstartflowlinkDonrsquotwantonea": {
+      "message": "Twitter アカウントをお持ちではありませんか? <a class=\"startflow-link\" href=\"https://twitter.com/signup\">ユーザー登録</a> &middot; <a href=\"#\" class=\"js-twogin-show-signup-prompt startflow-link\">Don&rsquo;t want one?</a>"
+   },
    "DonthaveaTweetDeckaccount": {
       "message": "TweetDeck アカウントをお持ちではありませんか?"
+   },
+   "DragTweetsfromanyothercolumnanddropthemintoacustomtimelinecolumnOrusethehandyshortcutkey": {
+      "message": "他のカラムのツイートをドラッグしてカスタム タイムラインのカラムにドロップしてください。便利なショートカット キーも使用できます"
+   },
+   "DragTweetsintothistimeline": {
+      "message": "ツイートをこのタイムラインにドラッグ"
    },
    "Draganddroptoreordercolumns": {
       "message": "カラムを並べ替えるにはドラッグ & ドロップしてください。"
    },
    "Dragcolumnheadertoreorder": {
       "message": "並べ替えるにはカラムのヘッダーをドラッグしてください"
+   },
+   "Dragtocustomtimeline": {
+      "message": "カスタム タイムラインにドラッグ"
    },
    "Dutch": {
       "message": "オランダ語"
@@ -578,6 +641,12 @@
    "EmbedthisTweet": {
       "message": "このツイートを埋め込む"
    },
+   "Embedtimeline": {
+      "message": "タイムラインを埋め込む"
+   },
+   "EmbedyourcustomtimelinesintoanywebpageorlinktothemusingtheSharebutton": {
+      "message": "カスタム タイムラインをウェブ ページに埋め込んだり、共有ボタンを使用してタイムラインにリンクしたりしましょう。"
+   },
    "Engagement": {
       "message": "エンゲージ"
    },
@@ -604,6 +673,15 @@
    },
    "ErrorFailedtoflagmediaPleasetryagain": {
       "message": "エラー: 画像/動画を報告できませんでした。もう一度お試しください。"
+   },
+   "ErrorcreatingcustomTimelinestatus": {
+      "message": "カスタム タイムラインの作成エラー: {{status}}"
+   },
+   "Errordeletingcustomtimeline": {
+      "message": "カスタム タイムラインの削除エラー"
+   },
+   "Errorunabletosavedescription": {
+      "message": "エラー: 説明を保存できません"
    },
    "Estonian": {
       "message": "エストニア語"
@@ -758,6 +836,9 @@
    "HaitianCreole": {
       "message": "ハイチ語"
    },
+   "Handleloginservererror": {
+      "message": "ログイン サーバーの処理エラー"
+   },
    "Hebrew": {
       "message": "ヘブライ語"
    },
@@ -800,6 +881,9 @@
    "Inbox": {
       "message": "受信箱"
    },
+   "IncludeTweetin": {
+      "message": "Include Tweet in:"
+   },
    "Includemedia": {
       "message": "画像/動画を含める"
    },
@@ -815,17 +899,26 @@
    "Indonesian": {
       "message": "インドネシア語"
    },
+   "Information": {
+      "message": "情報"
+   },
    "InordertouseTweetDeckyoumusthaveaTweetDeckaccountThisallowsyoutomanagemanyTwitteraccountsallfromthesamescreen": {
       "message": "TweetDeck を使用するには、TweetDeck アカウントが必要です。このアカウントがあると、複数のアカウントすべてを同じ画面で管理できるようになります。"
    },
    "Interactions": {
       "message": "インタラ"
    },
+   "IntroducingCustomTimelines": {
+      "message": "カスタム タイムラインの導入"
+   },
    "Inuktitut": {
       "message": "イヌクティトゥト語"
    },
    "Invalidsearchquery": {
       "message": "検索条件が無効です"
+   },
+   "Invalidusernameorpassword": {
+      "message": "ユーザー名またはパスワードが無効"
    },
    "Italian": {
       "message": "イタリア語"
@@ -835,6 +928,9 @@
    },
    "Itsyou": {
       "message": "自分です"
+   },
+   "IunderstandaddaTwitteraccount": {
+      "message": "理解しました - Twitter アカウントを追加します"
    },
    "Jan": {
       "message": "1"
@@ -1025,6 +1121,9 @@
    "Myanmar": {
       "message": "ミャンマー語"
    },
+   "Mycustomtimelines": {
+      "message": "自分のカスタム タイムライン"
+   },
    "Mylists": {
       "message": "自分のリスト"
    },
@@ -1097,14 +1196,23 @@
    "Off": {
       "message": "OFF"
    },
+   "Oksignup": {
+      "message": "同意してユーザー登録"
+   },
    "Onlyonefilecanbeattachedtoatweet": {
       "message": "ツイートに添付できるのは1ファイルのみです。"
+   },
+   "Onlyyou": {
+      "message": "あなたのみ"
    },
    "Oopsyoudonthaveanyaccountsselected": {
       "message": "エラー - アカウントを何も選択していません。"
    },
    "Oopsyouhaventaddedanycontenttothepost": {
       "message": "エラー - 投稿する内容を何も追加していません"
+   },
+   "Open": {
+      "message": "開く"
    },
    "Options": {
       "message": "オプション"
@@ -1169,6 +1277,9 @@
    "Pleasecompleteusernamepassword": {
       "message": "ユーザー名とパスワードを入力してください"
    },
+   "Pleaseenteryouremailaddress": {
+      "message": "メール アドレスを入力してください。"
+   },
    "PleaseselectaTwitteraccounttouploadmedia": {
       "message": "画像/動画をアップロードする Twitter アカウントを選択してください"
    },
@@ -1214,11 +1325,17 @@
    "Private": {
       "message": "非公開"
    },
+   "ProblemaddingTweetpleasetryagain": {
+      "message": "ツイートを追加できません: もう一度お試しください"
+   },
    "ProblemaddinguserNametothelistlistNamePleasetryagain": {
       "message": "{{userName}} さんをリスト {{listName}} に追加する際にエラーが発生しました。もう一度お試しください"
    },
    "ProblemflaggingmediaPleasetryagain": {
       "message": "画像/動画を報告する際にエラーが発生しました。もう一度お試しください"
+   },
+   "ProblemremovingTweetpleasetryagain": {
+      "message": "ツイートを削除できません: もう一度お試しください"
    },
    "ProblemremovinguserNamefromthelistlistNamePleasetryagain": {
       "message": "{{userName}} さんをリスト {{listName}} から削除する際にエラーが発生しました。もう一度お試しください"
@@ -1270,6 +1387,9 @@
    },
    "Removecolumn": {
       "message": "カラムを削除"
+   },
+   "Removefromcustomtimeline": {
+      "message": "カスタム タイムラインから削除"
    },
    "Removingaccount": {
       "message": "アカウントを削除中!"
@@ -1448,6 +1568,9 @@
    "SharepagewithTweetDeck": {
       "message": "TweetDeck でページを共有"
    },
+   "Shareyourcustomtimelines": {
+      "message": "自分のカスタム タイムラインを共有"
+   },
    "ShowTwitterprofilefors": {
       "message": "%s さんの Twitter プロフィールを表示"
    },
@@ -1468,6 +1591,9 @@
    },
    "SignintoTweetDeck": {
       "message": "TweetDeck にログイン"
+   },
+   "SignintoTweetDeckwithanaccountstrongonlyyoustrongknowthepasswordto": {
+      "message": "<strong>あなただけが</strong>パスワードを知っているアカウントで TweetDeck にログインしてください。Sign in to TweetDeck with an account <strong>only you</strong> know the password to."
    },
    "SigninunsuccessfulPleasecheckyourpassword": {
       "message": "ログインに失敗しました。パスワードを確認してください"
@@ -1613,6 +1739,9 @@
    "ThatsnotthecorrectcodeCheckyourphoneandtryagain": {
       "message": "正しいコードではありません。携帯電話を確認してもう一度やり直してください。"
    },
+   "ThatsnotthecorrectcodePleasereenterthecodesenttoyourphone": {
+      "message": "正しいコードではありません。携帯電話にお送りしたコードをもう一度入力してください。"
+   },
    "Thatuserdoesnotexist": {
       "message": "ユーザーが存在しません"
    },
@@ -1627,6 +1756,9 @@
    },
    "Theme": {
       "message": "テーマ:"
+   },
+   "ThemostpowerfulTwittertoolforrealtimetrackingorganizingandengagement": {
+      "message": "The most powerful Twitter tool for real-time tracking, organizing, and engagement."
    },
    "TheprofessionalmultitimelinetoolforfindingandcreatingtheTweetsthatmatter": {
       "message": "The professional multi-timeline tool for finding and creating the Tweets that matter."
@@ -1667,17 +1799,26 @@
    "Thisuserhasbeensuspended": {
       "message": "このユーザーは凍結されています"
    },
+   "Thisuserhasnocustomtimelines": {
+      "message": "このユーザーにはカスタム タイムラインがありません"
+   },
    "Thisuserhasnopubliclists": {
       "message": "このユーザーには公開リストがありません"
    },
    "Thisusermaynotbeincontroloftheiraccount": {
       "message": "このユーザーは乗っ取られているかもしれません"
    },
+   "Thiswayyoucancontinuesharingaccesstoaclassstartflowlinkhrefhttpstwittercomusernameusernameastrongwithoutcompromisingthesecurityofyouraccountandanyotheraccountsyouconnectinfuturestrong": {
+      "message": "This way you can continue sharing access to <a class=\"startflow-link\" href=\"https://twitter.com/{{username}}\">@{{username}}</a>, <strong>without compromising the security of your account and any other accounts you connect in future.</strong>"
+   },
    "Tibetan": {
       "message": "チベット語"
    },
    "Timeline": {
       "message": "タイムライン"
+   },
+   "Title": {
+      "message": "タイトル"
    },
    "To": {
       "message": "宛先"
@@ -1706,6 +1847,9 @@
    "Translator": {
       "message": "翻訳者"
    },
+   "Trending": {
+      "message": "トレンド"
+   },
    "Trends": {
       "message": "トレンド"
    },
@@ -1732,6 +1876,9 @@
    },
    "TweetDeckoldtimer": {
       "message": "TweetDeck old timer?"
+   },
+   "Tweetabouttimeline": {
+      "message": "タイムラインについてツイート"
    },
    "Tweetattime": {
       "message": "{{time}}にツイート"
@@ -1820,6 +1967,9 @@
    "UnfollowscreenName": {
       "message": "@{{screenName}} さんをフォロー解除"
    },
+   "UnknownColumn": {
+      "message": "不明なカラムです"
+   },
    "Unknownerror": {
       "message": "不明なエラーです"
    },
@@ -1843,6 +1993,9 @@
    },
    "Userhasbeensuspended": {
       "message": "ユーザーは凍結されています"
+   },
+   "Usernameandpasswordmustbefilledin": {
+      "message": "ユーザー名とパスワードの両方を記入してください。"
    },
    "Usernameorlistname": {
       "message": "ユーザー名またはリスト名"
@@ -1871,6 +2024,9 @@
    "Viewmessages": {
       "message": "メッセージを表示"
    },
+   "Viewontwittercom": {
+      "message": "twitter.com で表示"
+   },
    "Vieworiginal": {
       "message": "オリジナルを表示"
    },
@@ -1894,6 +2050,12 @@
    },
    "Wecouldnotcompleteyourrequestbecausethetweetmaybeprotectedordeleted": {
       "message": "リクエストを完了できませんでした。ツイートが非公開、または削除済みの可能性があります"
+   },
+   "WecouldnotfindaTweetDeckaccountassociatedwithemail": {
+      "message": "このメールアドレスに関連付けられた TweetDeck アカウントが見つかりませんでした: {{{email}}}。"
+   },
+   "Wecouldnotlogyouinwiththisusernameandpassword": {
+      "message": "このユーザー名とパスワードではログインできませんでした。"
    },
    "WecouldntfindaTweetDeckaccountassociatedwithemail": {
       "message": "このメールアドレスに関連付けられた TweetDeck アカウントが見つかりませんでした: {{{email}}}"
@@ -1931,6 +2093,9 @@
    "WhoopsYouvealreadyretweetedthat": {
       "message": "エラーです。既にリツイートした内容です..."
    },
+   "WhousesthisTwitteraccount": {
+      "message": "この Twitter アカウントを使用しているのは誰ですか?"
+   },
    "WhyisthistopictrendingClicktotellus": {
       "message": "Why is this topic trending? Click to tell us"
    },
@@ -1952,14 +2117,23 @@
    "Youalreadytweetedthat": {
       "message": "同じ内容を既にツイートしました"
    },
+   "Youandothersonyourteam": {
+      "message": "あなたのチームのあなたと他のメンバー"
+   },
    "Youarenotsubscribedtoanylists": {
       "message": "あなたはどのリストにも登録されていません"
    },
    "Youcannotaddmorethanoneimage": {
       "message": "追加できる画像は 1 件のみです"
    },
+   "YoucannotremovetheTwitteraccountyousignedinwith": {
+      "message": "ログインに使用している Twitter アカウントは削除できません"
+   },
    "YoucannotretweetyourownTweet": {
       "message": "自分のツイートはリツイートできません"
+   },
+   "YoucannowcreateandshareCustomTimelinesfromTweetDeckTolearnmoreaboutcustomtimelinesreadour": {
+      "message": "TweetDeck でカスタム タイムラインを作成して共有できるようになりました。カスタム タイムラインの詳細はこちらを参照してください:"
    },
    "Youcanonlysave150scheduledTweetsatoncePleasedeleteoneortrylater": {
       "message": "一度に保存できる予約ツイートは 150 件までです。いずれかを削除するか、しばらくしてからお試しください。"
@@ -1976,6 +2150,18 @@
    "Youdidnotselectanimage": {
       "message": "選択したファイルは画像ファイルではありません。"
    },
+   "Youdonothaveanycustomtimelines": {
+      "message": "あなたのカスタム タイムラインはありません"
+   },
+   "YoudonrsquotevenneedtoTweet": {
+      "message": "You don&rsquo;t even need to Tweet."
+   },
+   "Youdonrsquotneedtouseaphotoofyou": {
+      "message": "自分の写真を使用する必要はありません。"
+   },
+   "Youdonrsquotneedtouseyourname": {
+      "message": "自分の名前を使用する必要はありません。"
+   },
    "Youdontownthisaccountcantdelete": {
       "message": "このアカウントを所有できません - 削除できません"
    },
@@ -1988,8 +2174,26 @@
    "YouhavebeentemporarilylockedoutofyouraccountPleasetryagainlater": {
       "message": "あなたのアカウントは一時的にログイン禁止にされています。しばらくしてからもう一度お試しください。"
    },
+   "YouhaveenteredtoomanyincorrectcodesPleasetrysigninginagain": {
+      "message": "正しくないコードを入力した回数が上限に達しました。もう一度ログインしてみてください。"
+   },
+   "YouhaveinitiatedtoomanyloginrequestsPleasetrysigininginagaininanhour": {
+      "message": "ログイン リクエストの回数が上限に達しました。しばらくしてからもう一度ログインしてみてください。"
+   },
    "YouhavereachedthelimitforloginverificationrequestsPleasetryagaininanhour": {
-      "message": "ログイン検証リクエストの上限に達しました。1時間経ってからもう一度お試しください。"
+      "message": "ログイン検証リクエストの回数が上限に達しました。1時間経ってからもう一度お試しください。"
+   },
+   "YouhavetoomanyfailedsigninattemptsPleasetryagaininanhour": {
+      "message": "ログインの試行回数が上限に達しました。1時間経ってからもう一度お試しください。"
+   },
+   "YoumustresetthepasswordonthisaccountPleasesigninontwittercomtodothis": {
+      "message": "このアカウントのパスワードを再設定してください。これを行なうために twitter.com にログインしてください。"
+   },
+   "Youneedtogenerateatemporarypasswordontwittercomtosignin": {
+      "message": "ログインするには twitter.com で仮パスワードを生成する必要があります。"
+   },
+   "Youneedyourownaccountbutitrsquosokhellip": {
+      "message": "You need your own account, but it&rsquo;s ok&hellip;"
    },
    "YourAccounts": {
       "message": "自分のアカウント"
@@ -1997,17 +2201,29 @@
    "Youraccount1iscurrentlysuspended": {
       "message": "あなたのアカウント @{{1}} は現在凍結されています。"
    },
+   "YouraccountisdeactivatedPleasesigninontwittercomtoreactivate": {
+      "message": "あなたのアカウントは無効化されています。再有効化するには、twitter.com にログインしてください。"
+   },
    "Youraccountissuspendedandisnotpermittedtoaccessthisfeature": {
       "message": "あなたのアカウントは凍結されており、この機能へのアクセスを許可されていません"
    },
    "YourahrefrelglobalSettingsTweetmediadisplaysettingsaareconfiguredtoinformyouwhenmediamaybesensitive": {
       "message": "<a href=\"#\" rel=\"globalSettings\">ツイートの画像/動画表示設定</a>で、画像/動画が不適切な内容を含むおそれがある場合にお知らせする設定になっています。"
    },
+   "Yourcustomtimelines": {
+      "message": "自分のカスタム タイムライン"
+   },
    "Youreawesome": {
       "message": "You're awesome"
    },
    "Yourlists": {
       "message": "自分のリスト"
+   },
+   "YourloginrequestwasrejectedIfthisisyouraccountpleasetrysigninginagainandacceptingtherequestonyourphone": {
+      "message": "Your login request was rejected. If this is your account, please try signing in again and accepting the request on your phone."
+   },
+   "YourloginverificationrequesthasexpiredPleasetrysigninginagain": {
+      "message": "ログイン検証リクエストの有効期限が切れました。もう一度ログインしてみてください。"
    },
    "Yourpasswordmustbe7charactersorlonger": {
       "message": "パスワードは 8 文字以上にしてください。"
@@ -2020,6 +2236,9 @@
    },
    "Yourrelationshiptotextuser_link_screenname": {
       "message": "あなたと {{>text/user_link_screenname}} さんの関係"
+   },
+   "YoursquollbeabletoconnectotherTwitteraccountssafelyonceyoursquoresignedinincludingaclassstartflowlinkhrefhttpstwittercomusernameusernameausingTweetDeckrsquosmultiaccountsupport": {
+      "message": "You&rsquo;ll be able to connect other Twitter accounts safely once you&rsquo;re signed in (including <a class=\"startflow-link\" href=\"https://twitter.com/{{username}}\">@{{username}}</a>), using TweetDeck&rsquo;s multi-account support."
    },
    "Youwillbeloggedoutin5secondstopreventunauthorizedaccess": {
       "message": "認証が解除されるのを防止するため、5秒以内にログアウトされます。"
@@ -2047,6 +2266,9 @@
    },
    "allTweets": {
       "message": "すべてのツイート"
+   },
+   "allaccounts": {
+      "message": "(全アカウント)"
    },
    "allusers": {
       "message": "すべてのユーザー"
@@ -2081,6 +2303,9 @@
    "bDidntreceiveanotificationbbrYoucancheckyourloginrequestsmanuallyintheTwitterforiPhoneappunderMegtSettingsgtChooseAccountgtSecuritygtLoginrequests": {
       "message": "<b>通知が届きませんでしたか?</b><br /> Twitter for iPhone アプリへのログイン リクエストを手動で確認できます: Me &gt; 設定 &gt; アカウント選択 &gt; セキュリティ &gt; ログイン リクエスト、にあります"
    },
+   "blogpost": {
+      "message": "ブログ投稿"
+   },
    "by1": {
       "message": "{{1}} さんが作成"
    },
@@ -2098,6 +2323,9 @@
    },
    "columnmanagement": {
       "message": "カラム管理"
+   },
+   "customtimelines": {
+      "message": "カスタム タイムライン"
    },
    "daymonthfullYear": {
       "message": "{{fullYear}}/{{month}}/{{day}}"
@@ -2285,6 +2513,9 @@
    "retweetsexcluded": {
       "message": "リツイートを除外"
    },
+   "screenNamescustomTimelines": {
+      "message": "@{{screenName}} のカスタム タイムライン"
+   },
    "screenNameslists": {
       "message": "@{{screenName}} さんのリスト"
    },
@@ -2321,11 +2552,17 @@
    "specificuser": {
       "message": "特定のユーザー..."
    },
+   "strongInfactyoursquollonlyeveruseittosignintoTweetDeckstrong": {
+      "message": "<strong>In fact, you&rsquo;ll only ever use it to sign in to TweetDeck.</strong>"
+   },
    "textstrongisPrivateiclassiconiconprotectediconsmalliisPrivatebyuserscreenNameuser": {
       "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
    },
    "tofindoutmore": {
       "message": "(詳細)"
+   },
+   "toyourcustomtimelines": {
+      "message": "to your custom timelines"
    },
    "user": {
       "message": "ユーザー"
@@ -2374,5 +2611,8 @@
    },
    "wwwtweetdeckcom": {
       "message": "www.tweetdeck.com"
+   },
+   "yourcustomtimelines": {
+      "message": "自分のカスタム タイムライン"
    }
 }
