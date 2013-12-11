@@ -395,6 +395,9 @@
    "Cancelediting": {
       "message": "編集をキャンセルしますか?"
    },
+   "CantrecognizeTweetURL": {
+      "message": "ツイートの URL を認識できません"
+   },
    "Capture": {
       "message": "キャプチャー"
    },
@@ -2057,6 +2060,9 @@
    "Ukrainian": {
       "message": "ウクライナ語"
    },
+   "UnabletoaddthatTweet": {
+      "message": "そのツイートは追加できません"
+   },
    "UnabletoconnectPleasecheckyournetwork": {
       "message": "接続できません。ネットワーク接続を確認してください。"
    },
@@ -2713,6 +2719,9 @@
    },
    "strongTweetDeckoldtimerstrongYoursquovesignedinwithyourTwitteraccountbutifyouwantaccesstoyournormalcolumnsandsetupyoushouldcontinuetoahrefdataactionsignOutsigninawithyourTweetDeckemailaddressandpasswordahrefhttpsblogtwittercom2013signintotweetdeckwithyourtwitteraccountLearnmorea": {
       "message": " <strong>TweetDeck old timer?</strong> You&rsquo;ve signed in with your Twitter account, but if you want access to your normal columns and setup, you should continue to <a href=\"#\" data-action=\"signOut\">sign in</a> with your TweetDeck email address and password. <a href=\"https://blog.twitter.com/2013/sign-in-to-tweetdeck-with-your-twitter-account\">Learn more.</a> "
+   },
+   "strongTweetDeckoldtimerstrongYoursquovesignedinwithyourTwitteraccountbutifyouwantaccesstoyournormalcolumnsandsetupyoushouldcontinuetoahrefdataactionsignOutsigninawithyourTweetDeckemailaddressandpasswordforthetimebeing": {
+      "message": " <strong>TweetDeck old timer?</strong> You&rsquo;ve signed in with your Twitter account, but if you want access to your normal columns and setup, you should continue to <a href=\"#\" data-action=\"signOut\">sign in</a> with your TweetDeck email address and password for the time being. "
    },
    "textstrongisPrivateiclassiconiconprotectediconsmalliisPrivatebyuserscreenNameuser": {
       "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
