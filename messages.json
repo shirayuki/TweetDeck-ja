@@ -287,6 +287,9 @@
    "Allinteractions": {
       "message": "全インタラ"
    },
+   "Allnotifications": {
+      "message": "すべての通知"
+   },
    "Alreadyhaveanaccount": {
       "message": "アカウントを既にお持ちですか?"
    },
@@ -2725,6 +2728,9 @@
    },
    "textstrongisPrivateiclassiconiconprotectediconsmalliisPrivatebyuserscreenNameuser": {
       "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
+   },
+   "textstrongisPrivateiclassiconiconprotectediconsmalltxtbasemediumiisPrivatebyuserscreenNameuser": {
+      "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small  txt-base-medium\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
    },
    "tofindoutmore": {
       "message": "(詳細)"
