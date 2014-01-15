@@ -524,6 +524,9 @@
    "Createlist": {
       "message": "リストを作成"
    },
+   "Createnewlist": {
+      "message": "リストの新規作成"
+   },
    "CreatesearchestotracktopicseventsandhashtagsRefinetheresultswithfiltersatthetopofeachtimeline": {
       "message": "Create searches to track topics, events and hashtags. Refine the results with filters at the top of each timeline."
    },
@@ -831,7 +834,7 @@
       "message": "パスワードをお忘れの場合"
    },
    "ForyoursafetywebstronglyadviseagainstbsigningintoTweetDeckusingasharedTwitteraccount": {
-      "message": "安全のため、共有 Twitter アカウントでは TweetDeck にログイン]<b>しないことを強くお勧めします</b>。."
+      "message": "安全のため、共有 Twitter アカウントでは TweetDeck にログイン<b>しないことを強くお勧めします</b>。"
    },
    "ForyoursecurityitisessentialthatyousignintoTweetDeckusingaTwitteraccountthatstrongonlyyoustronghavethepasswordfor": {
       "message": "セキュリティのため、<strong>自分のみ</strong>がパスワードを知っている Twitter アカウントでログインすることが不可欠です。"
@@ -2002,6 +2005,9 @@
    },
    "TweetDeckoldtimer": {
       "message": "TweetDeck old timer?"
+   },
+   "Tweetaboutthistimeline": {
+      "message": "このタイムラインについてツイート"
    },
    "Tweetabouttimeline": {
       "message": "タイムラインについてツイート"
