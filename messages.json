@@ -240,7 +240,7 @@
       "message": "画像を追加"
    },
    "Addorremovefromlists": {
-      "message": "リストに追加または削除..."
+      "message": "リストに追加または削除…"
    },
    "AddthisTweettoyourwebsitebycopyingthecodebelowIfyourCMSsupportsityoucanjustpasteinthelink": {
       "message": "以下のコードをコピーしてあなたのウェブサイトにツイートを追加しましょう。お使いの CMS が対応している場合はリンク内に貼り付けるだけです。"
@@ -397,6 +397,9 @@
    },
    "Cancelediting": {
       "message": "編集をキャンセルしますか?"
+   },
+   "Cannotretrievefavoritestatus": {
+      "message": "お気に入りの状態を取得できません"
    },
    "CantrecognizeTweetURL": {
       "message": "ツイートの URL を認識できません"
@@ -746,11 +749,20 @@
    "FailedRetweet": {
       "message": "失敗しました: リツイート"
    },
+   "Failedchangingfavoritestatus": {
+      "message": "お気に入りの状態を変更できませんでした"
+   },
    "Failedtomarkmessageasread": {
       "message": "メッセージを既読にできませんでした。"
    },
    "Favorite": {
       "message": "お気に入り"
+   },
+   "Favorited": {
+      "message": "お気に入り"
+   },
+   "Favoritefromaccounts": {
+      "message": "指定したアカウントからお気に入りに登録…"
    },
    "FavoritefromgetUsername": {
       "message": "{{getUsername}} のお気に入りに登録"
@@ -758,8 +770,14 @@
    "Favorites": {
       "message": "お気に入り"
    },
+   "FavoritethisTweet": {
+      "message": "このツイートをお気に入りに登録"
+   },
    "Favoriting": {
       "message": "お気に入りへの登録"
+   },
+   "Favoritingfailed": {
+      "message": "お気に入りに登録できませんでした"
    },
    "Feb": {
       "message": "2"
@@ -792,7 +810,7 @@
       "message": "報告済み (詳細)"
    },
    "Flaggingmedia": {
-      "message": "画像/動画を報告中..."
+      "message": "画像/動画を報告中…"
    },
    "Flagmedia": {
       "message": "画像/動画を報告"
@@ -807,7 +825,7 @@
       "message": "フォロワー"
    },
    "Followfromaccounts": {
-      "message": "指定したアカウントからフォロー..."
+      "message": "指定したアカウントからフォロー…"
    },
    "Following": {
       "message": "フォロー中"
@@ -1080,13 +1098,13 @@
       "message": "リトアニア語"
    },
    "Loading": {
-      "message": "読み込み中..."
+      "message": "読み込み中…"
    },
    "Loadinghellip": {
       "message": "読み込み中&hellip;"
    },
    "Loadinglistmembers": {
-      "message": "リストのメンバーを読み込み中..."
+      "message": "リストのメンバーを読み込み中…"
    },
    "Loginanyway": {
       "message": "このままログイン"
@@ -1439,6 +1457,9 @@
    "ProfileAccount": {
       "message": "プロフィール アカウント"
    },
+   "Protected": {
+      "message": "非公開"
+   },
    "Public": {
       "message": "公開"
    },
@@ -1617,7 +1638,7 @@
       "message": "{{time}}に送信"
    },
    "Sending": {
-      "message": "送信中..."
+      "message": "送信中…"
    },
    "Sendingfailed": {
       "message": "送信に失敗しました"
@@ -2093,11 +2114,17 @@
    "UndoingRetweet": {
       "message": "リツイートの取り消し"
    },
+   "Unfavorite": {
+      "message": "お気に入りを解除"
+   },
    "UnfavoritefromgetUsername": {
       "message": "{{getUsername}} のお気に入りから解除"
    },
    "Unfavoriting": {
       "message": "お気に入りの解除"
+   },
+   "Unfavoritingfailed": {
+      "message": "お気に入りを解除できませんでした"
    },
    "Unfollow": {
       "message": "フォローを解除"
@@ -2238,10 +2265,10 @@
       "message": "誰がこの Twitter アカウントを使用していますか?"
    },
    "WhoopsYoualreadysaidthat": {
-      "message": "エラーです。既にツイートした内容です..."
+      "message": "エラーです。既にツイートした内容です…"
    },
    "WhoopsYouvealreadyretweetedthat": {
-      "message": "エラーです。既にリツイートした内容です..."
+      "message": "エラーです。既にリツイートした内容です…"
    },
    "WhousesthisTwitteraccount": {
       "message": "この Twitter アカウントを使用しているのは誰ですか?"
@@ -2278,6 +2305,9 @@
    },
    "Youcannotaddmorethanoneimage": {
       "message": "追加できる画像は 1 件のみです"
+   },
+   "YoucannotfavoritethisprotectedTweet": {
+      "message": "あなたはこの非公開ツイートをお気に入りに登録できません"
    },
    "YoucannotremovetheTwitteraccountyousignedinwith": {
       "message": "ログインに使用している Twitter アカウントは削除できません"
@@ -2403,6 +2433,9 @@
       "message": "Your personal browser for staying in touch with what's happening now"
    },
    "Yourrelationshiptotextuser_link_screenname": {
+      "message": "あなたと {{>text/user_link_screenname}} さんの関係"
+   },
+   "Yourrelationshipwithtextuser_link_screenname": {
       "message": "あなたと {{>text/user_link_screenname}} さんの関係"
    },
    "YoursquollbeabletoconnectotherTwitteraccountssafelyonceyoursquoresignedinincludingaclassstartflowlinkhrefhttpstwittercomusernameusernameausingTweetDeckrsquosmultiaccountsupport": {
@@ -2618,17 +2651,23 @@
    "onesecondago": {
       "message": "{{one}}秒前"
    },
+   "owneraddedaddedtotheirlistlist": {
+      "message": "{{{owner}}} さんが {{{added}}} さんを自身のリスト {{{list}}} に追加しました"
+   },
    "owneraddedaddedtothelistlist": {
       "message": "{{{owner}}} さんが {{{added}}} さんをリスト {{{list}}} に追加しました。"
    },
    "owneraddedaddedtothelistslists": {
-      "message": "{{{owner}}} さんが {{{added}}} さんをリスト {{{lists}}} に追加しました。"
+      "message": "{{{owner}}} さんが {{{added}}} さんをリスト {{{lists}}} に追加しました"
+   },
+   "owneraddedyoutotheirlistlist": {
+      "message": "{{{owner}}} さんがあなたを自身のリスト {{{list}}} に追加しました"
    },
    "owneraddedyoutothelistlist": {
       "message": "{{{owner}}} さんがあなたをリスト {{{list}}} に追加しました。"
    },
    "ownercreatedthelistlist": {
-      "message": "{{{owner}}} さんがリスト {{{list}}} を作成しました。"
+      "message": "{{{owner}}} さんがリスト {{{list}}} を作成しました"
    },
    "page": {
       "message": "ページ"
@@ -2731,6 +2770,15 @@
    },
    "strongTweetDeckoldtimerstrongYoursquovesignedinwithyourTwitteraccountbutifyouwantaccesstoyournormalcolumnsandsetupyoushouldcontinuetoahrefdataactionsignOutsigninawithyourTweetDeckemailaddressandpasswordforthetimebeing": {
       "message": " <strong>TweetDeck old timer?</strong> You&rsquo;ve signed in with your Twitter account, but if you want access to your normal columns and setup, you should continue to <a href=\"#\" data-action=\"signOut\">sign in</a> with your TweetDeck email address and password for the time being. "
+   },
+   "textopenStrongEmbedtextcloseStrongtimeline": {
+      "message": "タイムラインを{{>text/openStrong}}埋め込む{{>text/closeStrong}}"
+   },
+   "textopenStrongTweettextcloseStrongaboutthistimeline": {
+      "message": "このタイムラインについて{{>text/openStrong}}ツイート{{>text/closeStrong}}"
+   },
+   "textopenStrongViewtextcloseStrongontwittercom": {
+      "message": "twitter.com で{{>text/openStrong}}見る{{>text/closeStrong}}"
    },
    "textstrongisPrivateiclassiconiconprotectediconsmalliisPrivatebyuserscreenNameuser": {
       "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
