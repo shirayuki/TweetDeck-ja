@@ -464,6 +464,9 @@
    "Columnsize": {
       "message": "カラムのサイズ:"
    },
+   "Columnstopped": {
+      "message": "カラムを停止しました。"
+   },
    "Comment": {
       "message": "コメント"
    },
@@ -1496,6 +1499,9 @@
    "Regular": {
       "message": "普通"
    },
+   "Reload": {
+      "message": "再読み込み"
+   },
    "Rememberme": {
       "message": "認証情報を記憶"
    },
@@ -1972,6 +1978,9 @@
    },
    "To": {
       "message": "宛先"
+   },
+   "ToomanynewTweets": {
+      "message": "新規ツイートが多すぎます。"
    },
    "Torememberyouraccountsenablemorefeatures": {
       "message": "自分のアカウントを記憶して、その他の機能を有効にするには"
