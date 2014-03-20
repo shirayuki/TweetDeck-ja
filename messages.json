@@ -302,6 +302,9 @@
    "AnunknownerroroccurredPleasetryagainshortly": {
       "message": "不明なエラーが発生しました。もう一度お試しください。"
    },
+   "AnyonewhosignsintoTweetDeckas": {
+      "message": "Anyone who signs in to TweetDeck as"
+   },
    "Applicationsettings": {
       "message": "アプリケーション設定"
    },
@@ -431,6 +434,9 @@
    "Chinese": {
       "message": "中国語"
    },
+   "ChooseaTwitterusernametosigninwithfromnowon": {
+      "message": "今後のログインに使用する Twitter ユーザー名を選択してください"
+   },
    "Choosecolumntype": {
       "message": "カラムの種類を選択"
    },
@@ -481,6 +487,9 @@
    },
    "ConfirmPassword": {
       "message": "パスワードの確認"
+   },
+   "Considerusingtextlogin_verification_linktohelpkeepallyouraccountsmoresecure": {
+      "message": "アカウントをよりセキュアにするために {{>text/login_verification_link}} を使用することをお勧めします。"
    },
    "Containing": {
       "message": "以下を含む"
@@ -620,6 +629,9 @@
    "Done": {
       "message": "完了"
    },
+   "DonotcontinueifyoureonateamofpeoplewhoallusethisTweetDeck": {
+      "message": "この TweetDeck を使用するチームに属している場合は続行しないでください。"
+   },
    "DonrsquothaveyourownTwitteraccountaclassstartflowlinkhrefhttpstwittercomsignupSignupamiddotahrefclassjstwoginshowsignuppromptstartflowlinkDonrsquotwantonea": {
       "message": "Twitter アカウントをお持ちではありませんか? <a class=\"startflow-link\" href=\"https://twitter.com/signup\">ユーザー登録</a> &middot; <a href=\"#\" class=\"js-twogin-show-signup-prompt startflow-link\">Don&rsquo;t want one?</a>"
    },
@@ -710,6 +722,9 @@
    "Enteranameorfullname": {
       "message": "@名前またはフルネームを入力"
    },
+   "EnterthepasswordforyourTweetDeckaccount": {
+      "message": "TweetDeck アカウントのパスワードを入力してください"
+   },
    "Entertheverificationcodeintheboxbelow": {
       "message": "Enter the verification code in the box below."
    },
@@ -721,6 +736,9 @@
    },
    "Enterwordstomatch": {
       "message": "検索語句を入力"
+   },
+   "Error": {
+      "message": "エラー"
    },
    "ErrorFailedtoflagmediaPleasetryagain": {
       "message": "エラー: 画像/動画を報告できませんでした。もう一度お試しください。"
@@ -881,6 +899,9 @@
    "FromlocalizedLanguageNamebytextbing_translator_link": {
       "message": "{{>text/bing_translator_link}} による{{localizedLanguageName}}からの翻訳"
    },
+   "FromnowonremembertosignintoTweetDeckas": {
+      "message": "From now on, remember to sign in to TweetDeck as:"
+   },
    "General": {
       "message": "全般"
    },
@@ -898,6 +919,9 @@
    },
    "Getstartedwithoutsigningin": {
       "message": "ログインして始めましょう"
+   },
+   "Gettingaccountinformationhellip": {
+      "message": "アカウント情報を取得中&hellip;"
    },
    "Globalfilter": {
       "message": "グローバルフィルター"
@@ -935,6 +959,12 @@
    "Icelandic": {
       "message": "アイスランド語"
    },
+   "IftwitterAccountScreenNameisatextopen_strongbrandtextclose_strongaccountwhichotherpeoplealsoTweetfromwesuggestchoosingapersonalTwitteraccounttosigninwithYouwillstillbeabletoTweetasthebrandaccount": {
+      "message": "@{{twitterAccountScreenName}} が他の人も使用・ツイートする{{>text/open_strong}}ブランド{{>text/close_strong}}のアカウントである場合は、個人の Twitter アカウントでログインすることをお勧めします。その場合もブランドのアカウントとしてツイートできます。"
+   },
+   "IftwitterAccountScreenNameisyourtextopen_strongpersonaltextclose_strongaccountwesuggestchoosingtwitterAccountScreenName": {
+      "message": "@{{twitterAccountScreenName}} があなた{{>text/open_strong}}個人{{>text/close_strong}}のアカウントである場合は、@{{twitterAccountScreenName}} を選択することをお勧めします。"
+   },
    "IfyoucancelyoureditingnowyouwillloseanychangesmadeAreyousureyouwanttocancel": {
       "message": "編集をキャンセルすると、現在の変更内容をすべて失います。本当にキャンセルしますか?"
    },
@@ -946,6 +976,9 @@
    },
    "Imagewillappearasalink": {
       "message": "画像はリンクとして表示されます"
+   },
+   "Important": {
+      "message": "重要"
    },
    "ImportfromTweetDeckdesktop": {
       "message": "TweetDeck デスクトップからインポート"
@@ -1007,6 +1040,9 @@
    "Itsyou": {
       "message": "自分です"
    },
+   "Iunderstand": {
+      "message": "理解しました"
+   },
    "IunderstandaddaTwitteraccount": {
       "message": "理解しました - Twitter アカウントを追加します"
    },
@@ -1057,6 +1093,9 @@
    },
    "Latvian": {
       "message": "ラトビア語"
+   },
+   "LeanmoreabouttransferringtoTwittersignin": {
+      "message": "Twitter ログインへの移行についての詳細"
    },
    "Learnmore": {
       "message": "詳細はこちら"
@@ -1208,6 +1247,12 @@
    "MuteSettings": {
       "message": "ミュート設定"
    },
+   "Mutedterms": {
+      "message": "ミュートした語句"
+   },
+   "MutescreenNameinTweetDeck": {
+      "message": "TweetDeck で @{{screenName}} をミュート"
+   },
    "Muting": {
       "message": "ミュート"
    },
@@ -1297,6 +1342,9 @@
    },
    "OkayIrsquollsignup": {
       "message": "同意してユーザー登録"
+   },
+   "Okreadytogohellip": {
+      "message": "同意して続行&hellip;"
    },
    "Oksignup": {
       "message": "同意してユーザー登録"
@@ -1402,6 +1450,12 @@
    },
    "PleasesignintoTweetDeckusingaTwitteraccountonlyyoupersonallycanaccessYouwillbeabletoconnectotherTwitteraccountsusernameincludingahrefhttpstwittercomusernameusernameausernamesafelyonceyouaresignedin": {
       "message": "TweetDeck へのログインには、あなた個人のみがアクセスできる Twitter アカウントを使用してください。一度安全にログインした他の Twitter アカウント{{#username}} (<a href=\"https://twitter.com/{{username}}\">@{{username}}</a> を含む) {{/username}}を接続できるようになります。"
+   },
+   "PleasesigninwithaTwitteraccount": {
+      "message": "Twitter アカウントでログインしてください。"
+   },
+   "Pleasetryagainlater": {
+      "message": "しばらくしてからもう一度お試しください。"
    },
    "Pleaseuseavalidemailaddress": {
       "message": "正しいメール アドレスを使用してください"
@@ -1559,6 +1613,9 @@
    "Return": {
       "message": "Return"
    },
+   "Returntosignin": {
+      "message": "ログインに戻る"
+   },
    "Retweet": {
       "message": "リツイート"
    },
@@ -1597,6 +1654,9 @@
    },
    "Scheduled": {
       "message": "予約済み"
+   },
+   "ScheduledTweets": {
+      "message": "予約ツイート"
    },
    "ScheduledTweetscannotcontainimages": {
       "message": "予約ツイートには画像を添付できません"
@@ -1688,6 +1748,9 @@
    "Share": {
       "message": "共有"
    },
+   "Sharedcolumn": {
+      "message": "共有カラム"
+   },
    "SharelinkwithTweetDeck": {
       "message": "TweetDeck でリンクを共有"
    },
@@ -1760,11 +1823,23 @@
    "SomethinghasgonewrongPleasetrylogginginagain": {
       "message": "何らかのエラーが発生しました。もう一度ログインしてみてください。"
    },
+   "Somethingiswrong": {
+      "message": "エラーが発生しました"
+   },
+   "SorryaboutthisbutsomethingwentwrongwhiletransferringyourTweeDeckaccount": {
+      "message": "すみませんが、あなたの TweeDeck アカウントを移行する際にエラーが発生しました。"
+   },
+   "SorrybutsomethingwentwrongwhiletransferringyourTweetDeckaccount": {
+      "message": "すみませんが、あなたの TweetDeck アカウントを移行する際にエラーが発生しました。"
+   },
    "SorrycouldntretrieveembeddedTweetPleasetryagainlater": {
       "message": "すみませんが、埋め込まれたツイートを取得できませんでした。しばらくしてからもう一度お試しください。"
    },
    "Sorryemptyupdatesarenotallowed": {
       "message": "すみませんが、空のツイートはできません"
+   },
+   "Sorrysomethingwentwrong": {
+      "message": "すみませんが、エラーが発生しました。"
    },
    "SorrysomethingwentwrongItsnotyouitsusPleasetryagainlater": {
       "message": "すみませんが、エラーが発生しました。サーバー側の問題です。しばらくしてからもう一度お試しください。"
@@ -1793,11 +1868,23 @@
    "StartTweetinglikeapro": {
       "message": "Start Tweeting like a pro."
    },
+   "StartusingTwittersignin": {
+      "message": "Twitter ログインの使用を開始"
+   },
    "Stayopen": {
       "message": "開いたままにする"
    },
    "Staysignedin": {
       "message": "ログイン状態を維持"
+   },
+   "Step1of3": {
+      "message": "ステップ 1 / 3"
+   },
+   "Step2of3": {
+      "message": "ステップ 2 / 3"
+   },
+   "Step3of3": {
+      "message": "ステップ 3 / 3"
    },
    "Stopediting": {
       "message": "編集を中止しますか?"
@@ -1813,6 +1900,9 @@
    },
    "Subscribetothislist": {
       "message": "このリストを保存しますか?"
+   },
+   "Success": {
+      "message": "完了"
    },
    "Success1": {
       "message": "完了: {{1}}"
@@ -1840,6 +1930,9 @@
    },
    "SwitchtoTweetDeckDesktoptoauthorize": {
       "message": "認証のため TweetDeck デスクトップに切り替え"
+   },
+   "SwitchtoTwittersignin": {
+      "message": "Twitter ログインに切り替え"
    },
    "Syncingaccounts": {
       "message": "アカウントを同期中..."
@@ -1874,6 +1967,9 @@
    "ThatdoesntseemtobeavalidemailaddressRememberTweetDeckaccountsaredifferentfromTwitteraccounts": {
       "message": "有効なメール アドレスではないようです。注意: TweetDeck アカウントは Twitter アカウントとは異なります。"
    },
+   "ThatisnotthecorrectcodePleasereenterthecodesenttoyourphone": {
+      "message": "正しいコードではありません。携帯電話にお送りしたコードをもう一度入力してください。"
+   },
    "ThatrsquosnotthecorrectcodeCheckyourphoneandtryagain": {
       "message": "That&rsquo;s not the correct code. Check your phone and try again."
    },
@@ -1888,6 +1984,9 @@
    },
    "Thatuserdoesnotexist": {
       "message": "ユーザーが存在しません"
+   },
+   "TheTweetDeckaccountemailhasbeenclosedscreenNamebytextopenStrongscreenNametextcloseStrongscreenName": {
+      "message": "The TweetDeck account {{email}} has been closed{{#screenName}} by @{{>text/openStrong}}{{screenName}}{{>text/closeStrong}}{{/screenName}}"
    },
    "TheTweetmaybespamorfromaspamaccount": {
       "message": "ツイートがスパム、またはスパム アカウントによるツイートかもしれません"
@@ -1933,6 +2032,15 @@
    },
    "Thismessagehasbeendeleted": {
       "message": "このメッセージを削除しました。"
+   },
+   "Thisproblemmayonlybetemporarysopleasetryagainlater": {
+      "message": "This problem may only be temporary, so please try again later."
+   },
+   "ThisprocesswillchangethewayyousignintoTweetDeckyoullchooseaTwitteraccountthatyouwillusetosigninwithfromnowon": {
+      "message": "This process will change the way you sign in to TweetDeck – you’ll choose a Twitter account that you will use to sign in with from now on."
+   },
+   "ThisprocesswontchangetheTwitteraccountsyoucanTweetfromandyoullkeepyourcolumns": {
+      "message": "This process won’t change the Twitter accounts you can Tweet from, and you’ll keep your columns."
    },
    "Thisscheduledupdateisassociatedwith1accountswhicharenotauthorisedinthisTweetDeckTheseaccountswillthereforenotbeavailableduringthiseditunlessyoureaddthemfromtheaccountspanel": {
       "message": "This scheduled update is associated with {{1}} accounts which are not authorised in this TweetDeck. These accounts will therefore not be available during this edit unless you re-add them from the accounts panel"
@@ -1988,6 +2096,9 @@
    "TosharethislistweneedtosubscribeyoutoitSubscribeandshare": {
       "message": "このリストを共有するには保存する必要があります。保存して共有しますか?"
    },
+   "TransfertoTwittersignin": {
+      "message": "Twitter ログインに移行"
+   },
    "Translate": {
       "message": "翻訳"
    },
@@ -2020,6 +2131,9 @@
    },
    "Tweet": {
       "message": "ツイート"
+   },
+   "TweetDeckcolumns": {
+      "message": "TweetDeck カラム"
    },
    "TweetDeckisavailableforWindowsMacOSXGoogleChromeorontheweb": {
       "message": "TweetDeck は Windows、Mac OS X、Google Chrome、Web で利用できます。"
@@ -2083,6 +2197,9 @@
    },
    "TwitterStreaming": {
       "message": "Twitter ストリーミング"
+   },
+   "Twitteraccounts": {
+      "message": "Twitter アカウント"
    },
    "TwitteristemporarilyovercapacityPleasetryagainlater": {
       "message": "Twitter の処理能力の限界を超えました。しばらく待ってからもう一度お試しください"
@@ -2186,6 +2303,9 @@
    "Using": {
       "message": "以下を含む"
    },
+   "UsingmutlipleaccountsUsingverifiedaccounts": {
+      "message": "複数のアカウント / 認証済みアカウントを使用していますか?"
+   },
    "Verifiedaccount": {
       "message": "認証済みアカウント"
    },
@@ -2246,6 +2366,9 @@
    "Wersquovetextedaverificationcodetoyourphone": {
       "message": "We&rsquo;ve texted a verification code to your phone"
    },
+   "WestronglyrecommendchoosingaTwitteraccountonlyyouknowthepasswordfor": {
+      "message": "あなただけがパスワードを知っている Twitter アカウントを選択することを強くお勧めします。"
+   },
    "WevemadeafewchangesHeresthelowdownor": {
       "message": "変更点の内容を以下に示します。または"
    },
@@ -2282,14 +2405,23 @@
    "WhousesthisTwitteraccount": {
       "message": "この Twitter アカウントを使用しているのは誰ですか?"
    },
+   "Why": {
+      "message": "理由は?"
+   },
    "WhyisthistopictrendingClicktotellus": {
       "message": "Why is this topic trending? Click to tell us"
    },
    "Wide": {
       "message": "広い"
    },
+   "WillbeabletoTweetfromandviewTwitteras": {
+      "message": "Will be able to Tweet from and view Twitter as"
+   },
    "Working1": {
       "message": "作業中: {{1}}"
+   },
+   "Workinghellip": {
+      "message": "作業中&hellip;"
    },
    "Worldwide": {
       "message": "全世界"
@@ -2322,7 +2454,7 @@
       "message": "ログインに使用している Twitter アカウントは削除できません"
    },
    "YoucannotretweetyourownTweet": {
-      "message": "自分のツイートはリツイートできません"
+      "message": "自分のツイートはリツイートできません。"
    },
    "YoucannowcreateandshareCustomTimelinesfromTweetDeckTolearnmoreaboutcustomtimelinesreadour": {
       "message": "TweetDeck でカスタム タイムラインを作成して共有できるようになりました。カスタム タイムラインの詳細はこちらを参照してください:"
@@ -2338,6 +2470,9 @@
    },
    "Youcantsendamessagetoauserwhoisnotfollowingyou": {
       "message": "あなたをフォローしていないユーザーにはメッセージを送信できません"
+   },
+   "YoucurrentlysignintoTweetDeckwithanemailaddressandpassword": {
+      "message": "現在、メール アドレスとパスワードで TweetDeck にログインしています"
    },
    "Youdidnotselectanimage": {
       "message": "選択したファイルは画像ファイルではありません。"
@@ -2366,6 +2501,9 @@
    "YouhavebeentemporarilylockedoutofyouraccountPleasetryagainlater": {
       "message": "あなたのアカウントは一時的にログイン禁止にされています。しばらくしてからもう一度お試しください。"
    },
+   "Youhavecancelledloginverification": {
+      "message": "ログイン検証をキャンセルしました。"
+   },
    "YouhaveenteredtoomanyincorrectcodesPleasetrysigninginagain": {
       "message": "正しくないコードを入力した回数が上限に達しました。もう一度ログインしてみてください。"
    },
@@ -2380,6 +2518,9 @@
    },
    "YouhavetoomanyfailedsigninattemptsPleasetryagaininanhour": {
       "message": "ログインの試行回数が上限に達しました。1時間経ってからもう一度お試しください。"
+   },
+   "Youhavetoselectarecipientforyourmessage": {
+      "message": "メッセージの宛先を選択する必要があります"
    },
    "Youhavetoselectatleastoneaccounttotweetfrom": {
       "message": "You have to select at least one account to tweet from"
@@ -2398,6 +2539,9 @@
    },
    "YourAccounts": {
       "message": "自分のアカウント"
+   },
+   "YourTweetDecksetup": {
+      "message": "Your TweetDeck setup"
    },
    "YourTweetistoolong": {
       "message": "ツイートが長すぎます"
@@ -2447,11 +2591,17 @@
    "Yourrelationshipwithtextuser_link_screenname": {
       "message": "あなたと {{>text/user_link_screenname}} さんの関係"
    },
+   "YourscheduledTweetwillsendevenifTweetDeckisnotrunningatthetime": {
+      "message": "予約ツイートは、その予約日時に TweetDeck が動作していない場合も送信されます。"
+   },
    "YoursquollbeabletoconnectotherTwitteraccountssafelyonceyoursquoresignedinincludingaclassstartflowlinkhrefhttpstwittercomusernameusernameausingTweetDeckrsquosmultiaccountsupport": {
       "message": "You&rsquo;ll be able to connect other Twitter accounts safely once you&rsquo;re signed in (including <a class=\"startflow-link\" href=\"https://twitter.com/{{username}}\">@{{username}}</a>), using TweetDeck&rsquo;s multi-account support."
    },
    "Youwillbeloggedoutin5secondstopreventunauthorizedaccess": {
       "message": "認証が解除されるのを防止するため、5秒以内にログアウトされます。"
+   },
+   "YouwillstillbeabletoTweetasyourotheraccounts": {
+      "message": "You will still be able to Tweet as your other accounts."
    },
    "actionTypeonly": {
       "message": "{{actionType}} のみ"
@@ -2594,6 +2744,9 @@
    "lists": {
       "message": "リスト"
    },
+   "loginverification": {
+      "message": "ログイン検証"
+   },
    "matching": {
       "message": "一致"
    },
@@ -2732,7 +2885,10 @@
    "retweetsexcluded": {
       "message": "リツイートを除外"
    },
-   "screenNamescustomTimelines": {
+   "screenNamemutedUnmuteinSettings": {
+      "message": "@{{screenName}} をミュートしました。解除するには設定を使用してください"
+   },
+   "screenNamescustomtimelines": {
       "message": "@{{screenName}} のカスタム タイムライン"
    },
    "screenNameslists": {
@@ -2780,14 +2936,14 @@
    "strongTweetDeckoldtimerstrongYoursquovesignedinwithyourTwitteraccountbutifyouwantaccesstoyournormalcolumnsandsetupyoushouldcontinuetoahrefdataactionsignOutsigninawithyourTweetDeckemailaddressandpasswordforthetimebeing": {
       "message": " <strong>TweetDeck old timer?</strong> You&rsquo;ve signed in with your Twitter account, but if you want access to your normal columns and setup, you should continue to <a href=\"#\" data-action=\"signOut\">sign in</a> with your TweetDeck email address and password for the time being. "
    },
-   "textopenStrongEmbedtextcloseStrongtimeline": {
-      "message": "タイムラインを{{>text/openStrong}}埋め込む{{>text/closeStrong}}"
+   "textopen_strongEmbedtextclose_strongtimeline": {
+      "message": "タイムラインを{{>text/open_strong}}埋め込む{{>text/close_strong}}"
    },
-   "textopenStrongTweettextcloseStrongaboutthistimeline": {
-      "message": "このタイムラインについて{{>text/openStrong}}ツイート{{>text/closeStrong}}"
+   "textopen_strongTweettextclose_strongaboutthistimeline": {
+      "message": "このタイムラインについて{{>text/open_strong}}ツイート{{>text/close_strong}}"
    },
-   "textopenStrongViewtextcloseStrongontwittercom": {
-      "message": "twitter.com で{{>text/openStrong}}見る{{>text/closeStrong}}"
+   "textopen_strongViewtextclose_strongontwittercom": {
+      "message": "twitter.com で{{>text/open_strong}}見る{{>text/close_strong}}"
    },
    "textstrongisPrivateiclassiconiconprotectediconsmalliisPrivatebyuserscreenNameuser": {
       "message": "{{>text/strong}}{{#isPrivate}}<i class=\"icon icon-protected icon-small\"></i>{{/isPrivate}} by {{#user}}{{screenName}}{{/user}}"
@@ -2839,6 +2995,12 @@
    },
    "videos": {
       "message": "動画"
+   },
+   "whatdoesthismean": {
+      "message": "これはどういう意味ですか?"
+   },
+   "whichyouusetoTweetwithtextopen_strongnumTwitterAccountstextclose_strongTwitteraccounts": {
+      "message": "which you use to Tweet with {{>text/open_strong}}{{numTwitterAccounts}}{{>text/close_strong}} Twitter accounts."
    },
    "writtenin": {
       "message": "言語"
