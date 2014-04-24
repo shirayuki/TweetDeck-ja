@@ -1889,8 +1889,8 @@
    "Somethingiswrong": {
       "message": "エラーが発生しました"
    },
-   "SorryaboutthisbutsomethingwentwrongwhiletransferringyourTweeDeckaccount": {
-      "message": "すみませんが、あなたの TweeDeck アカウントを移行する際にエラーが発生しました。"
+   "SorryaboutthisbutsomethingwentwrongwhiletransferringyourTweetDeckaccount": {
+      "message": "すみませんが、あなたの TweetDeck アカウントを移行する際にエラーが発生しました。"
    },
    "SorrybutsomethingwentwrongwhiletransferringyourTweetDeckaccount": {
       "message": "すみませんが、あなたの TweetDeck アカウントを移行する際にエラーが発生しました。"
@@ -2192,6 +2192,9 @@
    "Trends": {
       "message": "トレンド"
    },
+   "Tryagain": {
+      "message": "再試行"
+   },
    "Turkish": {
       "message": "トルコ語"
    },
@@ -2427,6 +2430,12 @@
       "message": "このメールアドレスに関連付けられた TweetDeck アカウントが見つかりませんでした: {{{email}}}。"
    },
    "Wecouldnotlogyouinwiththisusernameandpassword": {
+      "message": "このユーザー名とパスワードではログインできませんでした。"
+   },
+   "Wecouldnotsignyouinwiththispassword": {
+      "message": "このパスワードではログインできませんでした。"
+   },
+   "Wecouldnotsignyouinwiththisusernameandpassword": {
       "message": "このユーザー名とパスワードではログインできませんでした。"
    },
    "WecouldntfindaTweetDeckaccountassociatedwithemail": {
