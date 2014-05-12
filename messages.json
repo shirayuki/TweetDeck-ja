@@ -188,6 +188,9 @@
    "AddTweetstoyourcustomtimelines": {
       "message": "カスタム タイムラインにツイートを追加"
    },
+   "AddTweettocollection": {
+      "message": "コレクションにツイートを追加"
+   },
    "AddTweettocustomtimeline": {
       "message": "カスタム タイムラインにツイートを追加"
    },
@@ -251,6 +254,9 @@
    "AddthisTweettoyourwebsitebycopyingthecodebelowIfyourCMSsupportsityoucanjustpasteinthelink": {
       "message": "以下のコードをコピーしてあなたのウェブサイトにツイートを追加しましょう。お使いの CMS が対応している場合はリンク内に貼り付けるだけです。"
    },
+   "Addtocollection": {
+      "message": "コレクションに追加…"
+   },
    "Addtocustomtimeline": {
       "message": "カスタム タイムラインに追加…"
    },
@@ -305,6 +311,9 @@
    "Alreadyhaveanaccount": {
       "message": "アカウントを既にお持ちですか?"
    },
+   "Alreadyretweeted": {
+      "message": "リツイート済みです"
+   },
    "Alwaysshowmesensitivemedia": {
       "message": "不適切な画像/動画を常に表示"
    },
@@ -331,6 +340,9 @@
    },
    "Areyousureyouwanttocontinueediting": {
       "message": "編集を本当に続行しますか?"
+   },
+   "Areyousureyouwanttodeletethiscollection": {
+      "message": "このコレクションを本当に削除しますか?"
    },
    "Areyousureyouwanttodeletethiscustomtimeline": {
       "message": "このカスタム タイムラインを本当に削除しますか?"
@@ -485,6 +497,12 @@
    "Collapse": {
       "message": "折りたたむ"
    },
+   "Collections": {
+      "message": "コレクション"
+   },
+   "Collectionupdated": {
+      "message": "コレクションを更新しました"
+   },
    "Columns": {
       "message": "カラム"
    },
@@ -515,6 +533,9 @@
    "Considerusingtextlogin_verification_linktohelpkeepallyouraccountsmoresecure": {
       "message": "アカウントをよりセキュアにするために {{>text/login_verification_link}} を使用することをお勧めします。"
    },
+   "ContainedaninvalidURL": {
+      "message": "無効な URL を含んでいました"
+   },
    "Containing": {
       "message": "以下を含む"
    },
@@ -542,11 +563,20 @@
    "Createanaccountxxxx": {
       "message": "Create an account xxxx"
    },
+   "Createanewcollectionorselectanexistingtimeline": {
+      "message": "コレクションを新規作成するか、または既存のタイムラインを選択してください"
+   },
    "Createanewcustomtimelineorselectanexistingtimeline": {
       "message": "カスタム タイムラインを新規作成するか、または既存のタイムラインを選択してください"
    },
    "Createanewlistorselectanexistinglisttoeditoraddacolumn": {
       "message": "カラムを編集または追加するには、新しいリストを作成するか既存のリストを選択してください"
+   },
+   "Createcollection": {
+      "message": "コレクションを作成"
+   },
+   "Createcollections": {
+      "message": "コレクションを作成"
    },
    "Createcustomtimeline": {
       "message": "カスタム タイムラインを作成"
@@ -601,6 +631,9 @@
    },
    "Delete": {
       "message": "削除"
+   },
+   "Deletecollection": {
+      "message": "コレクションを削除"
    },
    "Deletelist": {
       "message": "リストを削除"
@@ -674,6 +707,9 @@
    "DragTweetsfromanyothercolumnanddropthemintoacustomtimelinecolumnOrusethehandyshortcutkey": {
       "message": "他のカラムのツイートをドラッグしてカスタム タイムラインのカラムにドロップしてください。便利なショートカット キーも使用できます"
    },
+   "DragTweetsintothiscollection": {
+      "message": "ツイートをこのタイムラインにドラッグ"
+   },
    "DragTweetsintothistimeline": {
       "message": "ツイートをこのタイムラインにドラッグ"
    },
@@ -682,6 +718,9 @@
    },
    "Dragcolumnheadertoreorder": {
       "message": "並べ替えるにはカラムのヘッダーをドラッグしてください"
+   },
+   "Dragtocollection": {
+      "message": "コレクションにドラッグ"
    },
    "Dragtocustomtimeline": {
       "message": "カスタム タイムラインにドラッグ"
@@ -775,6 +814,9 @@
    },
    "ErrorcreatingcustomTimelinestatus": {
       "message": "カスタム タイムラインの作成エラー: {{status}}"
+   },
+   "Errordeletingcollection": {
+      "message": "コレクションの削除エラー"
    },
    "Errordeletingcustomtimeline": {
       "message": "カスタム タイムラインの削除エラー"
@@ -1066,6 +1108,9 @@
    },
    "Inuktitut": {
       "message": "イヌクティトゥト語"
+   },
+   "Invalidimage": {
+      "message": "無効な画像"
    },
    "Invalidsearchquery": {
       "message": "検索条件が無効です"
@@ -1424,6 +1469,9 @@
    "OraddbyURL": {
       "message": "または URL で追加"
    },
+   "OrganizeandbuildcollectionskeeptrackoflistssearchesactivityandmoreClicktheinthesidebar": {
+      "message": "Organize and build collections, keep track of lists, searches, activity and more. Click the + in the sidebar."
+   },
    "OrganizeandbuildcustomtimelineskeeptrackoflistssearchesactivityandmoreClicktheinthesidebar": {
       "message": "Organize and build custom timelines, keep track of lists, searches, activity and more. Click the + in the sidebar."
    },
@@ -1574,6 +1622,9 @@
    "Public": {
       "message": "公開"
    },
+   "Ratelimitexceeded": {
+      "message": "レート制限を超えました"
+   },
    "ReadMore": {
       "message": "続きを読む"
    },
@@ -1624,6 +1675,9 @@
    },
    "Removecolumn": {
       "message": "カラムを削除"
+   },
+   "Removefromcollection": {
+      "message": "コレクションから削除"
    },
    "Removefromcustomtimeline": {
       "message": "カスタム タイムラインから削除"
@@ -1723,6 +1777,9 @@
    },
    "Scheduledfor": {
       "message": "予約日時:"
+   },
+   "Scheduledtimehaspassed": {
+      "message": "予約日時を過ぎています"
    },
    "SchedulingfailedPleasetryagainmessage": {
       "message": "予約できませんでした。もう一度お試しください。({{message}})"
@@ -1898,6 +1955,12 @@
    "SorrycouldntretrieveembeddedTweetPleasetryagainlater": {
       "message": "すみませんが、埋め込まれたツイートを取得できませんでした。しばらくしてからもう一度お試しください。"
    },
+   "Sorryeditingscheduledmessagesiscurrentlyunavailable": {
+      "message": "すみません - 予約メッセージの編集は現在利用できません。"
+   },
+   "Sorryeditingscheduledtweetsiscurrentlyunavailable": {
+      "message": "すみません - 予約ツイートの編集は現在利用できません。"
+   },
    "Sorryemptyupdatesarenotallowed": {
       "message": "すみませんが、空のツイートはできません"
    },
@@ -1933,6 +1996,9 @@
    },
    "StartusingTwittersignin": {
       "message": "Twitter ログインの使用を開始"
+   },
+   "Statuswasaduplicate": {
+      "message": "ツイートが重複していました"
    },
    "Stayopen": {
       "message": "開いたままにする"
@@ -2122,6 +2188,9 @@
    },
    "ThisscheduledupdateisassociatedwithanaccountwhichisnotauthorisedinthisTweetDeckThisaccountwillthereforenotbeavailableduringthiseditunlessyoureadditfromtheaccountspanel": {
       "message": "This scheduled update is associated with an account which is not authorised in this TweetDeck. This account will therefore not be available during this edit unless you re-add it from the accounts panel"
+   },
+   "ThisshouldbeaTwitteraccountthatnobodyelsecansignintoprobablyyourpersonalTwitteraccount": {
+      "message": "This should be a Twitter account that nobody else can sign in to (probably your personal Twitter account)"
    },
    "Thisupdatefromprotectedaccount1willbepubliclyvisibleonthedecklywebsiteWouldyouliketosendanyway": {
       "message": "This update from protected account @{{1}} will be publicly visible on the deck.ly website. Would you like to send anyway?"
@@ -2315,6 +2384,9 @@
    "UndoingRetweet": {
       "message": "リツイートの取り消し"
    },
+   "Undoretweetfailed": {
+      "message": "リツイートを取り消せませんでした"
+   },
    "Unfavorite": {
       "message": "お気に入りを解除"
    },
@@ -2359,6 +2431,9 @@
    },
    "User": {
       "message": "ユーザー"
+   },
+   "Userhasbeensuspected": {
+      "message": "User has been suspected"
    },
    "Userhasbeensuspended": {
       "message": "ユーザーは凍結されています"
@@ -2647,6 +2722,9 @@
    },
    "YourahrefrelglobalSettingsTweetmediadisplaysettingsaareconfiguredtoinformyouwhenmediamaybesensitive": {
       "message": "<a href=\"#\" rel=\"globalSettings\">ツイートの画像/動画表示設定</a>で、画像/動画が不適切な内容を含むおそれがある場合にお知らせする設定になっています。"
+   },
+   "Yourcollections": {
+      "message": "あなたのコレクション"
    },
    "Yourcustomtimelines": {
       "message": "自分のカスタム タイムライン"
@@ -2986,6 +3064,9 @@
    },
    "screenNamemutedUnmuteinSettings": {
       "message": "@{{screenName}} をミュートしました。解除するには設定を使用してください"
+   },
+   "screenNamescollections": {
+      "message": "@{{screenName}} のコレクション"
    },
    "screenNamescustomtimelines": {
       "message": "@{{screenName}} のカスタム タイムライン"
