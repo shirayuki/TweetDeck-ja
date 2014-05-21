@@ -666,10 +666,13 @@
       "message": "ダイレクト メッセージ"
    },
    "Directmessagescannotbescheduled": {
-      "message": "ダイレクト メッセージは予約できません。"
+      "message": "ダイレクト メッセージは予約できません"
    },
    "Directmessagescannotcontainimages": {
       "message": "画像付きのダイレクト メッセージは送信できません"
+   },
+   "Directmessagescontainingimagescannotbescheduled": {
+      "message": "画像付きのダイレクト メッセージは予約できません"
    },
    "Directmessageto1": {
       "message": "{{1}} さんへのダイレクト メッセージ"
@@ -1775,11 +1778,17 @@
    "ScheduledTweetscannotcontainimages": {
       "message": "予約ツイートには画像を添付できません"
    },
+   "Scheduleddirectmessagescannotcontainimages": {
+      "message": "予約ダイレクト メッセージには画像を添付できません"
+   },
    "Scheduledfor": {
       "message": "予約日時:"
    },
    "Scheduledtimehaspassed": {
       "message": "予約日時を過ぎています"
+   },
+   "ScheduledtweetwasrejectedPleasetryagain": {
+      "message": "予約ツイートが却下されました。もう一度お試しください。"
    },
    "SchedulingfailedPleasetryagainmessage": {
       "message": "予約できませんでした。もう一度お試しください。({{message}})"
@@ -2409,7 +2418,10 @@
       "message": "不明なカラムです"
    },
    "Unknownerror": {
-      "message": "不明なエラーです"
+      "message": "不明なエラーです。"
+   },
+   "UnknownerrorPleasetryagain": {
+      "message": "不明なエラーです。もう一度お試しください。"
    },
    "UnknownloginerrorPleasetryagain": {
       "message": "不明なログイン エラーです。もう一度やり直してください。"
