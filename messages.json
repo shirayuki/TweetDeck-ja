@@ -1196,6 +1196,9 @@
    "Left": {
       "message": "左"
    },
+   "Letsdoit": {
+      "message": "Let's do it"
+   },
    "Light": {
       "message": "明"
    },
@@ -2300,6 +2303,9 @@
    "TweetDeckoldtimer": {
       "message": "TweetDeck old timer?"
    },
+   "TweetDecksetupwillremainunchangedbrsamecolumnsaccountsscheduledTweets": {
+      "message": "TweetDeck の設定はそのまま残ります。<br>(カラム、アカウント、予約ツイートは保持されます)"
+   },
    "TweetDecksetupwillremainunchangedsamecolumnsaccountsscheduledTweets": {
       "message": "TweetDeck の設定はそのまま残ります (カラム、アカウント、予約ツイートは保持されます)"
    },
@@ -2702,6 +2708,9 @@
    "YoullsigninwithyourTwitteraccount": {
       "message": "Twitter アカウントでログインします"
    },
+   "YoullsigninwithyourtextbrTwitteraccount": {
+      "message": "Twitter アカウントで{{>text/br}}ログインします"
+   },
    "YoumustresetthepasswordonthisaccountPleasesigninontwittercomtodothis": {
       "message": "このアカウントのパスワードを再設定してください。これを行なうために twitter.com にログインしてください。"
    },
@@ -2782,6 +2791,9 @@
    },
    "Yousigninwithanemailamppassword": {
       "message": "メールアドレスとパスワードでログインします"
+   },
+   "Yousigninwithtextbranemailamppassword": {
+      "message": "メールアドレスとパスワード{{>text/br}}でログインします"
    },
    "Youwillbeloggedoutin5secondstopreventunauthorizedaccess": {
       "message": "認証が解除されるのを防止するため、5秒以内にログアウトされます。"
