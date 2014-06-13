@@ -431,6 +431,9 @@
    "Cancelediting": {
       "message": "編集をキャンセルしますか?"
    },
+   "Canmanagetheteam": {
+      "message": "チームを管理できる"
+   },
    "Cannotretrievefavoritestatus": {
       "message": "お気に入りの状態を取得できません"
    },
@@ -550,6 +553,9 @@
    },
    "Couldnotauthenticateyou": {
       "message": "認証できませんでした"
+   },
+   "Couldnotgetcontributorlist": {
+      "message": "貢献者一覧を取得できませんでした"
    },
    "Create": {
       "message": "作成"
@@ -787,6 +793,9 @@
    },
    "EnterTweetURL": {
       "message": "ツイートの URL を入力"
+   },
+   "EnterTwitterusername": {
+      "message": "Twitter のユーザー名を入力…"
    },
    "Enterahashtagorkeyword": {
       "message": "#ハッシュタグやキーワードを入力"
@@ -1268,6 +1277,12 @@
    "Managemultipleaccounts": {
       "message": "Manage multiple accounts"
    },
+   "Manageteam": {
+      "message": "チームを管理"
+   },
+   "Manageyourteam": {
+      "message": "自分のチームの管理"
+   },
    "Mar": {
       "message": "3"
    },
@@ -1687,6 +1702,9 @@
    },
    "Removefromcustomtimeline": {
       "message": "カスタム タイムラインから削除"
+   },
+   "Removefromteam": {
+      "message": "チームから削除"
    },
    "Removingaccount": {
       "message": "アカウントを削除中!"
@@ -2176,6 +2194,9 @@
    },
    "ThisTweetmaybespamorfromaspamaccount": {
       "message": "このツイートはスパム、またはスパム アカウントによるツイートかもしれません"
+   },
+   "Thisaccountdoesnothaveanycontributors": {
+      "message": "このアカウントには貢献者が誰もいません"
    },
    "Thismessagehasbeendeleted": {
       "message": "このメッセージを削除しました。"
