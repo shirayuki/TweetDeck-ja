@@ -149,6 +149,9 @@
    "Abusive": {
       "message": "規約違反"
    },
+   "Accessyourdirectmessages": {
+      "message": "Access your direct messages."
+   },
    "Account": {
       "message": "アカウント"
    },
@@ -1595,6 +1598,9 @@
    "Portuguese": {
       "message": "ポルトガル語"
    },
+   "PostTweetsforyou": {
+      "message": "Post Tweets for you."
+   },
    "Postingfrom": {
       "message": "Posting from"
    },
@@ -1648,6 +1654,9 @@
    },
    "ReadMore": {
       "message": "続きを読む"
+   },
+   "ReadTweetsfromyourtimeline": {
+      "message": "Read Tweets from your timeline."
    },
    "Readallofthisyourteamwillbelockedoutifyoudoitwrong": {
       "message": "Read all of this - your team will be locked out if you do it wrong"
@@ -1837,6 +1846,9 @@
    },
    "Securitywarning": {
       "message": "セキュリティ警告"
+   },
+   "Seewhoyoufollowandfollownewpeople": {
+      "message": "See who you follow, and follow new people."
    },
    "SelectForm": {
       "message": "フォームの選択"
@@ -2609,11 +2621,17 @@
    "WhyisthistopictrendingClicktotellus": {
       "message": "Why is this topic trending? Click to tell us"
    },
+   "Whythechange": {
+      "message": "Why the change?"
+   },
    "Wide": {
       "message": "広い"
    },
    "WillbeabletoTweetfromandviewTwitteras": {
       "message": "Will be able to Tweet from and view Twitter as"
+   },
+   "WillbeabletouseTwitterascontributeegetUsernameincluding": {
+      "message": "Will be able to use Twitter as @{{contributee.getUsername}}, including:"
    },
    "Working1": {
       "message": "作業中: {{1}}"
@@ -2626,6 +2644,9 @@
    },
    "Yes": {
       "message": "はい"
+   },
+   "Yesdoit": {
+      "message": "Yes, do it"
    },
    "Yesmeandothersonmyteam": {
       "message": "はい、自分のチームの私と他のメンバーです"
@@ -2644,6 +2665,9 @@
    },
    "YoucanbreakyourTweetDeckifyouanswerinaccurately": {
       "message": "不正確な回答をすると、あなたの TweetDeck が破損するおそれがあります"
+   },
+   "YoucannolongersignintoTweetDeckwithemailscreenNamePleasesigninwithtextopenStrongscreenNametextcloseStrongTwitterusernameinsteadscreenName": {
+      "message": "You can no longer sign in to TweetDeck with {{email}}. {{#screenName}}Please sign in with @{{>text/openStrong}}{{screenName}}{{>text/closeStrong}} Twitter username instead. {{/screenName}}"
    },
    "Youcannotaddmorethanoneimage": {
       "message": "追加できる画像は 1 件のみです"
