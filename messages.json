@@ -236,6 +236,9 @@
    "Addasnewcolumn": {
       "message": "新規カラムとして追加"
    },
+   "Addausertothisteam": {
+      "message": "Add a user to this team:"
+   },
    "Addcolumn": {
       "message": "カラムを追加"
    },
@@ -376,6 +379,9 @@
    },
    "Author": {
       "message": "投稿者"
+   },
+   "Authorize": {
+      "message": "Authorize"
    },
    "Back": {
       "message": "戻る"
@@ -1208,6 +1214,12 @@
    "Left": {
       "message": "左"
    },
+   "LetcolleaguesuseTwitterasscreenNamewithoutsharingyourpassword": {
+      "message": "Let colleagues use Twitter as @{{screenName}} without sharing your password"
+   },
+   "LetcolleaguesuseaccountscreenNameintheirTweetDeckwithoutneedingyourpassword": {
+      "message": "Let colleagues use @{{account.screenName}} in their TweetDeck without needing your password."
+   },
    "Letsdoit": {
       "message": "Let's do it"
    },
@@ -1478,6 +1490,9 @@
    "Onlyyou": {
       "message": "あなたのみ"
    },
+   "Onteamaccount_summary_inline": {
+      "message": "On team {{> account_summary_inline }}"
+   },
    "Oopsyoudonthaveanyaccountsselected": {
       "message": "エラー - アカウントを何も選択していません。"
    },
@@ -1522,6 +1537,9 @@
    },
    "Passwordresetemailhasbeensent": {
       "message": "パスワード再設定メールをお送りしました。"
+   },
+   "PasswordresetfailedPleasetryagainorcontactSupport": {
+      "message": "パスワードを再設定できませんでした。もう一度お試しになるか、@Support にお問い合わせください"
    },
    "Passwordsdonotmatch": {
       "message": "パスワードが一致しません。"
@@ -1640,6 +1658,9 @@
    "ProblemsavinglistPleasecheckthedetailsandtryagain": {
       "message": "リストを保存する際にエラーが発生しました。詳細を確認してからもう一度お試しください"
    },
+   "Profile": {
+      "message": "プロフィール"
+   },
    "ProfileAccount": {
       "message": "プロフィール アカウント"
    },
@@ -1663,6 +1684,9 @@
    },
    "Readless": {
       "message": "折りたたむ"
+   },
+   "Readmoreaboutteams": {
+      "message": "Read more about teams"
    },
    "Readmoreaboutthisprocess": {
       "message": "Read more about this process"
@@ -1702,6 +1726,9 @@
    },
    "Remove": {
       "message": "削除"
+   },
+   "Removeaccount": {
+      "message": "アカウントを削除"
    },
    "Removecolumn": {
       "message": "カラムを削除"
@@ -1879,6 +1906,9 @@
    },
    "Sendondate": {
       "message": "{{date}}に送信"
+   },
+   "SentpasswordresetemailtotweetDeckAccountEmail": {
+      "message": "パスワード再設定メールを {{tweetDeckAccountEmail}} にお送りしました"
    },
    "SentviaTweetDeck": {
       "message": "TweetDeck で送信しました"
@@ -2123,6 +2153,9 @@
    "Tamil": {
       "message": "タミル語"
    },
+   "TeamscreenName": {
+      "message": "チーム @{{screenName}}"
+   },
    "Telugu": {
       "message": "テルグ語"
    },
@@ -2197,6 +2230,9 @@
    },
    "TherewasaproblemresettingyourpasswordPleaseretry": {
       "message": "パスワードを再設定する際にエラーが発生しました。もう一度お試しください。"
+   },
+   "Theycanuseloginverificationtoaddextrasecuritytotheiraccount": {
+      "message": "They can use login verification to add extra security to their account."
    },
    "ThisTweetmaybeinviolationoftheahrefhttpssupporttwittercomarticles18311thetwitterrulestarget_blankTwitterRulesaInordertofileareoprtyoumuststillchooseandcompleteaformSelectthisoptiontocontinue": {
       "message": "このツイートは <a href=\"https://support.twitter.com/articles/18311-the-twitter-rules\" target=\"_blank\">Twitter 規約</a>に違反しているおそれがあります。これを報告するには、さらにフォームを選択して記入する必要があります。続行するにはこのオプションを選択してください。"
@@ -2290,6 +2326,9 @@
    },
    "Translatedbytextbing_translator_link": {
       "message": "{{>text/bing_translator_link}} が翻訳しました"
+   },
+   "TranslatedfromlocalizedLanguageNamebytextbing_translator_link": {
+      "message": "{{>text/bing_translator_link}} が {{localizedLanguageName}} から翻訳しました"
    },
    "TranslatethisTweet": {
       "message": "このツイートを翻訳"
@@ -2549,6 +2588,9 @@
    "Warning": {
       "message": "警告"
    },
+   "WarningYouwillnolongerbeabletomanagetheteamfromthisTweetDeck": {
+      "message": "警告: この TweetDeck からチームを管理できなくなります"
+   },
    "Wecouldnotcompleteyourrequestbecausethetweetmaybeprotectedordeleted": {
       "message": "リクエストを完了できませんでした。ツイートが非公開、または削除済みの可能性があります"
    },
@@ -2663,6 +2705,9 @@
    "Youarenotsubscribedtoanylists": {
       "message": "あなたはどのリストにも登録されていません"
    },
+   "YouaresignedinasuserscreenNamesothiswillremovecontributeegetUsernamefromyourTweetDeckandyouwillnolongerbeabletomanagetheteam": {
+      "message": "You are signed in as @{{user.screenName}}, so this will remove @{{contributee.getUsername}} from your TweetDeck and you will no longer be able to manage the team"
+   },
    "YoucanbreakyourTweetDeckifyouanswerinaccurately": {
       "message": "不正確な回答をすると、あなたの TweetDeck が破損するおそれがあります"
    },
@@ -2686,6 +2731,9 @@
    },
    "Youcanonlysave150scheduledTweetsatoncePleasedeleteoneortrylater": {
       "message": "一度に保存できる予約ツイートは 150 件までです。いずれかを削除するか、しばらくしてからお試しください。"
+   },
+   "Youcanremovethemfromyourteamatanytime": {
+      "message": "You can remove them from your team at any time."
    },
    "YoucantscheduleaTweetformorethanayearahead": {
       "message": "1 年以上先のツイートは予約できません。"
@@ -3235,6 +3283,9 @@
    },
    "userretweeted": {
       "message": "{{{user}}} さんがリツイートしました"
+   },
+   "userscreenNamewillnolongerbeabletouseTwitterascontributeegetUsername": {
+      "message": "@{{user.screenName}} は Twitter を @{{contributee.getUsername}} としては使用できなくなります"
    },
    "verified": {
       "message": "認証済み"
