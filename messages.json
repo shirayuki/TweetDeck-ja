@@ -233,6 +233,9 @@
    "Addanewcolumnforcustomtimelinessetatitleanddescriptionandyouarereadytogo": {
       "message": "カスタム タイムラインのカラムを追加して、タイトルと説明を設定すれば、準備完了です。"
    },
+   "AddanotherTwitteraccount": {
+      "message": "別の Twitter アカウントを追加"
+   },
    "Addasnewcolumn": {
       "message": "新規カラムとして追加"
    },
@@ -292,6 +295,9 @@
    },
    "Allactivity": {
       "message": "全アクティビティ"
+   },
+   "Allcities": {
+      "message": "すべての都市"
    },
    "Allexceptfavorites": {
       "message": "お気に入り以外すべて"
@@ -484,6 +490,9 @@
    },
    "Choosecolumntype": {
       "message": "カラムの種類を選択"
+   },
+   "City": {
+      "message": "都市"
    },
    "Cleanerlook": {
       "message": "すっきりした外観"
@@ -1703,6 +1712,9 @@
    "Recentsearcheswillappearhere": {
       "message": "最近の検索がここに表示されます。"
    },
+   "Region": {
+      "message": "地域"
+   },
    "Register": {
       "message": "登録"
    },
@@ -2099,6 +2111,9 @@
    "Submit": {
       "message": "送信"
    },
+   "Subscribeandshare": {
+      "message": "保存して共有しますか?"
+   },
    "Subscribedto": {
       "message": "保存済み"
    },
@@ -2311,6 +2326,9 @@
    },
    "Torememberyouraccountsenablemorefeatures": {
       "message": "自分のアカウントを記憶して、その他の機能を有効にするには"
+   },
+   "Tosharethislistweneedtosubscribeyoutoit": {
+      "message": "このリストを共有するには保存する必要があります。"
    },
    "TosharethislistweneedtosubscribeyoutoitSubscribeandshare": {
       "message": "このリストを共有するには保存する必要があります。保存して共有しますか?"
