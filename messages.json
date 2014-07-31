@@ -569,6 +569,9 @@
    "Conversation": {
       "message": "会話"
    },
+   "Cookies": {
+      "message": "Cookie"
+   },
    "Couldnotauthenticateyou": {
       "message": "認証できませんでした"
    },
@@ -1355,6 +1358,9 @@
    "Messages": {
       "message": "メッセージ"
    },
+   "Messagescannotbesentfrommultipleaccounts": {
+      "message": "メッセージは複数のアカウントからは送信できません。"
+   },
    "Minimizetotrayonclose": {
       "message": "閉じた際にトレイへ最小化"
    },
@@ -1583,6 +1589,9 @@
    "PleasecheckyourpasswordRememberTweetDeckaccountsaredifferentfromTwitteraccounts": {
       "message": "パスワードを確認してください。注意: TweetDeck アカウントは Twitter アカウントとは異なります。"
    },
+   "Pleasechooseanaccount": {
+      "message": "アカウントを選択してください。"
+   },
    "PleasechoosethetopicthatbestdefinesyourissueOnceyoucompleteandthesubmittheformyourreportwillbefiledwithTwitter": {
       "message": "報告したい問題点に最も適した話題を選択してください。フォームに記入して送信すると、その内容が Twitter に保管されます。"
    },
@@ -1713,6 +1722,9 @@
       "message": "最近の検索がここに表示されます。"
    },
    "Region": {
+      "message": "地域"
+   },
+   "Regions": {
       "message": "地域"
    },
    "Register": {
@@ -2159,6 +2171,9 @@
    "Tagalog": {
       "message": "タガログ語"
    },
+   "Tailored": {
+      "message": "Tailored"
+   },
    "TakestrongextracarestrongnottoshareyourpasswordforsigninAccountIfyouthinkyoursquoveshareditalreadypleaseahrefhttpstwittercomsettingspasswordchangeitnowa": {
       "message": "Take <strong>extra care</strong> not to share your password for @{{signinAccount}}. If you think you&rsquo;ve shared it already, please <a href=\"https://twitter.com/settings/password\">change it now</a>."
    },
@@ -2243,6 +2258,9 @@
    "TheressomethingwrongatTwitterPleasetryagainlater": {
       "message": "Twitter でエラーが発生しました。しばらく待ってからもう一度お試しください"
    },
+   "TherewasaproblemloadingtrendsPleasetryagain": {
+      "message": "トレンドを読み込む際にエラーが発生しました。もう一度お試しください。"
+   },
    "TherewasaproblemresettingyourpasswordPleaseretry": {
       "message": "パスワードを再設定する際にエラーが発生しました。もう一度お試しください。"
    },
@@ -2293,6 +2311,9 @@
    },
    "Thisuserhasbeensuspended": {
       "message": "このユーザーは凍結されています"
+   },
+   "Thisuserhasnocollections": {
+      "message": "このユーザーにはコレクションがありません"
    },
    "Thisuserhasnocustomtimelines": {
       "message": "このユーザーにはカスタム タイムラインがありません"
@@ -2767,6 +2788,9 @@
    },
    "Youdidnotselectanimage": {
       "message": "選択したファイルは画像ファイルではありません。"
+   },
+   "Youdonothaveanycollections": {
+      "message": "あなたにはコレクションはありません"
    },
    "Youdonothaveanycustomtimelines": {
       "message": "あなたのカスタム タイムラインはありません"
