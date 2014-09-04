@@ -224,6 +224,9 @@
    "Addacolumntomonitoryourmentionsretweetsfavouritesfollowsandlistadditionsinrealtime": {
       "message": "Add a column to monitor your mentions, retweets, favourites, follows and list additions in real time"
    },
+   "AddacolumntoviewalertsforaDataminrwatchlist": {
+      "message": "Dataminr のウォッチリスト向けにアラートを表示するカラムを追加してください"
+   },
    "Addacolumntoviewfavouritesfollowsandlistadditionsbyyourfriendsinrealtime": {
       "message": "Add a column to view favourites, follows and list additions by your friends in real time"
    },
@@ -649,6 +652,9 @@
    },
    "Dark": {
       "message": "暗"
+   },
+   "Dataminr": {
+      "message": "Dataminr"
    },
    "Dec": {
       "message": "12"
@@ -1952,6 +1958,9 @@
    "SetTime": {
       "message": "時刻を設定"
    },
+   "Setasdefaultaccount": {
+      "message": "既定のアカウントにする"
+   },
    "Settings": {
       "message": "設定"
    },
@@ -2744,11 +2753,17 @@
    "Youarenotsubscribedtoanylists": {
       "message": "あなたはどのリストにも登録されていません"
    },
+   "Youarenotsubscribedtoanywatchlists": {
+      "message": "あなたはどのウォッチリストにも登録されていません"
+   },
    "YouaresignedinasuserscreenNamesothiswillremovecontributeegetUsernamefromyourTweetDeckandyouwillnolongerbeabletomanagetheteam": {
       "message": "You are signed in as @{{user.screenName}}, so this will remove @{{contributee.getUsername}} from your TweetDeck and you will no longer be able to manage the team"
    },
    "YoucanbreakyourTweetDeckifyouanswerinaccurately": {
       "message": "不正確な回答をすると、あなたの TweetDeck が破損するおそれがあります"
+   },
+   "YoucannolongersignintoTweetDeckwithemailPleasesigninwithscreenNamethetextopen_strongscreenNametextclose_strongscreenNamescreenNameascreenNameTwitterusernameinstead": {
+      "message": "{{email}} では TweetDeck にログインできなくなりました。今後は Twitter ユーザー名{{#screenName}} @{{>text/open_strong}} {{screenName}}{{>text/close_strong}} {{/screenName}}{{^screenName}}{{/screenName}}でログインしてください。"
    },
    "YoucannolongersignintoTweetDeckwithemailscreenNamePleasesigninwithtextopenStrongscreenNametextcloseStrongTwitterusernameinsteadscreenName": {
       "message": "You can no longer sign in to TweetDeck with {{email}}. {{#screenName}}Please sign in with @{{>text/openStrong}}{{screenName}}{{>text/closeStrong}} Twitter username instead. {{/screenName}}"
