@@ -656,6 +656,9 @@
    "Dataminr": {
       "message": "Dataminr"
    },
+   "Dataminrsettings": {
+      "message": "Dataminr の設定"
+   },
    "Dec": {
       "message": "12"
    },
@@ -868,6 +871,12 @@
    },
    "Estonian": {
       "message": "エストニア語"
+   },
+   "EventKeywords": {
+      "message": "Event Keywords"
+   },
+   "EventLocation": {
+      "message": "Event Location: ????"
    },
    "Expand": {
       "message": "展開する"
@@ -1180,6 +1189,9 @@
    },
    "Japanese": {
       "message": "日本語"
+   },
+   "Joined": {
+      "message": "Joined"
    },
    "Jul": {
       "message": "7"
@@ -1523,6 +1535,9 @@
    "Open": {
       "message": "開く"
    },
+   "OpeninDataminr": {
+      "message": "Dataminr で開く"
+   },
    "Options": {
       "message": "オプション"
    },
@@ -1534,6 +1549,9 @@
    },
    "OrganizeandbuildcustomtimelineskeeptrackoflistssearchesactivityandmoreClicktheinthesidebar": {
       "message": "Organize and build custom timelines, keep track of lists, searches, activity and more. Click the + in the sidebar."
+   },
+   "OriginalSource": {
+      "message": "Original Source"
    },
    "OriginalTweet1": {
       "message": "元のツイート: {{1}}"
@@ -1724,6 +1742,9 @@
    "Recent": {
       "message": "最近"
    },
+   "RecentHashtags": {
+      "message": "最近のハッシュタグ"
+   },
    "Recentsearcheswillappearhere": {
       "message": "最近の検索がここに表示されます。"
    },
@@ -1774,6 +1795,9 @@
    },
    "Removingaccount": {
       "message": "アカウントを削除中!"
+   },
+   "Replies": {
+      "message": "返信"
    },
    "Reply": {
       "message": "返信"
@@ -1891,6 +1915,9 @@
    },
    "SearchTwitterusersfor1": {
       "message": "Twitter ユーザーから {{1}} を検索"
+   },
+   "Searchforall": {
+      "message": "Search for all"
    },
    "Searching": {
       "message": "検索中"
@@ -2032,6 +2059,9 @@
    },
    "Sinhala": {
       "message": "シンハラ語"
+   },
+   "Skiptoreplies": {
+      "message": "Skip to replies"
    },
    "Slovak": {
       "message": "スロバキア語"
@@ -2658,7 +2688,7 @@
       "message": "このメールアドレスに関連付けられた TweetDeck アカウントが見つかりませんでした: {{{email}}}"
    },
    "Wehavesentanemailtoemailwithinstructionstoresetyourpassword": {
-      "message": "パスワードを再設定する手順を記したメールを {{email}} にお送りしました。"
+      "message": "パスワードを再設定する手順を記したメールを {{{email}}} にお送りしました。"
    },
    "WelcometoTweetDeck": {
       "message": "TweetDeck へようこそ"
@@ -3035,6 +3065,12 @@
    "columnmanagement": {
       "message": "カラム管理"
    },
+   "countTweets": {
+      "message": "{{count}} ツイート"
+   },
+   "countfollowers": {
+      "message": "{{count}} フォロワー"
+   },
    "customtimelines": {
       "message": "カスタム タイムライン"
    },
@@ -3124,6 +3160,9 @@
    },
    "mentions": {
       "message": "@ツイート"
+   },
+   "monthyear": {
+      "message": "{{month}} {{year}}"
    },
    "more": {
       "message": "続き"
