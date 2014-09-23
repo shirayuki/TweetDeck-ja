@@ -149,6 +149,9 @@
    "Abusive": {
       "message": "規約違反"
    },
+   "Accessingdirectmessages": {
+      "message": "ダイレクト メッセージへのアクセス"
+   },
    "Accessyourdirectmessages": {
       "message": "Access your direct messages."
    },
@@ -263,6 +266,9 @@
    "Addorremovefromlists": {
       "message": "リストに追加または削除…"
    },
+   "Addteammember": {
+      "message": "チームのメンバーを追加"
+   },
    "AddthisTweettoyourwebsitebycopyingthecodebelowIfyourCMSsupportsityoucanjustpasteinthelink": {
       "message": "以下のコードをコピーしてあなたのウェブサイトにツイートを追加しましょう。お使いの CMS が対応している場合はリンク内に貼り付けるだけです。"
    },
@@ -280,6 +286,9 @@
    },
    "Addyourlocation": {
       "message": "自分の位置情報を追加"
+   },
+   "Admin": {
+      "message": "管理者"
    },
    "Afterthischange": {
       "message": "この変更のあと"
@@ -458,6 +467,12 @@
    "CantrecognizeTweetURL": {
       "message": "ツイートの URL を認識できません"
    },
+   "Cantweetandmanageteam": {
+      "message": "ツイートでき、チームを管理できる"
+   },
+   "CantweetascontributeegetUsername": {
+      "message": "@{{contributee.getUsername}} としてツイートできる"
+   },
    "Capture": {
       "message": "キャプチャー"
    },
@@ -469,6 +484,9 @@
    },
    "Changelocation": {
       "message": "場所を変更"
+   },
+   "Changerole": {
+      "message": "役割を変更"
    },
    "Checkforapplicationupdates": {
       "message": "アプリケーションのアップデートを確認"
@@ -551,6 +569,9 @@
    "Compromised": {
       "message": "セキュリティ侵害"
    },
+   "Confirm": {
+      "message": "Confirm"
+   },
    "ConfirmPassword": {
       "message": "パスワードの確認"
    },
@@ -569,6 +590,9 @@
    "Continue": {
       "message": "続行"
    },
+   "Contributor": {
+      "message": "貢献者"
+   },
    "Conversation": {
       "message": "会話"
    },
@@ -580,6 +604,9 @@
    },
    "Couldnotgetcontributorlist": {
       "message": "貢献者一覧を取得できませんでした"
+   },
+   "Couldnotretrieveteammembers": {
+      "message": "チームのメンバーを取得できませんでした。"
    },
    "Create": {
       "message": "作成"
@@ -876,7 +903,7 @@
       "message": "Event Keywords"
    },
    "EventLocation": {
-      "message": "Event Location: ????"
+      "message": "Event Location"
    },
    "Expand": {
       "message": "展開する"
@@ -916,6 +943,9 @@
    },
    "Favoriting": {
       "message": "お気に入りへの登録"
+   },
+   "Favoritingandretweeting": {
+      "message": "お気に入りへの登録とリツイート"
    },
    "Favoritingfailed": {
       "message": "お気に入りに登録できませんでした"
@@ -1298,6 +1328,9 @@
    "Loadinglistmembers": {
       "message": "リストのメンバーを読み込み中…"
    },
+   "Loadingteam": {
+      "message": "チームを読み込み中..."
+   },
    "Loginanyway": {
       "message": "このままログイン"
    },
@@ -1592,6 +1625,9 @@
    "Persian": {
       "message": "ペルシア語"
    },
+   "Photosampvideos": {
+      "message": "画像と動画"
+   },
    "Pictureupload": {
       "message": "画像のアップロード"
    },
@@ -1606,6 +1642,9 @@
    },
    "Ping4": {
       "message": "Ping 4"
+   },
+   "PleasecheckyourDataminrsettings": {
+      "message": "Dataminr の設定を確認してください。"
    },
    "Pleasecheckyouremailpassword": {
       "message": "メールアドレスとパスワードを確認してください。"
@@ -1640,6 +1679,9 @@
    "PleasesigninwithaTwitteraccount": {
       "message": "Twitter アカウントでログインしてください。"
    },
+   "Pleasetryagain": {
+      "message": "もう一度お試しください。"
+   },
    "Pleasetryagainlater": {
       "message": "しばらくしてからもう一度お試しください。"
    },
@@ -1660,6 +1702,9 @@
    },
    "PostTweetsforyou": {
       "message": "Post Tweets for you."
+   },
+   "PostingTweets": {
+      "message": "ツイートの投稿"
    },
    "Postingfrom": {
       "message": "Posting from"
@@ -1793,6 +1838,9 @@
    "Removefromteam": {
       "message": "チームから削除"
    },
+   "RemoveuserscreenNamefromtheteam": {
+      "message": "@{{user.screenName}} をチームから削除しますか?"
+   },
    "Removingaccount": {
       "message": "アカウントを削除中!"
    },
@@ -1915,6 +1963,9 @@
    },
    "SearchTwitterusersfor1": {
       "message": "Twitter ユーザーから {{1}} を検索"
+   },
+   "Searchany": {
+      "message": "Search any"
    },
    "Searchforall": {
       "message": "Search for all"
@@ -2222,6 +2273,12 @@
    "Tamil": {
       "message": "タミル語"
    },
+   "Teammembers": {
+      "message": "チームのメンバー"
+   },
+   "TeammemberscanuseTwitterasaccountscreenNamewithoutknowingthepassword": {
+      "message": "チームのメンバーは、パスワードを知らなくても @{{account.screenName}} として Twitter を使用できます。"
+   },
    "TeamscreenName": {
       "message": "チーム @{{screenName}}"
    },
@@ -2297,6 +2354,15 @@
    "TheressomethingwrongatTwitterPleasetryagainlater": {
       "message": "Twitter でエラーが発生しました。しばらく待ってからもう一度お試しください"
    },
+   "TherewasanerrorchangingtheroleforuserscreenNamePleasetryagain": {
+      "message": "@{{user.screenName}} の役割を変更する際にエラーが発生しました。もう一度お試しください。"
+   },
+   "TherewasanerrorremovinguserscreenNamefromtheteam": {
+      "message": "@{{user.screenName}} をチームから削除する際にエラーが発生しました。"
+   },
+   "TherewasanerrorwhenaddinguserscreenNametotheteam": {
+      "message": "@{{user.screenName}} をチームに追加する際にエラーが発生しました。"
+   },
    "TherewasaproblemloadingtrendsPleasetryagain": {
       "message": "トレンドを読み込む際にエラーが発生しました。もう一度お試しください。"
    },
@@ -2363,6 +2429,9 @@
    "Thisusermaynotbeincontroloftheiraccount": {
       "message": "このユーザーは乗っ取られているかもしれません"
    },
+   "Thisuserwillbeabletotextopen_stronguseTwitterascontributeegetUsernametextclose_strongincluding": {
+      "message": "This user will be able to {{>text/open_strong}}use Twitter as @{{contributee.getUsername}}{{>text/close_strong}}, including:"
+   },
    "Thiswayyoucancontinuesharingaccesstoaclassstartflowlinkhrefhttpstwittercomusernameusernameastrongwithoutcompromisingthesecurityofyouraccountandanyotheraccountsyouconnectinfuturestrong": {
       "message": "This way you can continue sharing access to <a class=\"startflow-link\" href=\"https://twitter.com/{{username}}\">@{{username}}</a>, <strong>without compromising the security of your account and any other accounts you connect in future.</strong>"
    },
@@ -2383,6 +2452,9 @@
    },
    "ToomanynewTweets": {
       "message": "新規ツイートが多すぎます。"
+   },
+   "TopHashtags": {
+      "message": "Top Hashtags"
    },
    "Torememberyouraccountsenablemorefeatures": {
       "message": "自分のアカウントを記憶して、その他の機能を有効にするには"
@@ -2446,6 +2518,9 @@
    },
    "TweetDecknolongerhaspermissiontoaccessaccount1": {
       "message": "TweetDeck はアカウント @{{1}} にアクセスできなくなりました。"
+   },
+   "TweetDecknolongerhaspermissiontoaccessyourDataminraccount": {
+      "message": "TweetDeck no longer has permission to access your Dataminr account."
    },
    "TweetDecknolongerhaspermissiontoaccessyourmainloginaccount1": {
       "message": "TweetDeck はメインのログイン アカウント @{{1}} にアクセスできなくなりました。"
@@ -2524,6 +2599,9 @@
    },
    "Ukrainian": {
       "message": "ウクライナ語"
+   },
+   "Unabletoaccesstothisresource": {
+      "message": "このリソースにアクセスできません"
    },
    "UnabletoaddthatTweet": {
       "message": "そのツイートは追加できません"
@@ -2787,7 +2865,7 @@
       "message": "あなたはどのウォッチリストにも登録されていません"
    },
    "YouaresignedinasuserscreenNamesothiswillremovecontributeegetUsernamefromyourTweetDeckandyouwillnolongerbeabletomanagetheteam": {
-      "message": "You are signed in as @{{user.screenName}}, so this will remove @{{contributee.getUsername}} from your TweetDeck and you will no longer be able to manage the team"
+      "message": "You are signed in as @{{user.screenName}}, so this will remove @{{contributee.getUsername}} from your TweetDeck and you will no longer be able to manage the team."
    },
    "YoucanbreakyourTweetDeckifyouanswerinaccurately": {
       "message": "不正確な回答をすると、あなたの TweetDeck が破損するおそれがあります"
@@ -3289,6 +3367,9 @@
    },
    "search": {
       "message": "検索"
+   },
+   "searchall": {
+      "message": "search all"
    },
    "searches": {
       "message": "検索"
