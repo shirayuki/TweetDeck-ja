@@ -149,6 +149,9 @@
    "Abusive": {
       "message": "規約違反"
    },
+   "Accept": {
+      "message": "Accept"
+   },
    "Accessingdirectmessages": {
       "message": "ダイレクト メッセージへのアクセス"
    },
@@ -688,6 +691,9 @@
    },
    "Dec": {
       "message": "12"
+   },
+   "Decline": {
+      "message": "Decline"
    },
    "Defaultaccount": {
       "message": "既定のアカウント"
@@ -1481,6 +1487,9 @@
    "Newdirectmessage": {
       "message": "ダイレクト メッセージ"
    },
+   "Newmessage": {
+      "message": "New message"
+   },
    "NewsFeed": {
       "message": "ニュース フィード"
    },
@@ -1773,7 +1782,7 @@
       "message": "折りたたむ"
    },
    "Readmoreaboutteams": {
-      "message": "Read more about teams"
+      "message": "Read more about teams."
    },
    "Readmoreaboutthisprocess": {
       "message": "Read more about this process"
@@ -2766,7 +2775,7 @@
       "message": "このメールアドレスに関連付けられた TweetDeck アカウントが見つかりませんでした: {{{email}}}"
    },
    "Wehavesentanemailtoemailwithinstructionstoresetyourpassword": {
-      "message": "パスワードを再設定する手順を記したメールを {{{email}}} にお送りしました。"
+      "message": "パスワードを再設定する手順を記したメールを {{email}} にお送りしました。"
    },
    "WelcometoTweetDeck": {
       "message": "TweetDeck へようこそ"
@@ -2935,6 +2944,9 @@
    },
    "Youhavealreadyattachedanimage": {
       "message": "画像を既に添付しています。"
+   },
+   "YouhavebeeninvitedtocontributetothescreenNameteam": {
+      "message": "You have been invited to contribute to the @{{screenName}} team."
    },
    "YouhavebeentemporarilylockedoutofyouraccountPleasetryagainlater": {
       "message": "あなたのアカウントは一時的にログイン禁止にされています。しばらくしてからもう一度お試しください。"
