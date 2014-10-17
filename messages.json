@@ -2885,8 +2885,17 @@
    "YoucannolongersignintoTweetDeckwithemailscreenNamePleasesigninwithtextopenStrongscreenNametextcloseStrongTwitterusernameinsteadscreenName": {
       "message": "You can no longer sign in to TweetDeck with {{email}}. {{#screenName}}Please sign in with @{{>text/openStrong}}{{screenName}}{{>text/closeStrong}} Twitter username instead. {{/screenName}}"
    },
+   "Youcannotaddausertotheirownteamtheycanalreadycontributetothisaccount": {
+      "message": "ユーザーを自身のチームには追加できません — このユーザーは既にこのアカウントに貢献できます。"
+   },
+   "Youcannotaddmorethanmaximages": {
+      "message": "追加できる画像は {{max}} 件までです"
+   },
    "Youcannotaddmorethanoneimage": {
       "message": "追加できる画像は 1 件のみです"
+   },
+   "Youcannotattachmorethanmaxfiles": {
+      "message": "添付できるファイルは {{max}} 件までです。"
    },
    "YoucannotfavoritethisprotectedTweet": {
       "message": "あなたはこの非公開ツイートをお気に入りに登録できません"
@@ -2944,6 +2953,9 @@
    },
    "Youhavealreadyattachedanimage": {
       "message": "画像を既に添付しています。"
+   },
+   "Youhavealreadyattachedmaximages": {
+      "message": "{{max}} 件の画像を既に添付しています。"
    },
    "YouhavebeeninvitedtocontributetothescreenNameteam": {
       "message": "You have been invited to contribute to the @{{screenName}} team."
