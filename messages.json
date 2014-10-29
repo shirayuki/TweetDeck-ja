@@ -917,6 +917,9 @@
    "Expandandcollapsenavigationasyouwish": {
       "message": "ナビゲーションは自由に展開/折り畳みできます。"
    },
+   "Failed": {
+      "message": "失敗しました"
+   },
    "Failed1": {
       "message": "失敗しました: {{1}}"
    },
